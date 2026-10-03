@@ -1,0 +1,351 @@
+{
+ "updated": "2026-10-03 08:53 UTC",
+ "competition": "FIBA Champions League 2026–2027",
+ "leagues": [
+  {
+   "league": "ACB",
+   "teams": [
+    {
+     "name": "UCAM Murcia",
+     "g": "D",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "Unicaja",
+     "g": "E",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "Surne Bilbao",
+     "g": "G",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "Joventut",
+     "g": "H",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  },
+  {
+   "league": "BBL",
+   "teams": [
+    {
+     "name": "Bamberg",
+     "g": "D",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "ALBA Berlin",
+     "g": "G",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "Telekom Baskets Bonn",
+     "g": "H",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  },
+  {
+   "league": "LNB (Prancūzija)",
+   "teams": [
+    {
+     "name": "Nanterre 92",
+     "g": "A",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "SIG Strasbourg",
+     "g": "B",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "Cholet",
+     "g": "F",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  },
+  {
+   "league": "Lega A",
+   "teams": [
+    {
+     "name": "Varese",
+     "g": "D",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "Reggiana",
+     "g": "E",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  },
+  {
+   "league": "Basket League (Graikija)",
+   "teams": [
+    {
+     "name": "AEK Athens",
+     "g": "C",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "Peristeri",
+     "g": "D",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  },
+  {
+   "league": "LKL",
+   "teams": [
+    {
+     "name": "Rytas",
+     "g": "A",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "Juventus Utena",
+     "g": "E",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  },
+  {
+   "league": "Super Lig (Turkija)",
+   "teams": [
+    {
+     "name": "Trabzonspor",
+     "g": "A",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "Galatasaray",
+     "g": "B",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  },
+  {
+   "league": "Super League (Izraelis)",
+   "teams": [
+    {
+     "name": "Hapoel Holon",
+     "g": "F",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "Bnei Herzliya",
+     "g": "H",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  },
+  {
+   "league": "NBL (Čekija)",
+   "teams": [
+    {
+     "name": "KVIS Pardubice",
+     "g": "E",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "Slavia Praha",
+     "g": "G",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  },
+  {
+   "league": "ABA lyga",
+   "teams": [
+    {
+     "name": "Cibona",
+     "g": "B",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "Spartak Subotica",
+     "g": "F",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    },
+    {
+     "name": "Igokea",
+     "g": "G",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  },
+  {
+   "league": "Basket Liga (Lenkija)",
+   "teams": [
+    {
+     "name": "Legia Warszawa",
+     "g": "B",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  },
+  {
+   "league": "NB I/A (Vengrija)",
+   "teams": [
+    {
+     "name": "Falco Szombathely",
+     "g": "C",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  },
+  {
+   "league": "Belgija",
+   "teams": [
+    {
+     "name": "Antwerp Giants",
+     "g": "C",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  },
+  {
+   "league": "Portugalija",
+   "teams": [
+    {
+     "name": "FC Porto",
+     "g": "H",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  },
+  {
+   "league": "Azerbaidžanas",
+   "teams": [
+    {
+     "name": "Sabah",
+     "g": "A",
+     "logo": null,
+     "pos": null,
+     "rec": null,
+     "form": [],
+     "next": null
+    }
+   ]
+  }
+ ]
+}
