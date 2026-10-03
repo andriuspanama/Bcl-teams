@@ -1,0 +1,36 @@
+{
+ "competition": "FIBA Champions League 2026–2027",
+ "note": "hdr = teksto dalis Flashscore lygos antraštėje (pvz. 'SPAIN: ACB'). fs = nebūtina: komandos nuoroda Flashscore, jei automatinė paieška suklysta, pvz. 'team/unicaja/xxxx'.",
+ "leagues": [
+  {"league":"ACB","hdr":"SPAIN: ACB","teams":[
+    {"name":"UCAM Murcia","g":"D"},{"name":"Unicaja","g":"E"},{"name":"Surne Bilbao","g":"G"},{"name":"Joventut","g":"H"}]},
+  {"league":"BBL","hdr":"GERMANY: BBL","teams":[
+    {"name":"Bamberg","g":"D"},{"name":"ALBA Berlin","g":"G"},{"name":"Telekom Baskets Bonn","g":"H"}]},
+  {"league":"LNB (Prancūzija)","hdr":"FRANCE: LNB","teams":[
+    {"name":"Nanterre 92","g":"A"},{"name":"SIG Strasbourg","g":"B"},{"name":"Cholet","g":"F"}]},
+  {"league":"Lega A","hdr":"ITALY: Lega A","teams":[
+    {"name":"Varese","g":"D"},{"name":"Reggiana","g":"E"}]},
+  {"league":"Basket League (Graikija)","hdr":"GREECE: Basket League","teams":[
+    {"name":"AEK Athens","g":"C"},{"name":"Peristeri","g":"D"}]},
+  {"league":"LKL","hdr":"LITHUANIA: LKL","teams":[
+    {"name":"Rytas","g":"A"},{"name":"Juventus Utena","g":"E"}]},
+  {"league":"Super Lig (Turkija)","hdr":"TURKEY: Super Lig","teams":[
+    {"name":"Trabzonspor","g":"A"},{"name":"Galatasaray","g":"B"}]},
+  {"league":"Super League (Izraelis)","hdr":"ISRAEL: Super League","teams":[
+    {"name":"Hapoel Holon","g":"F"},{"name":"Bnei Herzliya","g":"H"}]},
+  {"league":"NBL (Čekija)","hdr":"CZECH REPUBLIC: NBL","teams":[
+    {"name":"KVIS Pardubice","g":"E"},{"name":"Slavia Praha","g":"G"}]},
+  {"league":"ABA lyga","hdr":"ABA League","teams":[
+    {"name":"Cibona","g":"B"},{"name":"Spartak Subotica","g":"F"},{"name":"Igokea","g":"G"}]},
+  {"league":"Basket Liga (Lenkija)","hdr":"POLAND: Basket Liga","teams":[
+    {"name":"Legia Warszawa","g":"B"}]},
+  {"league":"NB I/A (Vengrija)","hdr":"HUNGARY: NB I/A","teams":[
+    {"name":"Falco Szombathely","g":"C"}]},
+  {"league":"Belgija","hdr":"BELGIUM:","teams":[
+    {"name":"Antwerp Giants","g":"C"}]},
+  {"league":"Portugalija","hdr":"PORTUGAL:","teams":[
+    {"name":"FC Porto","g":"H"}]},
+  {"league":"Azerbaidžanas","hdr":"AZERBAIJAN:","teams":[
+    {"name":"Sabah","g":"A"}]}
+ ]
+}
