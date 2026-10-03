@@ -197,10 +197,14 @@ def main():
                         league_href = country_cache[country]
                         if league_href:
                             league_name = league_href.strip("/").split("/")[-1].replace("-", " ").title()
-                if not league_href:
-                    entry["note"] = "Nacionalinė lyga nerasta"
+                
+                    if not league_href:
+                    entry["league"] = "Lygos duomenų Flashscore nėra"
+                    entry["note"] = "Šalies lyga Flashscore nerodoma"
                     data["teams"].append(entry)
                     continue
+ 
+           
                 entry["league"] = league_name
 
                 res = [team_result(m, t["name"]) for m in res_m
