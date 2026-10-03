@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="lt"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Champions League · komandos savo lygose</title>
+<style>
+:root{--bg:#fff;--fg:#111;--mut:#8b8b8b;--line:#ececec;--card:#fafafa;--acc:#ff6a00;--w:#1f9d55;--l:#d64545}
+@media(prefers-color-scheme:dark){:root{--bg:#0e0e0e;--fg:#f2f2f2;--mut:#8a8a8a;--line:#242424;--card:#161616;--w:#3ec27a;--l:#ef6b6b}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.4 system-ui,-apple-system,Roboto,sans-serif}
+main{max-width:720px;margin:0 auto;padding:20px 14px 60px}
+header h1{font-size:22px;font-weight:600;letter-spacing:-.02em;margin:0}
+header p{margin:2px 0 0;color:var(--mut);font-size:12.5px}
+.bar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:18px 0 6px}
+.seg{display:flex;border:1px solid var(--line);border-radius:9px;overflow:hidden}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+.seg button{padding:6px 12px;font-size:13px;color:var(--mut)}
+.seg button.on{background:var(--fg);color:var(--bg)}
+.chip{border:1px solid var(--line);border-radius:9px;padding:6px 11px;font-size:13px;color:var(--mut)}
+.chip.on{color:var(--acc);border-color:var(--acc)}
+input{flex:1;min-width:130px;font:inherit;font-size:14px;color:var(--fg);background:none;border:0;border-bottom:1px solid var(--line);padding:6px 2px;outline:0}
+input:focus{border-color:var(--fg)}
+.sec>button{width:100%;display:flex;align-items:center;gap:8px;padding:22px 0 8px;text-align:left;font-weight:600;font-size:14px}
+.sec>button img{height:16px;max-width:38px;object-fit:contain}
+.sec>button .n{color:var(--mut);font-weight:400;font-size:12px}
+.sec>button .ch{margin-left:auto;color:var(--mut);transition:transform .2s}
+.sec.closed>button .ch{transform:rotate(-90deg)}
+.sec.closed .list{display:none}
+.team{border-bottom:1px solid var(--line)}
+.row{display:flex;align-items:center;gap:12px;padding:11px 2px;cursor:pointer}
+.row img{width:26px;height:26px;object-fit:contain;flex:none}
+.logo0{width:26px;height:26px;flex:none}
+.nm{flex:1;min-width:0;font-size:15px;font-weight:500}
+.nm small{display:block;color:var(--mut);font-weight:400;font-size:11.5px}
+.pos{width:26px;text-align:right;font-weight:700;font-variant-numeric:tabular-nums}
+.rec{width:38px;color:var(--mut);font-variant-numeric:tabular-nums;font-size:13.5px}
+.dots{display:flex;gap:4px;width:62px;justify-content:flex-end}
+.dots i{width:8px;height:8px;border-radius:50%}
+.W{background:var(--w)}.L{background:var(--l)}
+.star{color:var(--line);font-size:18px;padding:0 2px;line-height:1}
+.star.on{color:var(--acc)}
+.more{display:grid;grid-template-rows:0fr;transition:grid-template-rows .22s ease}
+.team.open .more{grid-template-rows:1fr}
+.more>div{overflow:hidden}
+.inner{background:var(--card);border-radius:10px;padding:12px 14px;margin:0 0 12px;font-size:13.5px}
+.inner .k{color:var(--mut);font-size:11.5px;text-transform:uppercase;letter-spacing:.06em;margin:0 0 4px}
+.inner .k:not(:first-child){margin-top:12px}
+.g{display:flex;gap:10px;align-items:center;padding:3px 0}
+.g b{width:18px;height:18px;border-radius:5px;color:#fff;font-size:10.5px;display:flex;align-items:center;justify-content:center}
+.g span:last-child{margin-left:auto;color:var(--mut);font-variant-numeric:tabular-nums}
+.mut{color:var(--mut)}
+.empty{color:var(--mut);padding:40px 0;text-align:center}
+</style></head><body><main>
+<header><h1>Champions League</h1><p id="u">Kraunama…</p></header>
+<div class="bar">
+ <div class="seg"><button data-v="lygos">Lygos</button><button data-v="grupes">Grupės</button></div>
+ <button class="chip" id="fav">★ Mėgstamos</button>
+ <input id="q" type="search" placeholder="Ieškoti komandos…" aria-label="Paieška">
+</div>
+<div id="list"></div>
+</main>
+<script>
+const GR={A:["nanterre","rytas","sabah","trabzonspor"],B:["cibona","galatasaray","legia","strasbourg"],
+C:["aek","szombathely","antwerp","vilpas"],D:["bamberg","varese","peristeri","murcia"],
+E:["juventus","pardubice","reggiana","unicaja"],F:["cholet","holon","spartak","vechta"],
+G:["alba","igokea","slavia","bilbao"],H:["joventut","herzliya","porto","bonn"]};
+const grp=n=>{n=n.toLowerCase();for(const g in GR)if(GR[g].some(k=>n.includes(k)))return g;return"?"};
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const def={view:"lygos",fav:[],closed:[],onlyFav:false};
+let S=def;try{S={...def,...JSON.parse(localStorage.getItem("bcl")||"{}")}}catch(e){}
+const save=()=>{try{localStorage.setItem("bcl",JSON.stringify(S))}catch(e){}};
+const openSet=new Set();let D=null,Q="";
+
+function teamHTML(t,showLeague){
+ const dots=t.last5.map(r=>`<i class="${r.wl}" title="${esc(r.opponent)} ${esc(r.score)}"></i>`).join("");
+ const f=S.fav.includes(t.name);
+ const img=t.logo?`<img src="${esc(t.logo)}" alt="" loading="lazy">`:`<span class="logo0"></span>`;
+ const games=t.last5.length?t.last5.map(r=>`<div class="g"><b class="${r.wl}">${r.wl}</b><span>${esc(r.opponent)} <span class="mut">· ${r.venue==="H"?"namie":"išvykoje"}</span></span><span>${esc(r.score)}</span></div>`).join(""):`<span class="mut">Sužaistų rungtynių dar nėra</span>`;
+ const nx=t.next?`${esc(t.next.date)} prieš ${esc(t.next.opponent)}`:`<span class="mut">Nežinoma</span>`;
+ return `<div class="team${openSet.has(t.name)?" open":""}" data-n="${esc(t.name)}">
+ <div class="row" data-a="open">${img}<span class="nm">${esc(t.name)}${showLeague?`<small>${esc(t.league||"")}</small>`:""}</span>
+ <span class="pos">${t.rank??"–"}</span><span class="rec">${esc(t.record)}</span><span class="dots">${dots}</span>
+ <button class="star${f?" on":""}" data-a="fav" aria-label="Mėgstama">★</button></div>
+ <div class="more"><div><div class="inner">
+  <p class="k">Grupė</p><div>${grp(t.name)} grupė${t.note&&!t.rank?` <span class="mut">· ${esc(t.note)}</span>`:""}</div>
+  <p class="k">Kitos rungtynės</p><div>${nx}</div>
+  <p class="k">Paskutinės rungtynės</p>${games}
+ </div></div></div></div>`;
+}
+function sec(id,title,logo,teams,showLeague){
+ if(!teams.length)return"";
+ const closed=S.closed.includes(id)&&!Q;
+ return `<section class="sec${closed?" closed":""}" data-id="${esc(id)}"><button data-a="sec">${logo?`<img src="${esc(logo)}" alt="">`:""}${esc(title)}<span class="n">${teams.length}</span><span class="ch">⌄</span></button>
+ <div class="list">${teams.map(t=>teamHTML(t,showLeague)).join("")}</div></section>`;
+}
+function render(){
+ if(!D)return;
+ document.querySelectorAll(".seg button").forEach(b=>b.classList.toggle("on",b.dataset.v===S.view));
+ $fav.classList.toggle("on",S.onlyFav);
+ let ts=D.teams.filter(t=>(!Q||(t.name+" "+(t.league||"")).toLowerCase().includes(Q))&&(!S.onlyFav||S.fav.includes(t.name)));
+ const byRank=(a,b)=>(a.rank==null)-(b.rank==null)||(a.rank||0)-(b.rank||0)||a.name.localeCompare(b.name);
+ let h="";
+ if(S.view==="lygos"){
+  const favs=ts.filter(t=>S.fav.includes(t.name)).sort(byRank);
+  if(!S.onlyFav)h+=sec("_fav","★ Mėgstamos","",favs,true);
+  const m={};ts.forEach(t=>(m[t.league||"Lyga nenustatyta"]??=[]).push(t));
+  Object.keys(m).sort((a,b)=>a.localeCompare(b)).forEach(l=>{
+   const logo=(m[l].find(t=>t.league_logo)||{}).league_logo||"";
+   h+=sec(l,l,logo,m[l].sort(byRank),false)});
+ }else{
+  Object.keys(GR).forEach(g=>{h+=sec("g"+g,g+" grupė","",ts.filter(t=>grp(t.name)===g).sort((a,b)=>a.name.localeCompare(b.name)),true)});
+  h+=sec("g?","Kitos","",ts.filter(t=>grp(t.name)==="?"),true);
+ }
+ $list.innerHTML=h||`<div class="empty">Nieko nerasta</div>`;
+}
+const $list=document.getElementById("list"),$fav=document.getElementById("fav");
+document.addEventListener("click",e=>{
+ const v=e.target.closest("[data-v]");
+ if(v){S.view=v.dataset.v;save();return render()}
+ if(e.target.closest("#fav")){S.onlyFav=!S.onlyFav;save();return render()}
+ const a=e.target.closest("[data-a]");if(!a)return;
+ const act=a.dataset.a;
+ if(act==="sec"){const s=a.closest(".sec"),id=s.dataset.id;
+  s.classList.toggle("closed");S.closed=s.classList.contains("closed")?[...new Set([...S.closed,id])]:S.closed.filter(x=>x!==id);save()}
+ else if(act==="fav"){e.stopPropagation();const n=a.closest(".team").dataset.n;
+  S.fav=S.fav.includes(n)?S.fav.filter(x=>x!==n):[...S.fav,n];save();render()}
+ else if(act==="open"){const t=a.closest(".team"),n=t.dataset.n;t.classList.toggle("open");
+  t.classList.contains("open")?openSet.add(n):openSet.delete(n)}
+});
+document.getElementById("q").addEventListener("input",e=>{Q=e.target.value.trim().toLowerCase();render()});
+fetch("data.json?"+Date.now()).then(r=>r.json()).then(d=>{D=d;
+ document.getElementById("u").textContent="Atnaujinta "+d.updated+" · Flashscore";render()})
+ .catch(()=>{document.getElementById("u").textContent="Nepavyko įkelti duomenų"});
+</script></body></html>
