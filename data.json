@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-04 22:20",
+ "updated": "2026-10-04 22:34",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -247,53 +247,35 @@
   {
    "name": "Cibona",
    "logo": "logos/e29523e50e3b.png",
-   "league": "Premijer liga",
-   "league_logo": "logos/e178c9671c94.png",
-   "rank": 3,
-   "record": "2-0",
+   "league": "Adrijos lyga",
+   "league_logo": "logos/4ecaeb496585.png",
+   "rank": 10,
+   "record": "0-1",
    "last5": [
     {
-     "wl": "W",
-     "score": "100:84",
-     "opponent": "Zabok",
-     "venue": "H",
-     "date": "30.09. 17:00",
-     "pf": 100,
-     "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "78:84",
-     "opponent": "Alkar",
+     "wl": "L",
+     "score": "89:76",
+     "opponent": "Cedevita Olimpija",
      "venue": "A",
-     "date": "27.09. 16:00",
-     "pf": 84,
-     "pa": 78
+     "date": "03.10. 15:00",
+     "pf": 76,
+     "pa": 89
     }
    ],
    "games": [
     {
-     "wl": "W",
-     "score": "100:84",
-     "opponent": "Zabok",
-     "venue": "H",
-     "date": "30.09. 17:00",
-     "pf": 100,
-     "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "78:84",
-     "opponent": "Alkar",
+     "wl": "L",
+     "score": "89:76",
+     "opponent": "Cedevita Olimpija",
      "venue": "A",
-     "date": "27.09. 16:00",
-     "pf": 84,
-     "pa": 78
+     "date": "03.10. 15:00",
+     "pf": 76,
+     "pa": 89
     }
    ],
    "next": {
-    "date": "11.10. 16:00",
-    "opponent": "Samobor"
+    "date": "12.10. 17:00",
+    "opponent": "Slovan Bratislava"
    },
    "note": ""
   },
@@ -1182,17 +1164,37 @@
   {
    "name": "Spartak Subotica",
    "logo": "logos/3e1e7c9cc3b4.png",
-   "league": "Superleague",
-   "league_logo": "logos/e651585f571a.png",
-   "rank": null,
-   "record": "",
-   "last5": [],
-   "games": [],
+   "league": "Adrijos lyga",
+   "league_logo": "logos/4ecaeb496585.png",
+   "rank": 6,
+   "record": "0-1",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "79:95",
+     "opponent": "KK Bosna",
+     "venue": "H",
+     "date": "03.10. 17:00",
+     "pf": 79,
+     "pa": 95
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "79:95",
+     "opponent": "KK Bosna",
+     "venue": "H",
+     "date": "03.10. 17:00",
+     "pf": 79,
+     "pa": 95
+    }
+   ],
    "next": {
-    "date": "07.10. 18:00",
-    "opponent": "Vechta"
+    "date": "10.10. 15:30",
+    "opponent": "Perspektiva Ilirija"
    },
-   "note": "Lygos sezonas dar nepradėtas"
+   "note": ""
   },
   {
    "name": "Alba Berlin",
@@ -1339,17 +1341,37 @@
   {
    "name": "Igokea",
    "logo": "logos/0abf3f361f89.png",
-   "league": "Prvenstvo BiH",
-   "league_logo": "logos/f221c78a0ecf.png",
-   "rank": null,
-   "record": "",
-   "last5": [],
-   "games": [],
+   "league": "Adrijos lyga",
+   "league_logo": "logos/4ecaeb496585.png",
+   "rank": 2,
+   "record": "1-0",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "97:89",
+     "opponent": "Slovan Bratislava",
+     "venue": "H",
+     "date": "03.10. 15:00",
+     "pf": 97,
+     "pa": 89
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "97:89",
+     "opponent": "Slovan Bratislava",
+     "venue": "H",
+     "date": "03.10. 15:00",
+     "pf": 97,
+     "pa": 89
+    }
+   ],
    "next": {
-    "date": "06.10. 18:00",
-    "opponent": "Bilbao"
+    "date": "10.10. 17:00",
+    "opponent": "Borac Mozzart"
    },
-   "note": "Lygos sezonas dar nepradėtas"
+   "note": ""
   },
   {
    "name": "Slavia Prague ERA NBK",
