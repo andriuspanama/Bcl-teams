@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-04 18:16",
+ "updated": "2026-10-04 19:14",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -306,8 +306,8 @@
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 17,
-   "record": "0-1",
+   "rank": 9,
+   "record": "1-1",
    "last5": [
     {
      "wl": "L",
@@ -387,7 +387,7 @@
    "logo": "logos/13f74fd364a6.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 16,
+   "rank": 17,
    "record": "0-2",
    "last5": [
     {
@@ -459,7 +459,7 @@
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
    "league_logo": "logos/b55c66fda764.png",
-   "rank": 15,
+   "rank": 14,
    "record": "0-2",
    "last5": [
     {
@@ -652,7 +652,7 @@
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 4,
+   "rank": 5,
    "record": "1-1",
    "last5": [
     {
@@ -791,7 +791,7 @@
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 15,
+   "rank": 16,
    "record": "0-1",
    "last5": [
     {
