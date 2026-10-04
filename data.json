@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-03 10:32",
+ "updated": "2026-10-04 00:13",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -35,7 +35,7 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 6,
+   "rank": 11,
    "record": "1-0",
    "last5": [
     {
@@ -57,33 +57,46 @@
    "league": "LKL",
    "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 9,
-   "record": "0-0",
-   "last5": [],
+   "record": "0-1",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "102:105",
+     "opponent": "Gargzdai",
+     "venue": "H"
+    }
+   ],
    "next": {
-    "date": "03.10. 13:50",
-    "opponent": "Gargzdai"
+    "date": "10.10. 13:50",
+    "opponent": "Neptunas"
    },
    "note": ""
   },
   {
    "name": "Sabah Baku",
    "logo": "logos/822d98247b1b.png",
-   "league": null,
+   "league": "Azerbaidžanas (lygos Flashscore nėra)",
    "league_logo": "",
    "rank": null,
    "record": "",
    "last5": [],
    "next": null,
-   "note": "Nacionalinė lyga nerasta"
+   "note": ""
   },
   {
    "name": "Strasbourg",
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
    "league_logo": "logos/d3db0986330a.png",
-   "rank": 14,
-   "record": "0-1",
+   "rank": 9,
+   "record": "1-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "87:75",
+     "opponent": "Boulazac",
+     "venue": "H"
+    },
     {
      "wl": "L",
      "score": "81:72",
@@ -92,8 +105,8 @@
     }
    ],
    "next": {
-    "date": "03.10. 16:00",
-    "opponent": "Boulazac"
+    "date": "11.10. 14:30",
+    "opponent": "Paris"
    },
    "note": ""
   },
@@ -102,7 +115,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 2,
+   "rank": 6,
    "record": "1-1",
    "last5": [
     {
@@ -156,7 +169,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/6068c9c00b10.png",
-   "rank": 2,
+   "rank": 5,
    "record": "1-0",
    "last5": [
     {
@@ -177,12 +190,19 @@
    "logo": "logos/e8fa983046df.png",
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
-   "rank": 3,
-   "record": "0-0",
-   "last5": [],
+   "rank": 1,
+   "record": "1-0",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "91:70",
+     "opponent": "Maroussi",
+     "venue": "H"
+    }
+   ],
    "next": {
-    "date": "03.10. 13:00",
-    "opponent": "Maroussi"
+    "date": "10.10. 14:30",
+    "opponent": "Aris"
    },
    "note": ""
   },
@@ -195,8 +215,8 @@
    "record": "",
    "last5": [],
    "next": {
-    "date": "03.10. 18:30",
-    "opponent": "Belfius Mons"
+    "date": "07.10. 18:00",
+    "opponent": "Szombathely"
    },
    "note": "Lygos sezonas dar nepradėtas"
   },
@@ -205,9 +225,15 @@
    "logo": "logos/047cf29bd231.png",
    "league": "Korisliiga",
    "league_logo": "logos/2a39fb1c52b4.png",
-   "rank": 8,
-   "record": "0-1",
+   "rank": 5,
+   "record": "1-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "79:97",
+     "opponent": "Pyrinto Tampere",
+     "venue": "A"
+    },
     {
      "wl": "L",
      "score": "104:107",
@@ -216,8 +242,8 @@
     }
    ],
    "next": {
-    "date": "03.10. 15:00",
-    "opponent": "Pyrinto Tampere"
+    "date": "10.10. 15:00",
+    "opponent": "UU-Korihait Uusikaupunki"
    },
    "note": ""
   },
@@ -226,9 +252,15 @@
    "logo": "logos/9fb8bfa07c32.png",
    "league": "NB I. A",
    "league_logo": "logos/61a093b35850.png",
-   "rank": 5,
-   "record": "1-0",
+   "rank": 1,
+   "record": "2-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "74:98",
+     "opponent": "OSE Lions",
+     "venue": "A"
+    },
     {
      "wl": "W",
      "score": "94:75",
@@ -237,8 +269,8 @@
     }
    ],
    "next": {
-    "date": "03.10. 16:00",
-    "opponent": "OSE Lions"
+    "date": "10.10. 16:00",
+    "opponent": "Szedeak"
    },
    "note": ""
   },
@@ -247,7 +279,7 @@
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
    "league_logo": "logos/b55c66fda764.png",
-   "rank": 15,
+   "rank": 14,
    "record": "0-1",
    "last5": [
     {
@@ -290,8 +322,14 @@
    "league": "BBL",
    "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 12,
-   "record": "1-2",
+   "record": "2-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "83:98",
+     "opponent": "Alba Berlin",
+     "venue": "A"
+    },
     {
      "wl": "L",
      "score": "96:103",
@@ -312,8 +350,8 @@
     }
    ],
    "next": {
-    "date": "03.10. 16:30",
-    "opponent": "Alba Berlin"
+    "date": "10.10. 16:30",
+    "opponent": "Syntainics MBC"
    },
    "note": ""
   },
@@ -322,12 +360,19 @@
    "logo": "logos/bc3941e9ed93.png",
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
-   "rank": 7,
-   "record": "0-0",
-   "last5": [],
+   "rank": 3,
+   "record": "1-0",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "88:94",
+     "opponent": "Promitheas",
+     "venue": "A"
+    }
+   ],
    "next": {
-    "date": "03.10. 14:00",
-    "opponent": "Promitheas"
+    "date": "10.10. 12:00",
+    "opponent": "Iraklis"
    },
    "note": ""
   },
@@ -336,9 +381,15 @@
    "logo": "logos/13f74fd364a6.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 12,
-   "record": "0-1",
+   "rank": 15,
+   "record": "0-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "75:80",
+     "opponent": "Tenerife",
+     "venue": "H"
+    },
     {
      "wl": "L",
      "score": "89:87",
@@ -347,8 +398,8 @@
     }
    ],
    "next": {
-    "date": "03.10. 17:30",
-    "opponent": "Tenerife"
+    "date": "10.10. 17:30",
+    "opponent": "MoraBanc Andorra"
    },
    "note": ""
   },
@@ -358,8 +409,14 @@
    "league": "NBL",
    "league_logo": "logos/50067aa1be3f.png",
    "rank": 2,
-   "record": "4-0",
+   "record": "5-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "110:98",
+     "opponent": "NH Ostrava",
+     "venue": "H"
+    },
     {
      "wl": "W",
      "score": "82:92",
@@ -386,8 +443,8 @@
     }
    ],
    "next": {
-    "date": "03.10. 15:30",
-    "opponent": "NH Ostrava"
+    "date": "10.10. 10:00",
+    "opponent": "Slavia Prague ERA NBK"
    },
    "note": ""
   },
@@ -396,9 +453,15 @@
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
    "league_logo": "logos/b55c66fda764.png",
-   "rank": 10,
-   "record": "0-1",
+   "rank": 16,
+   "record": "0-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "99:93",
+     "opponent": "Basket Napoli",
+     "venue": "A"
+    },
     {
      "wl": "L",
      "score": "78:83",
@@ -407,8 +470,8 @@
     }
    ],
    "next": {
-    "date": "03.10. 18:30",
-    "opponent": "Basket Napoli"
+    "date": "11.10. 15:00",
+    "opponent": "Tortona"
    },
    "note": ""
   },
@@ -417,7 +480,7 @@
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
    "league_logo": "logos/e5d4a9d7c1bb.png",
-   "rank": 8,
+   "rank": 7,
    "record": "1-2",
    "last5": [
     {
@@ -464,9 +527,15 @@
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
    "league_logo": "logos/d3db0986330a.png",
-   "rank": 15,
-   "record": "0-1",
+   "rank": 10,
+   "record": "1-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "76:85",
+     "opponent": "Nancy",
+     "venue": "A"
+    },
     {
      "wl": "L",
      "score": "85:97",
@@ -475,8 +544,8 @@
     }
    ],
    "next": {
-    "date": "03.10. 16:00",
-    "opponent": "Nancy"
+    "date": "10.10. 16:00",
+    "opponent": "Pau-Orthez"
    },
    "note": ""
   },
@@ -522,8 +591,8 @@
    "record": "",
    "last5": [],
    "next": {
-    "date": "03.10. 17:00",
-    "opponent": "KK Bosna"
+    "date": "07.10. 18:00",
+    "opponent": "Vechta"
    },
    "note": "Lygos sezonas dar nepradėtas"
   },
@@ -532,9 +601,15 @@
    "logo": "logos/6a6627a79bbc.png",
    "league": "BBL",
    "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 7,
-   "record": "2-1",
+   "rank": 10,
+   "record": "2-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "83:98",
+     "opponent": "Bamberg",
+     "venue": "H"
+    },
     {
      "wl": "L",
      "score": "95:61",
@@ -555,8 +630,8 @@
     }
    ],
    "next": {
-    "date": "03.10. 16:30",
-    "opponent": "Bamberg"
+    "date": "10.10. 18:00",
+    "opponent": "Trier"
    },
    "note": ""
   },
@@ -565,7 +640,7 @@
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 2,
+   "rank": 3,
    "record": "1-0",
    "last5": [
     {
@@ -590,8 +665,8 @@
    "record": "",
    "last5": [],
    "next": {
-    "date": "03.10. 15:00",
-    "opponent": "Slovan Bratislava"
+    "date": "06.10. 18:00",
+    "opponent": "Bilbao"
    },
    "note": "Lygos sezonas dar nepradėtas"
   },
@@ -601,8 +676,14 @@
    "league": "NBL",
    "league_logo": "logos/50067aa1be3f.png",
    "rank": 1,
-   "record": "4-0",
+   "record": "5-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "75:101",
+     "opponent": "Hradec Kralove",
+     "venue": "A"
+    },
     {
      "wl": "W",
      "score": "88:62",
@@ -629,8 +710,8 @@
     }
    ],
    "next": {
-    "date": "03.10. 16:00",
-    "opponent": "Hradec Kralove"
+    "date": "10.10. 10:00",
+    "opponent": "Pardubice"
    },
    "note": ""
   },
@@ -639,7 +720,7 @@
    "logo": "logos/53eba8f126e3.png",
    "league": "BBL",
    "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 9,
+   "rank": 6,
    "record": "2-2",
    "last5": [
     {
@@ -692,7 +773,7 @@
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 15,
+   "rank": 14,
    "record": "0-1",
    "last5": [
     {
@@ -703,8 +784,8 @@
     }
    ],
    "next": {
-    "date": "03.10. 16:00",
-    "opponent": "MoraBanc Andorra"
+    "date": "11.10. 15:00",
+    "opponent": "Baskonia"
    },
    "note": ""
   },
@@ -713,7 +794,7 @@
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
    "league_logo": "logos/e985fcdd375b.png",
-   "rank": 1,
+   "rank": 2,
    "record": "1-0",
    "last5": [
     {
