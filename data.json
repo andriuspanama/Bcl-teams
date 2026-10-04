@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-04 19:14",
+ "updated": "2026-10-04 21:34",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -309,6 +309,12 @@
    "rank": 9,
    "record": "1-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "100:94",
+     "opponent": "Barcelona",
+     "venue": "H"
+    },
     {
      "wl": "L",
      "score": "84:77",
