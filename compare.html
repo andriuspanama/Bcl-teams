@@ -62,21 +62,20 @@ const COMP = {
 };
 
 /* ===== ADAPTERIS: jei tavo data.json laukai kitokie, taisyk TIK čia ===== */
-function adapt(raw){
-  const arr = raw.teams || raw.data || (Array.isArray(raw) ? raw : Object.values(raw));
-  return arr.map(t => {
-    const gs = (t.games || t.results || t.matches || [])
-      .map(g => ({pf:+(g.pf ?? g.scored ?? g.for ?? 0), pa:+(g.pa ?? g.conceded ?? g.against ?? 0)}))
-      .filter(g => g.pf || g.pa);
-    let w = 0, l = 0;
-    gs.forEach(g => g.pf > g.pa ? w++ : l++);
-    if (!gs.length) { w = +(t.wins ?? t.w ?? 0); l = +(t.losses ?? t.l ?? 0); }
+ function adapt(raw){
+  return raw.teams.map(t => {
+    const [w, l] = String(t.record || '0-0').split('-').map(Number);
+    const gs = (t.last5 || []).map(g => {
+      const [a, b] = String(g.score).split(':').map(Number);
+      if (isNaN(a) || isNaN(b)) return null;
+      // Flashscore rezultatas rašomas "šeimininkai:svečiai"
+      const home = g.venue === 'H' ? true : g.venue === 'A' ? false : (g.wl === 'W' ? a > b : a < b);
+      return home ? {pf:a, pa:b} : {pf:b, pa:a};
+    }).filter(Boolean);
     return {
-      name: t.name || t.team || '?', logo: t.logo,
-      league: t.league || t.league_name || 'Nežinoma',
-      w, l, n: gs.length || (w + l),
-      pf: gs.reduce((a,g) => a + g.pf, 0),
-      pa: gs.reduce((a,g) => a + g.pa, 0)
+      name: t.name, league: t.league, w: w || 0, l: l || 0, n: gs.length,
+      pf: gs.reduce((s,g) => s + g.pf, 0),
+      pa: gs.reduce((s,g) => s + g.pa, 0)
     };
   });
 }
