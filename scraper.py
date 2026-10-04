@@ -1,6 +1,6 @@
 """FIBA Champions League komandų sekimas nacionaliniuose čempionatuose (Flashscore).
-Pritaikyta iš Eurocup scraper.py. Paleidimas: python scraper.py
-Jei Flashscore pakeis struktūrą, taisyk selektorius viršuje.
+Papildyta: visų sezono rungtynių taškai (games), ABA / Lat-EST lygos, Sabah Baku iš Sofascore.
+Paleidimas: python scraper.py
 """
 import json, re, time, hashlib, pathlib, datetime
 from collections import Counter
@@ -10,13 +10,35 @@ from build_site import build
 BASE = "https://www.flashscore.com"
 COMP = BASE + "/basketball/europe/champions-league/"
 TITLE = "FIBA Champions League 2026-2027"
-OUT = pathlib.Path(".")          # index.html, data.json ir logos/ rašomi į repo šaknį
+OUT = pathlib.Path(".")
 LOGOS = OUT / "logos"
 DELAY = 2.5
 
 LEAGUE_OVERRIDES = {}
 INTL = {"europe", "world"}
 SKIP_SLUG = ("cup", "friendl", "copa", "coupe", "pokal", "coppa", "beker")
+
+# Jungtinės lygos atpažįstamos pagal Flashscore nuorodos pavadinimą (europe/<slug>).
+# Jei kuri nors neatpažįstama, žurnale prie komandos ("lygos=[...]") matysi tikrą nuorodą, ir pataisyk joint_name().
+def joint_name(href):
+    parts = (href or "").strip("/").split("/")
+    if len(parts) < 3 or parts[1] != "europe":
+        return None
+    s = parts[2]
+    if s.endswith("-2") or "women" in s:
+        return None
+    if s.startswith(("aba-league", "adriatic")):
+        return "Adrijos lyga"
+    if "bnxt" in s:
+        return "BNXT lyga"
+    if any(k in s for k in ("latvian", "estonian", "baltic")):
+        return "Lat-EST lyga"
+    return None
+
+
+# Sabah Baku: Sofascore (unique-tournament ID iš tavo nuorodos)
+SOFA_ID = 24261
+SOFA_TEAM = "sabah"
 
 JS_MATCHES = r"""()=>{
  const out=[];let cur=null;
@@ -47,6 +69,10 @@ JS_STANDINGS = """()=>[...document.querySelectorAll('.ui-table__row')].map(r=>{
 JS_LINKS = r"""(c)=>{const re=/^\/basketball\/[a-z0-9-]+\/[a-z0-9-]+\/?$/;
  return [...new Set([...document.querySelectorAll('a[href^="/basketball/'+c+'/"]')]
   .map(a=>a.getAttribute('href')).filter(h=>re.test(h)))];}"""
+
+
+def nh(h):
+    return "/" + h.split("?")[0].strip("/") + "/"
 
 
 def open_page(page, url):
@@ -102,6 +128,8 @@ def same(a, b):
 def league_ok(c):
     if not c or not c.get("href"):
         return False
+    if joint_name(c["href"]):
+        return True
     parts = c["href"].strip("/").split("/")
     return parts[1] not in INTL and not any(s in parts[2] for s in SKIP_SLUG)
 
@@ -140,7 +168,63 @@ def team_result(m, team):
     me, opp = (a, b) if mine_home else (b, a)
     return {"wl": "W" if me > opp else "L", "score": f"{a}:{b}",
             "opponent": m["away"] if mine_home else m["home"],
-            "venue": "H" if mine_home else "A"}
+            "venue": "H" if mine_home else "A",
+            "date": m["time"], "pf": me, "pa": opp}
+
+
+# ---------- Sabah Baku (Sofascore) ----------
+def api_json(page, url):
+    time.sleep(DELAY)
+    r = page.goto(url, wait_until="domcontentloaded", timeout=45000)
+    if not r or r.status != 200:
+        raise RuntimeError(f"HTTP {r.status if r else '?'}")
+    return json.loads(page.inner_text("body"))
+
+
+def fill_sabah(page, entry):
+    api = f"https://api.sofascore.com/api/v1/unique-tournament/{SOFA_ID}"
+    games, rank = [], None
+    try:
+        season = api_json(page, api + "/seasons")["seasons"][0]
+        sid = season["id"]
+        entry["note"] = f"Sofascore sezonas: {season.get('year', '?')}"
+        found = []
+        for pg in range(10):
+            d = api_json(page, f"{api}/season/{sid}/events/last/{pg}")
+            for e in d.get("events", []):
+                hn, an = e["homeTeam"]["name"], e["awayTeam"]["name"]
+                if SOFA_TEAM in (hn + an).lower() and e.get("status", {}).get("type") == "finished":
+                    found.append(e)
+            if not d.get("hasNextPage"):
+                break
+        found.sort(key=lambda e: e["startTimestamp"], reverse=True)
+        for e in found:
+            home = SOFA_TEAM in e["homeTeam"]["name"].lower()
+            a, b = e["homeScore"]["current"], e["awayScore"]["current"]
+            me, opp = (a, b) if home else (b, a)
+            dt = datetime.datetime.fromtimestamp(e["startTimestamp"])
+            games.append({"wl": "W" if me > opp else "L", "score": f"{a}:{b}",
+                          "opponent": e["awayTeam"]["name"] if home else e["homeTeam"]["name"],
+                          "venue": "H" if home else "A", "date": dt.strftime("%d.%m."),
+                          "pf": me, "pa": opp})
+        try:
+            st = api_json(page, f"{api}/season/{sid}/standings/total")
+            for row in st["standings"][0]["rows"]:
+                if SOFA_TEAM in row["team"]["name"].lower():
+                    rank = row["position"]
+        except Exception:
+            pass
+    except Exception as ex:
+        entry["note"] = f"Sofascore nepavyko ({ex}); naudojamas manual/sabah.json"
+    manual = pathlib.Path("manual/sabah.json")
+    if not games and manual.exists():
+        for g in json.loads(manual.read_text(encoding="utf-8")).get("games", []):
+            games.append({"wl": "W" if g["pf"] > g["pa"] else "L", "score": f"{g['pf']}:{g['pa']}",
+                          "opponent": g.get("opponent", ""), "venue": g.get("venue", ""),
+                          "date": g.get("date", ""), "pf": g["pf"], "pa": g["pa"]})
+    w = sum(1 for g in games if g["wl"] == "W")
+    entry.update(league="Azerbaidžano lyga", rank=rank, games=games, last5=games[:5],
+                 record=f"{w}-{len(games) - w}" if games else "")
 
 
 def main():
@@ -167,8 +251,14 @@ def main():
         for t in teams:
             entry = {"name": t["name"], "logo": save_logo(page, t["logo"]),
                      "league": None, "league_logo": "", "rank": None,
-                     "record": "", "last5": [], "next": None, "note": ""}
+                     "record": "", "last5": [], "games": [], "next": None, "note": ""}
             try:
+                if SOFA_TEAM in t["name"].lower():
+                    fill_sabah(page, entry)
+                    print(entry["name"], "->", entry["league"], entry["rank"], entry["note"])
+                    data["teams"].append(entry)
+                    continue
+
                 url = BASE + t["href"]
                 res_m = get_matches(page, url + "results/")
                 fx_m = get_matches(page, url + "fixtures/")
@@ -181,10 +271,15 @@ def main():
                 league_href = LEAGUE_OVERRIDES.get(t["name"])
                 league_name = league_href.strip("/").split("/")[-1].upper() if league_href else ""
                 if not league_href and pool:
-                    league_href = Counter(m["comp"]["href"] for m in pool).most_common(1)[0][0]
-                    names = [m["comp"]["name"] for m in pool
-                             if m["comp"]["href"] == league_href and m["comp"]["name"]]
-                    league_name = clean_name(names[0]) if names else league_href.strip("/").split("/")[-1].upper()
+                    joint = [m for m in pool if m["comp"] and joint_name(m["comp"]["href"])]
+                    if joint:  # komanda žaidžia jungtinėje lygoje -> ji ir rodoma
+                        league_href = joint[0]["comp"]["href"]
+                        league_name = joint_name(league_href)
+                    else:
+                        league_href = Counter(m["comp"]["href"] for m in pool).most_common(1)[0][0]
+                        names = [m["comp"]["name"] for m in pool
+                                 if m["comp"]["href"] == league_href and m["comp"]["name"]]
+                        league_name = clean_name(names[0]) if names else league_href.strip("/").split("/")[-1].upper()
                 if not league_href:
                     countries = [m["comp"]["href"].strip("/").split("/")[1] for m in allm
                                  if m["comp"] and m["comp"]["href"].strip("/").split("/")[1] not in INTL]
@@ -198,16 +293,16 @@ def main():
                         if league_href:
                             league_name = league_href.strip("/").split("/")[-1].replace("-", " ").title()
                 if not league_href:
-                    entry["league"] = "Azerbaidžanas (lygos Flashscore nėra)"
-                    entry["note"] = ""
+                    entry["league"] = "Nežinoma"
                     data["teams"].append(entry)
                     continue
                 entry["league"] = league_name
 
                 res = [team_result(m, t["name"]) for m in res_m
                        if m["comp"] and m["comp"]["href"] == league_href and season_ok(m["time"])]
-                entry["last5"] = [r for r in res if r][:5]
-                started = bool(entry["last5"])
+                entry["games"] = [r for r in res if r]
+                entry["last5"] = entry["games"][:5]
+                started = bool(entry["games"])
 
                 fx = [m for m in fx_m if m["time"]]
                 fx = [m for m in fx if m["comp"] and m["comp"]["href"] == league_href] or fx
@@ -247,3 +342,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+             
