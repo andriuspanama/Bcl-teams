@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-05 18:21",
+ "updated": "2026-10-05 21:32",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -513,7 +513,7 @@
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
    "league_logo": "logos/b55c66fda764.png",
-   "rank": 9,
+   "rank": 10,
    "record": "1-1",
    "last5": [
     {
@@ -903,7 +903,7 @@
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
    "league_logo": "logos/b55c66fda764.png",
-   "rank": 14,
+   "rank": 13,
    "record": "0-2",
    "last5": [
     {
@@ -1113,9 +1113,18 @@
    "logo": "logos/fc078fb0f685.png",
    "league": "BBL",
    "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 17,
-   "record": "0-3",
+   "rank": 18,
+   "record": "0-4",
    "last5": [
+    {
+     "wl": "L",
+     "score": "87:93",
+     "opponent": "Basketball Braunschweig",
+     "venue": "H",
+     "date": "05.10. 18:00",
+     "pf": 87,
+     "pa": 93
+    },
     {
      "wl": "L",
      "score": "79:71",
@@ -1145,6 +1154,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "87:93",
+     "opponent": "Basketball Braunschweig",
+     "venue": "H",
+     "date": "05.10. 18:00",
+     "pf": 87,
+     "pa": 93
+    },
     {
      "wl": "L",
      "score": "79:71",
@@ -1184,7 +1202,7 @@
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 6,
+   "rank": 9,
    "record": "0-1",
    "last5": [
     {
