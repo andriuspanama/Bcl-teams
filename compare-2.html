@@ -1,0 +1,292 @@
+<!doctype html>
+<html lang="lt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#07111f">
+<title>BCL ir EuroCup komandos savo lygose</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{--bg:#07111f;--card:#0e1c30;--line:#1d3050;--tx:#e8eef7;--mu:#8ea2bd;--w:#33d49a;--l:#ff5d6c}
+*{box-sizing:border-box}
+body{margin:0 auto;max-width:1300px;padding:12px;background:var(--bg);color:var(--tx);font:15px/1.5 system-ui,sans-serif}
+h1{font-size:1.3rem;margin:.4rem 0}
+nav{display:flex;gap:8px;margin:10px 0;flex-wrap:wrap}
+nav button,.sw button{background:var(--card);color:var(--tx);border:1px solid var(--line);border-radius:10px;padding:10px 16px;font:inherit;cursor:pointer;display:flex;align-items:center;gap:8px}
+nav button.on{border-color:var(--c,#3aa0ff);box-shadow:inset 0 -3px 0 var(--c,#3aa0ff)}
+nav img{height:22px}
+details{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px;margin-bottom:8px}
+summary{cursor:pointer}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.chips label{background:var(--bg);border:1px solid var(--line);border-radius:20px;padding:4px 10px;cursor:pointer;font-size:.85rem}
+.chips label:has(input:checked){border-color:var(--w)}
+.chips input{margin-right:5px}
+.tools{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}
+.tools button,.mini{background:none;color:var(--mu);border:1px solid var(--line);border-radius:8px;padding:4px 10px;cursor:pointer;font:inherit;font-size:.8rem}
+.sw{display:flex;gap:6px;margin:10px 0;flex-wrap:wrap}
+.sw button.on{border-color:var(--w)}
+#grid{display:grid;gap:12px;grid-template-columns:1fr}
+#grid.two{grid-template-columns:1fr 1fr}
+#an{display:grid;gap:12px;margin-top:12px}
+@media(max-width:800px){#grid.two{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;min-width:0}
+.card h2{margin:0 0 4px;font-size:1.05rem;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.card h2 img{height:24px}
+.kpi{color:var(--mu);font-size:.9rem;margin-bottom:8px}
+.dn{max-width:280px;margin:auto;position:relative}
+.sc{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:.9rem;min-width:520px}
+td,th{padding:6px;border-bottom:1px solid var(--line);text-align:right}
+td:first-child,th:first-child{text-align:left}
+th[data-sort]{cursor:pointer;color:var(--mu)}
+.msg{color:var(--l);padding:12px}
+select{background:var(--bg);color:var(--tx);border:1px solid var(--line);border-radius:8px;padding:6px 8px;font:inherit}
+</style>
+</head>
+<body>
+<h1>Komandos savo nacionaliniuose čempionatuose</h1>
+<nav id="tabs"></nav>
+<details><summary>Lygos</summary><div class="chips" id="lg"></div>
+<div class="tools"><button data-a="l1">Visos</button><button data-a="l0">Nė vienos</button></div></details>
+<details><summary>Komandos</summary><div class="chips" id="tm"></div>
+<div class="tools"><button data-a="t1">Visos</button><button data-a="t0">Nė vienos</button></div></details>
+<div class="sw" id="mode"></div>
+<div id="msg"></div>
+<main id="grid"></main>
+<section id="an"></section>
+
+<script>
+/* ===== KONFIGŪRACIJA ===== */
+const COMP = {
+  bcl: {name:'FIBA Champions League', short:'BCL', color:'#3aa0ff',
+        url:'https://andriuspanama.github.io/Bcl-teams/data.json',
+        logo:'https://andriuspanama.github.io/Bcl-teams/logos/736a7e173080.png'},
+  eu:  {name:'EuroCup', short:'EuroCup', color:'#ffb020',
+        url:'https://andriuspanama.github.io/Eurocup-teams/data.json',
+        logo:'https://andriuspanama.github.io/Eurocup-teams/logos/1eded2c92fe0.png'}
+};
+const PAL = ['#3aa0ff','#ffb020','#33d49a','#ff5d6c','#b388ff','#4dd0e1','#f06292','#aed581','#ffd54f','#90a4ae'];
+
+/* ===== ADAPTERIS ===== */
+function adapt(raw){
+  return raw.teams.map(t => {
+    const [w, l] = String(t.record || '0-0').split('-').map(Number);
+    let gs = (t.games || []).filter(g => g.pf != null).map(g => ({pf:g.pf, pa:g.pa, v:g.venue}));
+    if (!gs.length) gs = (t.last5 || []).map(g => {
+      const [a, b] = String(g.score).split(':').map(Number);
+      if (isNaN(a) || isNaN(b)) return null;
+      const h = g.venue === 'H' ? true : g.venue === 'A' ? false : (g.wl === 'W' ? a > b : a < b);
+      return h ? {pf:a, pa:b, v:'H'} : {pf:b, pa:a, v:'A'};
+    }).filter(Boolean);
+    const c = (v, win) => gs.filter(g => g.v === v && (g.pf > g.pa) === win).length;
+    return {name:t.name, league:t.league || 'Nežinoma', w:w || 0, l:l || 0, n:gs.length,
+      pf:gs.reduce((s,g) => s + g.pf, 0), pa:gs.reduce((s,g) => s + g.pa, 0),
+      hw:c('H',true), hl:c('H',false), aw:c('A',true), al:c('A',false),
+      rank:t.rank || null, lsize:t.league_size || null};
+  });
+}
+
+/* ===== BŪSENA ===== */
+const S = JSON.parse(localStorage.getItem('st') || '{}');
+S.offL = new Set(S.offL || []); S.offT = new Set(S.offT || []);
+S.avg = !!S.avg; S.lm = S.lm || 'pct'; S.ll = S.ll || ''; S.pick = S.pick || []; S.sort = S.sort || {k:'pct', d:-1};
+S.view = location.hash.slice(1) || S.view || 'bcl';
+const D = {}, charts = {};
+const $ = id => document.getElementById(id);
+const save = () => localStorage.setItem('st', JSON.stringify({offL:[...S.offL], offT:[...S.offT], avg:S.avg, view:S.view, pick:S.pick, sort:S.sort, lm:S.lm, ll:S.ll}));
+const comps = () => S.view === 'cmp' ? ['bcl','eu'] : [S.view];
+const vis = c => D[c].filter(t => !S.offL.has(t.league) && !S.offT.has(c + '|' + t.name));
+const all = () => comps().flatMap(c => vis(c));
+const pc = (a, b) => a + b ? 100 * a / (a + b) : 0;
+function sum(a){
+  const w = a.reduce((x,t)=>x+t.w,0), l = a.reduce((x,t)=>x+t.l,0), n = a.reduce((x,t)=>x+t.n,0);
+  const pf = a.reduce((x,t)=>x+t.pf,0), pa = a.reduce((x,t)=>x+t.pa,0);
+  return {w,l,n,pf,pa,pct:pc(w,l), apf:n?pf/n:0, apa:n?pa/n:0};
+}
+Chart.register({id:'bg', beforeDraw(ch){const x = ch.ctx; x.save(); x.globalCompositeOperation = 'destination-over'; x.fillStyle = '#0e1c30'; x.fillRect(0,0,ch.width,ch.height); x.restore();}});
+const dl = (href, name) => { const a = document.createElement('a'); a.href = href; a.download = name; document.body.appendChild(a); a.click(); a.remove(); };
+
+/* ===== UI ===== */
+function drawTabs(){
+  $('tabs').innerHTML =
+    ['bcl','eu'].map(c => `<button data-v="${c}" style="--c:${COMP[c].color}" class="${S.view===c?'on':''}"><img src="${COMP[c].logo}" alt="">${COMP[c].short}</button>`).join('') +
+    `<button data-v="cmp" style="--c:#33d49a" class="${S.view==='cmp'?'on':''}">⇄ Palyginimas</button>`;
+  $('mode').innerHTML = `<button data-m="0" class="${S.avg?'':'on'}">Iš viso</button><button data-m="1" class="${S.avg?'on':''}">Vidurkis per rungtynes</button><button data-csv="1">CSV</button>`;
+}
+function drawFilters(){
+  const cs = comps();
+  const leagues = [...new Set(cs.flatMap(c => D[c].map(t => t.league)))].sort();
+  $('lg').innerHTML = leagues.map(l => `<label><input type="checkbox" data-l="${l}" ${S.offL.has(l)?'':'checked'}>${l}</label>`).join('');
+  $('tm').innerHTML = cs.flatMap(c => D[c].filter(t => !S.offL.has(t.league)).map(t => {
+    const k = c + '|' + t.name;
+    return `<label><input type="checkbox" data-t="${k}" ${S.offT.has(k)?'':'checked'}>${cs.length>1?COMP[c].short+' · ':''}${t.name}</label>`;
+  })).join('');
+}
+function mk(id, cfg){ charts[id]?.destroy(); charts[id] = new Chart($(id), cfg); }
+const AX = {ticks:{color:'#8ea2bd'}, grid:{color:'#1d3050'}};
+const LEG = {labels:{color:'#e8eef7'}};
+
+function render(){
+  Object.values(charts).forEach(c => c.destroy());
+  const cs = comps(), g = $('grid');
+  g.className = cs.length > 1 ? 'two' : '';
+  const sums = cs.map(c => sum(vis(c)));
+  const act = c => vis(c).filter(t => t.n > 0);
+  const max = Math.max(1, ...cs.flatMap(c => act(c).flatMap(t => S.avg ? [t.pf/t.n, t.pa/t.n] : [t.pf, t.pa])));
+  g.innerHTML = cs.map((c,i) => {
+    const s = sums[i];
+    return `<section class="card"><h2><img src="${COMP[c].logo}" alt="">${COMP[c].name}</h2>
+      <div class="kpi">${vis(c).length} komandų · ${s.w}–${s.l} (${s.pct.toFixed(0)}% pergalių) · pelnyta ${s.pf}, praleista ${s.pa}</div>
+      <div class="dn"><canvas id="d-${c}"></canvas></div><button class="mini" data-png="d-${c}">PNG</button>
+      <div style="position:relative;height:${Math.max(220, act(c).length*30+60)}px;margin-top:14px"><canvas id="b-${c}"></canvas></div><button class="mini" data-png="b-${c}">PNG</button></section>`;
+  }).join('');
+  cs.forEach((c,i) => {
+    mk('d-'+c, {type:'doughnut',
+      data:{labels:['Pergalės','Pralaimėjimai'], datasets:[{data:[sums[i].w, sums[i].l], backgroundColor:['#33d49a','#ff5d6c'], borderWidth:0}]},
+      options:{cutout:'65%', plugins:{legend:LEG}}});
+    const ts = act(c).slice().sort((a,b) => (b.pf-b.pa)/b.n - (a.pf-a.pa)/a.n);
+    const f = t => v => S.avg ? +(v/t.n).toFixed(1) : v;
+    mk('b-'+c, {type:'bar',
+      data:{labels:ts.map(t=>t.name), datasets:[
+        {label:'Pelnyta', data:ts.map(t=>f(t)(t.pf)), backgroundColor:'#33d49a'},
+        {label:'Praleista', data:ts.map(t=>f(t)(t.pa)), backgroundColor:'#ff5d6c'}]},
+      options:{indexAxis:'y', maintainAspectRatio:false,
+        scales:{x:{...AX, max: cs.length > 1 ? Math.ceil(max*1.05) : undefined}, y:{ticks:{color:'#e8eef7'}, grid:{display:false}}},
+        plugins:{legend:LEG}}});
+  });
+  renderAn(cs, sums);
+}
+
+/* ===== ANALIZĖ ===== */
+function leagueRows(){
+  const m = {};
+  all().forEach(t => { const k = t.league + '|' + t.c; (m[k] = m[k] || {league:t.league, c:t.c, ts:[]}).ts.push(t); });
+  return Object.values(m).map(r => { const s = sum(r.ts);
+    return {league:r.league, comp:COMP[r.c].short, teams:r.ts.length, pct:s.pct, apf:s.apf, apa:s.apa, diff:s.apf - s.apa, hp:pc(r.ts.reduce((x,t)=>x+t.hw,0), r.ts.reduce((x,t)=>x+t.hl,0)), ap:pc(r.ts.reduce((x,t)=>x+t.aw,0), r.ts.reduce((x,t)=>x+t.al,0))}; });
+}
+function renderAn(cs, sums){
+  const H = [['league','Lyga'],['comp','Turnyras'],['teams','Kom.'],['pct','Perg. %'],['apf','Pelnyta'],['apa','Praleista'],['diff','Skirt.'],['hp','Namuose %'],['ap','Išvykoje %']];
+  const rows = leagueRows().sort((a,b) => (typeof a[S.sort.k] === 'string' ? a[S.sort.k].localeCompare(b[S.sort.k]) : a[S.sort.k] - b[S.sort.k]) * S.sort.d);
+  const cmpTbl = cs.length > 1 ? `<section class="card"><h2>BCL ir EuroCup</h2><div class="sc"><table>
+    <tr><th></th><th>Komandos</th><th>Pergalių %</th><th>Pelnyta / rung.</th><th>Praleista / rung.</th><th>Skirtumas</th></tr>
+    ${cs.map((c,i)=>`<tr><td>${COMP[c].short}</td><td>${vis(c).length}</td><td>${sums[i].pct.toFixed(1)}</td><td>${sums[i].apf.toFixed(1)}</td><td>${sums[i].apa.toFixed(1)}</td><td>${(sums[i].apf-sums[i].apa).toFixed(1)}</td></tr>`).join('')}
+    </table></div></section>` : '';
+  const pk = all().filter(t => t.n > 0);
+  $('an').innerHTML = cmpTbl +
+    `<section class="card"><h2>Lygų reitingas</h2><div class="kpi">Spausk stulpelio pavadinimą, kad rūšiuotum.</div><div class="sc"><table><tr>${H.map(([k,n])=>`<th data-sort="${k}">${n}${S.sort.k===k?(S.sort.d>0?' ▲':' ▼'):''}</th>`).join('')}</tr>
+      ${rows.map(r=>`<tr><td>${r.league}</td><td>${r.comp}</td><td>${r.teams}</td><td>${r.pct.toFixed(0)}</td><td>${r.apf.toFixed(1)}</td><td>${r.apa.toFixed(1)}</td><td>${r.diff.toFixed(1)}</td><td>${r.hp.toFixed(0)}</td><td>${r.ap.toFixed(0)}</td></tr>`).join('')}</table></div></section>
+    <section class="card"><h2>Puolimas ir gynyba</h2><div class="kpi">Kiekvienas taškas yra komanda: x – pelnyta, y – praleista per rungtynes. Žemiau ir dešiniau yra geriau.</div>
+      <div style="position:relative;height:380px"><canvas id="sc"></canvas></div><button class="mini" data-png="sc">PNG</button></section>
+    <section class="card"><h2>Komandų palyginimas</h2><div class="kpi">Pasirink iki 4 komandų.</div>
+      <div class="chips" id="pk">${pk.map(t=>{const k=t.c+'|'+t.name; return `<label><input type="checkbox" data-p="${k}" ${S.pick.includes(k)?'checked':''}>${cs.length>1?COMP[t.c].short+' · ':''}${t.name}</label>`;}).join('')}</div>
+      <div style="position:relative;height:380px;margin-top:10px"><canvas id="rd"></canvas></div><button class="mini" data-png="rd">PNG</button></section>` + lvHtml();
+  const lg = [...new Set(pk.map(t => t.league))];
+  mk('sc', {type:'scatter',
+    data:{datasets:lg.map((l,i) => ({label:l, backgroundColor:PAL[i % PAL.length], pointRadius:6,
+      data:pk.filter(t=>t.league===l).map(t=>({x:+(t.pf/t.n).toFixed(1), y:+(t.pa/t.n).toFixed(1), name:t.name}))}))},
+    options:{maintainAspectRatio:false, scales:{x:{...AX, title:{display:true, text:'Pelnyta', color:'#8ea2bd'}}, y:{...AX, title:{display:true, text:'Praleista', color:'#8ea2bd'}}},
+      plugins:{legend:LEG, tooltip:{callbacks:{label:c => `${c.raw.name}: ${c.raw.x} / ${c.raw.y}`}}}}});
+  drawRadar(); drawLv();
+}
+function drawRadar(){
+  const pk = all().filter(t => t.n > 0);
+  const rng = f => { const v = pk.map(f); return [Math.min(...v), Math.max(...v)]; };
+  const nm = (v, [lo,hi]) => hi > lo ? 100 * (v - lo) / (hi - lo) : 50;
+  const rf = rng(t => t.pf/t.n), ra = rng(t => t.pa/t.n);
+  const sel = pk.filter(t => S.pick.includes(t.c + '|' + t.name));
+  mk('rd', {type:'radar',
+    data:{labels:['Pergalių %','Puolimas','Gynyba','Namuose %','Išvykoje %'], datasets:sel.map((t,i) => ({label:t.name, borderColor:PAL[i], backgroundColor:PAL[i]+'33',
+      data:[pc(t.w,t.l), nm(t.pf/t.n, rf), 100 - nm(t.pa/t.n, ra), pc(t.hw,t.hl), pc(t.aw,t.al)]}))},
+    options:{maintainAspectRatio:false, scales:{r:{min:0, max:100, ticks:{display:false}, grid:{color:'#1d3050'}, angleLines:{color:'#1d3050'}, pointLabels:{color:'#e8eef7'}}}, plugins:{legend:LEG}}});
+}
+
+
+/* ===== LYGOS VAIZDAS: BCL ir EuroCup toje pačioje lygoje ===== */
+const f1 = v => v == null ? '–' : v.toFixed(1);
+const avg = a => { const v = a.filter(x => x != null); return v.length ? v.reduce((x,y) => x + y, 0) / v.length : null; };
+const MET = {pct:'Pergalių %', mg:'Skirtumas per rungtynes', rk:'Vieta lygoje'};
+const mval = (t, m) => m === 'pct' ? (t.w + t.l ? pc(t.w,t.l) : null) : m === 'mg' ? (t.n ? (t.pf - t.pa) / t.n : null) : (t.rank || null);
+function common(){
+  const by = {};
+  ['bcl','eu'].forEach(c => vis(c).forEach(t => { const o = by[t.league] = by[t.league] || {bcl:[], eu:[]}; o[c].push(t); }));
+  return Object.entries(by).filter(([k,o]) => o.bcl.length && o.eu.length).sort((a,b) => a[0].localeCompare(b[0]));
+}
+function lvHtml(){
+  if (S.view !== 'cmp') return '';
+  const L = common();
+  if (!L.length) return `<section class="card"><h2>Lygos vaizdas</h2><div class="kpi">Pasirinktose lygose nėra abiejų turnyrų komandų.</div></section>`;
+  if (!L.find(x => x[0] === S.ll)) S.ll = L[0][0];
+  const one = L.find(x => x[0] === S.ll)[1];
+  const teams = [...one.bcl, ...one.eu].sort((a,b) => (a.rank || 999) - (b.rank || 999));
+  const side = (a, m) => [a.length, f1(avg(a.map(t => t.rank))), f1(avg(a.map(t => mval(t,'pct')))), f1(avg(a.map(t => mval(t,'mg'))))];
+  const sumRow = (name, o) => `<tr><td>${name}</td>${side(o.bcl).map(v => `<td>${v}</td>`).join('')}${side(o.eu).map(v => `<td>${v}</td>`).join('')}</tr>`;
+  const tot = {bcl:L.flatMap(x => x[1].bcl), eu:L.flatMap(x => x[1].eu)};
+  return `<section class="card"><h2>Lygos vaizdas: BCL ir EuroCup toje pačioje lygoje</h2>
+    <div class="kpi">Rodomos lygos, kuriose žaidžia abiejų turnyrų komandos. Mėlyna – BCL, gintarinė – EuroCup.</div>
+    <div class="sw"><select data-lm="1">${Object.entries(MET).map(([k,n]) => `<option value="${k}" ${S.lm===k?'selected':''}>${n}</option>`).join('')}</select></div>
+    <div style="position:relative;height:${Math.max(220, L.length*46+90)}px"><canvas id="lv"></canvas></div><button class="mini" data-png="lv">PNG</button>
+    <h2 style="font-size:.95rem;margin-top:16px">Suvestinė pagal lygas</h2><div class="kpi">Vidutinė vieta, pergalių % ir skirtumas per rungtynes (kiekvieno turnyro komandų).</div>
+    <div class="sc"><table><tr><th rowspan="2">Lyga</th><th colspan="4" style="text-align:center;color:${COMP.bcl.color}">BCL</th><th colspan="4" style="text-align:center;color:${COMP.eu.color}">EuroCup</th></tr>
+    <tr><th>Kom.</th><th>Vieta</th><th>Perg. %</th><th>Skirt.</th><th>Kom.</th><th>Vieta</th><th>Perg. %</th><th>Skirt.</th></tr>
+    ${L.map(([k,o]) => sumRow(k, o)).join('')}${sumRow('<b>Iš viso</b>', tot)}</table></div>
+    <h2 style="font-size:.95rem;margin-top:16px">Viena lyga</h2>
+    <div class="sw"><select data-ll="1">${L.map(([k]) => `<option ${S.ll===k?'selected':''}>${k}</option>`).join('')}</select></div>
+    <div class="sc"><table><tr><th>Komanda</th><th>Turnyras</th><th>Vieta</th><th>Rung.</th><th>Perg. %</th><th>Skirt.</th></tr>
+    ${teams.map(t => `<tr><td>${t.name}</td><td style="color:${COMP[t.c].color}">${COMP[t.c].short}</td><td>${t.rank ? t.rank + (t.lsize ? ' / ' + t.lsize : '') : '–'}</td><td>${t.w + t.l}</td><td>${f1(mval(t,'pct'))}</td><td>${f1(mval(t,'mg'))}</td></tr>`).join('')}</table></div></section>`;
+}
+function drawLv(){
+  if (S.view !== 'cmp' || !$('lv')) return;
+  const L = common(), m = S.lm;
+  mk('lv', {type:'scatter',
+    data:{datasets:['bcl','eu'].map(c => ({label:COMP[c].short, backgroundColor:COMP[c].color + 'cc', pointRadius:7,
+      data:L.flatMap(([k,o]) => o[c].map(t => ({x:mval(t,m), y:k, name:t.name})).filter(p => p.x != null))}))},
+    options:{maintainAspectRatio:false,
+      scales:{x:{...AX, reverse:m === 'rk', title:{display:true, text:MET[m] + (m === 'rk' ? ' (1 – dešinėje)' : ''), color:'#8ea2bd'}},
+              y:{type:'category', labels:L.map(x => x[0]), ticks:{color:'#e8eef7'}, grid:{color:'#1d3050'}, offset:true}},
+      plugins:{legend:LEG, tooltip:{callbacks:{label:c => `${c.raw.name}: ${(+c.raw.x).toFixed(1)}`}}}}});
+}
+function refresh(){ drawTabs(); drawFilters(); render(); save(); }
+
+/* ===== ĮVYKIAI ===== */
+document.addEventListener('click', e => {
+  const th = e.target.closest('th[data-sort]');
+  if (th) { const k = th.dataset.sort; S.sort = {k, d: S.sort.k === k ? -S.sort.d : -1}; render(); save(); return; }
+  const b = e.target.closest('button'); if (!b) return;
+  if (b.dataset.png) { dl(charts[b.dataset.png].toBase64Image(), b.dataset.png + '.png'); return; }
+  if (b.dataset.csv) {
+    const rows = [['turnyras','lyga','komanda','pergales','pralaimejimai','rungtynes','pelnyta','praleista']];
+    comps().forEach(c => vis(c).forEach(t => rows.push([COMP[c].short, t.league, t.name, t.w, t.l, t.n, t.pf, t.pa])));
+    dl('data:text/csv;charset=utf-8,' + encodeURIComponent('\ufeff' + rows.map(r => r.map(v => '"' + String(v).replace(/"/g,'""') + '"').join(',')).join('\n')), 'komandos.csv');
+    return;
+  }
+  if (b.dataset.v) { S.view = b.dataset.v; location.hash = S.view; refresh(); return; }
+  if (b.dataset.m) { S.avg = b.dataset.m === '1'; refresh(); return; }
+  const a = b.dataset.a; if (!a) return;
+  if (a[0] === 'l') S.offL = new Set(a === 'l0' ? [...document.querySelectorAll('[data-l]')].map(i => i.dataset.l) : []);
+  if (a[0] === 't') S.offT = new Set(a === 't0' ? [...document.querySelectorAll('[data-t]')].map(i => i.dataset.t) : []);
+  refresh();
+});
+document.addEventListener('change', e => {
+  const i = e.target;
+  if (i.dataset.lm || i.dataset.ll) { if (i.dataset.lm) S.lm = i.value; else S.ll = i.value; render(); save(); return; }
+  if (i.dataset.p) {
+    if (i.checked && S.pick.length >= 4) { i.checked = false; return; }
+    S.pick = i.checked ? [...S.pick, i.dataset.p] : S.pick.filter(k => k !== i.dataset.p);
+    drawRadar(); save(); return;
+  }
+  if (i.dataset.l) i.checked ? S.offL.delete(i.dataset.l) : S.offL.add(i.dataset.l);
+  if (i.dataset.t) i.checked ? S.offT.delete(i.dataset.t) : S.offT.add(i.dataset.t);
+  if (i.dataset.l) drawFilters();
+  render(); save();
+});
+
+/* ===== DUOMENŲ ĮKĖLIMAS ===== */
+Promise.all(Object.entries(COMP).map(([c, o]) =>
+  fetch(o.url + '?t=' + Date.now()).then(r => { if (!r.ok) throw new Error(o.short + ': HTTP ' + r.status); return r.json(); })
+    .then(j => { D[c] = adapt(j).map(t => ({...t, c})); })
+)).then(refresh).catch(err => {
+  $('msg').innerHTML = `<div class="msg">Nepavyko įkelti duomenų: ${err.message}. Patikrink, ar data.json egzistuoja abiejuose repo.</div>`;
+});
+</script>
+</body>
+</html>
