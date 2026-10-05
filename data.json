@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-05 15:20",
+ "updated": "2026-10-05 18:21",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -62,8 +62,17 @@
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
    "rank": 12,
-   "record": "1-0",
+   "record": "1-1",
    "last5": [
+    {
+     "wl": "L",
+     "score": "90:81",
+     "opponent": "Besiktas",
+     "venue": "A",
+     "date": "05.10. 16:00",
+     "pf": 81,
+     "pa": 90
+    },
     {
      "wl": "W",
      "score": "82:76",
@@ -76,6 +85,15 @@
    ],
    "games": [
     {
+     "wl": "L",
+     "score": "90:81",
+     "opponent": "Besiktas",
+     "venue": "A",
+     "date": "05.10. 16:00",
+     "pf": 81,
+     "pa": 90
+    },
+    {
      "wl": "W",
      "score": "82:76",
      "opponent": "Bursaspor",
@@ -86,8 +104,8 @@
     }
    ],
    "next": {
-    "date": "05.10. 16:00",
-    "opponent": "Besiktas"
+    "date": "11.10. 10:00",
+    "opponent": "Bordo Bandirma"
    },
    "note": ""
   },
@@ -196,7 +214,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 10,
+   "rank": 11,
    "record": "1-1",
    "last5": [
     {
@@ -1156,8 +1174,8 @@
     }
    ],
    "next": {
-    "date": "05.10. 18:00",
-    "opponent": "Basketball Braunschweig"
+    "date": "10.10. 18:00",
+    "opponent": "Ulm"
    },
    "note": ""
   },
