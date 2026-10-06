@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-06 15:18",
+ "updated": "2026-10-06 18:19",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -157,55 +157,37 @@
    "note": "Sofascore nepavyko (HTTP 403); naudojamas manual/sabah.json"
   },
   {
-   "name": "Strasbourg",
-   "logo": "logos/139b466a9a85.png",
-   "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
-   "rank": 9,
-   "record": "1-1",
+   "name": "Cibona",
+   "logo": "logos/e29523e50e3b.png",
+   "league": "Adrijos lyga",
+   "league_logo": "logos/4ecaeb496585.png",
+   "rank": 10,
+   "record": "0-1",
    "last5": [
     {
-     "wl": "W",
-     "score": "87:75",
-     "opponent": "Boulazac",
-     "venue": "H",
-     "date": "03.10. 16:00",
-     "pf": 87,
-     "pa": 75
-    },
-    {
      "wl": "L",
-     "score": "81:72",
-     "opponent": "Dijon",
+     "score": "89:76",
+     "opponent": "Cedevita Olimpija",
      "venue": "A",
-     "date": "25.09. 18:00",
-     "pf": 72,
-     "pa": 81
+     "date": "03.10. 15:00",
+     "pf": 76,
+     "pa": 89
     }
    ],
    "games": [
     {
-     "wl": "W",
-     "score": "87:75",
-     "opponent": "Boulazac",
-     "venue": "H",
-     "date": "03.10. 16:00",
-     "pf": 87,
-     "pa": 75
-    },
-    {
      "wl": "L",
-     "score": "81:72",
-     "opponent": "Dijon",
+     "score": "89:76",
+     "opponent": "Cedevita Olimpija",
      "venue": "A",
-     "date": "25.09. 18:00",
-     "pf": 72,
-     "pa": 81
+     "date": "03.10. 15:00",
+     "pf": 76,
+     "pa": 89
     }
    ],
    "next": {
-    "date": "11.10. 14:30",
-    "opponent": "Paris"
+    "date": "12.10. 17:00",
+    "opponent": "Slovan Bratislava"
    },
    "note": ""
   },
@@ -263,37 +245,55 @@
    "note": ""
   },
   {
-   "name": "Cibona",
-   "logo": "logos/e29523e50e3b.png",
-   "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
-   "rank": 10,
-   "record": "0-1",
+   "name": "Strasbourg",
+   "logo": "logos/139b466a9a85.png",
+   "league": "LNB",
+   "league_logo": "logos/d3db0986330a.png",
+   "rank": 9,
+   "record": "1-1",
    "last5": [
     {
+     "wl": "W",
+     "score": "87:75",
+     "opponent": "Boulazac",
+     "venue": "H",
+     "date": "03.10. 16:00",
+     "pf": 87,
+     "pa": 75
+    },
+    {
      "wl": "L",
-     "score": "89:76",
-     "opponent": "Cedevita Olimpija",
+     "score": "81:72",
+     "opponent": "Dijon",
      "venue": "A",
-     "date": "03.10. 15:00",
-     "pf": 76,
-     "pa": 89
+     "date": "25.09. 18:00",
+     "pf": 72,
+     "pa": 81
     }
    ],
    "games": [
     {
+     "wl": "W",
+     "score": "87:75",
+     "opponent": "Boulazac",
+     "venue": "H",
+     "date": "03.10. 16:00",
+     "pf": 87,
+     "pa": 75
+    },
+    {
      "wl": "L",
-     "score": "89:76",
-     "opponent": "Cedevita Olimpija",
+     "score": "81:72",
+     "opponent": "Dijon",
      "venue": "A",
-     "date": "03.10. 15:00",
-     "pf": 76,
-     "pa": 89
+     "date": "25.09. 18:00",
+     "pf": 72,
+     "pa": 81
     }
    ],
    "next": {
-    "date": "12.10. 17:00",
-    "opponent": "Slovan Bratislava"
+    "date": "11.10. 14:30",
+    "opponent": "Paris"
    },
    "note": ""
   },
@@ -1041,21 +1041,6 @@
    "note": ""
   },
   {
-   "name": "Hapoel Holon",
-   "logo": "logos/2844daeea498.png",
-   "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
-   "rank": 1,
-   "record": "0-0",
-   "last5": [],
-   "games": [],
-   "next": {
-    "date": "11.10. 17:55",
-    "opponent": "Hapoel Jerusalem"
-   },
-   "note": ""
-  },
-  {
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
@@ -1105,6 +1090,21 @@
    "next": {
     "date": "10.10. 16:00",
     "opponent": "Pau-Orthez"
+   },
+   "note": ""
+  },
+  {
+   "name": "Hapoel Holon",
+   "logo": "logos/2844daeea498.png",
+   "league": "Super League",
+   "league_logo": "logos/07d3791c1460.png",
+   "rank": 1,
+   "record": "0-0",
+   "last5": [],
+   "games": [],
+   "next": {
+    "date": "11.10. 17:55",
+    "opponent": "Hapoel Jerusalem"
    },
    "note": ""
   },
