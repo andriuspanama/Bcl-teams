@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-09 15:18",
+ "updated": "2026-10-09 18:19",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -302,9 +302,18 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 7,
-   "record": "1-0",
+   "rank": 2,
+   "record": "1-1",
    "last5": [
+    {
+     "wl": "L",
+     "score": "104:87",
+     "opponent": "Zielona Gora",
+     "venue": "A",
+     "date": "09.10. 16:00",
+     "pf": 87,
+     "pa": 104
+    },
     {
      "wl": "W",
      "score": "76:79",
@@ -317,6 +326,15 @@
    ],
    "games": [
     {
+     "wl": "L",
+     "score": "104:87",
+     "opponent": "Zielona Gora",
+     "venue": "A",
+     "date": "09.10. 16:00",
+     "pf": 87,
+     "pa": 104
+    },
+    {
      "wl": "W",
      "score": "76:79",
      "opponent": "Czarni Slupsk",
@@ -327,8 +345,8 @@
     }
    ],
    "next": {
-    "date": "09.10. 16:00",
-    "opponent": "Zielona Gora"
+    "date": "16.10. 18:15",
+    "opponent": "Anwil Wloclawek"
    },
    "note": ""
   },
@@ -407,7 +425,7 @@
    "logo": "logos/047cf29bd231.png",
    "league": "Korisliiga",
    "league_logo": "logos/2a39fb1c52b4.png",
-   "rank": 5,
+   "rank": 6,
    "record": "1-1",
    "last5": [
     {
@@ -1635,8 +1653,8 @@
     }
    ],
    "next": {
-    "date": "09.10. 18:00",
-    "opponent": "Jena"
+    "date": "24.10. 18:00",
+    "opponent": "Ludwigsburg"
    },
    "note": ""
   },
