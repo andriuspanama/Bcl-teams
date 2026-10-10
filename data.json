@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-10 12:20",
+ "updated": "2026-10-10 15:15",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -8,7 +8,7 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 9,
+   "rank": 10,
    "record": "1-1",
    "last5": [
     {
@@ -86,8 +86,8 @@
     }
    ],
    "next": {
-    "date": "10.10. 13:50",
-    "opponent": "Neptunas"
+    "date": "17.10. 13:50",
+    "opponent": "Siauliai"
    },
    "note": ""
   },
@@ -249,7 +249,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 5,
+   "rank": 7,
    "record": "1-1",
    "last5": [
     {
@@ -302,7 +302,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 4,
+   "rank": 5,
    "record": "1-1",
    "last5": [
     {
@@ -389,8 +389,8 @@
    "name": "AEK Athens",
    "logo": "logos/e8fa983046df.png",
    "league": "Basket League",
-   "league_logo": "logos/d618cd530704.png",
-   "rank": 1,
+   "league_logo": "logos/21f5bcd543ba.png",
+   "rank": 4,
    "record": "1-0",
    "last5": [
     {
@@ -415,8 +415,8 @@
     }
    ],
    "next": {
-    "date": "10.10. 14:30",
-    "opponent": "Aris"
+    "date": "17.10. 12:00",
+    "opponent": "Mykonos"
    },
    "note": ""
   },
@@ -468,8 +468,8 @@
     }
    ],
    "next": {
-    "date": "10.10. 15:00",
-    "opponent": "UU-Korihait Uusikaupunki"
+    "date": "14.10. 15:30",
+    "opponent": "KTP Kotka Basket"
    },
    "note": ""
   },
@@ -583,10 +583,19 @@
    "name": "Peristeri",
    "logo": "logos/bc3941e9ed93.png",
    "league": "Basket League",
-   "league_logo": "logos/d618cd530704.png",
-   "rank": 3,
-   "record": "1-0",
+   "league_logo": "logos/21f5bcd543ba.png",
+   "rank": 2,
+   "record": "2-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "91:89",
+     "opponent": "Iraklis",
+     "venue": "H",
+     "date": "10.10. 12:00",
+     "pf": 91,
+     "pa": 89
+    },
     {
      "wl": "W",
      "score": "88:94",
@@ -598,6 +607,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "91:89",
+     "opponent": "Iraklis",
+     "venue": "H",
+     "date": "10.10. 12:00",
+     "pf": 91,
+     "pa": 89
+    },
     {
      "wl": "W",
      "score": "88:94",
