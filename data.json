@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-11 09:17",
+ "updated": "2026-10-11 12:21",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -8,9 +8,18 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 12,
-   "record": "1-1",
+   "rank": 5,
+   "record": "2-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "83:80",
+     "opponent": "Bordo Bandirma",
+     "venue": "H",
+     "date": "11.10. 10:00",
+     "pf": 83,
+     "pa": 80
+    },
     {
      "wl": "L",
      "score": "90:81",
@@ -32,6 +41,15 @@
    ],
    "games": [
     {
+     "wl": "W",
+     "score": "83:80",
+     "opponent": "Bordo Bandirma",
+     "venue": "H",
+     "date": "11.10. 10:00",
+     "pf": 83,
+     "pa": 80
+    },
+    {
      "wl": "L",
      "score": "90:81",
      "opponent": "Besiktas",
@@ -51,8 +69,8 @@
     }
    ],
    "next": {
-    "date": "11.10. 10:00",
-    "opponent": "Bordo Bandirma"
+    "date": "18.10. 10:00",
+    "opponent": "Denizli Basket"
    },
    "note": ""
   },
@@ -285,7 +303,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 10,
+   "rank": 11,
    "record": "1-1",
    "last5": [
     {
@@ -639,7 +657,7 @@
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 11,
+   "rank": 12,
    "record": "1-1",
    "last5": [
     {
@@ -682,8 +700,8 @@
     }
    ],
    "next": {
-    "date": "11.10. 10:30",
-    "opponent": "Tenerife"
+    "date": "18.10. 15:00",
+    "opponent": "Valencia"
    },
    "note": ""
   },
@@ -923,7 +941,7 @@
    "logo": "logos/13f74fd364a6.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 10,
+   "rank": 11,
    "record": "1-2",
    "last5": [
     {
@@ -1252,7 +1270,7 @@
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 2,
+   "rank": 5,
    "record": "1-1",
    "last5": [
     {
@@ -1605,7 +1623,7 @@
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 6,
+   "rank": 7,
    "record": "1-1",
    "last5": [
     {
