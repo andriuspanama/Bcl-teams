@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-11 12:21",
+ "updated": "2026-10-11 15:15",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -8,7 +8,7 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 5,
+   "rank": 6,
    "record": "2-1",
    "last5": [
     {
@@ -258,8 +258,8 @@
     }
    ],
    "next": {
-    "date": "11.10. 14:30",
-    "opponent": "Paris"
+    "date": "16.10. 18:00",
+    "opponent": "Roanne"
    },
    "note": ""
   },
@@ -303,7 +303,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 11,
+   "rank": 12,
    "record": "1-1",
    "last5": [
     {
@@ -356,7 +356,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 7,
+   "rank": 9,
    "record": "1-1",
    "last5": [
     {
@@ -461,7 +461,7 @@
    "name": "AEK Athens",
    "logo": "logos/e8fa983046df.png",
    "league": "Basket League",
-   "league_logo": "logos/d618cd530704.png",
+   "league_logo": "logos/21f5bcd543ba.png",
    "rank": 5,
    "record": "1-1",
    "last5": [
@@ -657,9 +657,18 @@
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 12,
-   "record": "1-1",
+   "rank": 13,
+   "record": "1-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "77:90",
+     "opponent": "Tenerife",
+     "venue": "H",
+     "date": "11.10. 10:30",
+     "pf": 77,
+     "pa": 90
+    },
     {
      "wl": "W",
      "score": "100:94",
@@ -680,6 +689,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "77:90",
+     "opponent": "Tenerife",
+     "venue": "H",
+     "date": "11.10. 10:30",
+     "pf": 77,
+     "pa": 90
+    },
     {
      "wl": "W",
      "score": "100:94",
@@ -709,7 +727,7 @@
    "name": "Peristeri",
    "logo": "logos/bc3941e9ed93.png",
    "league": "Basket League",
-   "league_logo": "logos/d618cd530704.png",
+   "league_logo": "logos/21f5bcd543ba.png",
    "rank": 3,
    "record": "2-0",
    "last5": [
@@ -763,7 +781,7 @@
    "logo": "logos/75017b7879a2.png",
    "league": "BBL",
    "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 14,
+   "rank": 11,
    "record": "2-3",
    "last5": [
     {
@@ -1055,8 +1073,8 @@
     }
    ],
    "next": {
-    "date": "11.10. 15:00",
-    "opponent": "Tortona"
+    "date": "18.10. 16:00",
+    "opponent": "Verona"
    },
    "note": ""
   },
@@ -1516,7 +1534,7 @@
    "logo": "logos/6a6627a79bbc.png",
    "league": "BBL",
    "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 11,
+   "rank": 14,
    "record": "2-3",
    "last5": [
     {
@@ -1623,48 +1641,10 @@
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 7,
+   "rank": 8,
    "record": "1-1",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "104:101",
-     "opponent": "Leyma Coruna",
-     "venue": "A",
-     "date": "04.10. 10:00",
-     "pf": 101,
-     "pa": 104
-    },
-    {
-     "wl": "W",
-     "score": "107:92",
-     "opponent": "Manresa",
-     "venue": "H",
-     "date": "26.09. 16:00",
-     "pf": 107,
-     "pa": 92
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "104:101",
-     "opponent": "Leyma Coruna",
-     "venue": "A",
-     "date": "04.10. 10:00",
-     "pf": 101,
-     "pa": 104
-    },
-    {
-     "wl": "W",
-     "score": "107:92",
-     "opponent": "Manresa",
-     "venue": "H",
-     "date": "26.09. 16:00",
-     "pf": 107,
-     "pa": 92
-    }
-   ],
+   "last5": [],
+   "games": [],
    "next": {
     "date": "11.10. 16:00",
     "opponent": "San Pablo Burgos"
@@ -1870,8 +1850,8 @@
     }
    ],
    "next": {
-    "date": "11.10. 15:00",
-    "opponent": "Baskonia"
+    "date": "14.10. 18:00",
+    "opponent": "MoraBanc Andorra"
    },
    "note": ""
   },
@@ -2012,8 +1992,8 @@
     }
    ],
    "next": {
-    "date": "11.10. 14:00",
-    "opponent": "Benfica"
+    "date": "16.10. 20:00",
+    "opponent": "Esgueira"
    },
    "note": ""
   },
