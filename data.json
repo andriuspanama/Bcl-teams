@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-11 15:15",
+ "updated": "2026-10-11 18:19",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -8,7 +8,7 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 6,
+   "rank": 7,
    "record": "2-1",
    "last5": [
     {
@@ -215,9 +215,18 @@
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
    "league_logo": "logos/d3db0986330a.png",
-   "rank": 9,
-   "record": "1-1",
+   "rank": 10,
+   "record": "1-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "98:84",
+     "opponent": "Paris",
+     "venue": "A",
+     "date": "11.10. 14:30",
+     "pf": 84,
+     "pa": 98
+    },
     {
      "wl": "W",
      "score": "87:75",
@@ -238,6 +247,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "98:84",
+     "opponent": "Paris",
+     "venue": "A",
+     "date": "11.10. 14:30",
+     "pf": 84,
+     "pa": 98
+    },
     {
      "wl": "W",
      "score": "87:75",
@@ -303,7 +321,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 12,
+   "rank": 13,
    "record": "1-1",
    "last5": [
     {
@@ -356,7 +374,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 9,
+   "rank": 10,
    "record": "1-1",
    "last5": [
     {
@@ -461,7 +479,7 @@
    "name": "AEK Athens",
    "logo": "logos/e8fa983046df.png",
    "league": "Basket League",
-   "league_logo": "logos/21f5bcd543ba.png",
+   "league_logo": "logos/d618cd530704.png",
    "rank": 5,
    "record": "1-1",
    "last5": [
@@ -727,7 +745,7 @@
    "name": "Peristeri",
    "logo": "logos/bc3941e9ed93.png",
    "league": "Basket League",
-   "league_logo": "logos/21f5bcd543ba.png",
+   "league_logo": "logos/d618cd530704.png",
    "rank": 3,
    "record": "2-0",
    "last5": [
@@ -888,7 +906,7 @@
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
    "league_logo": "logos/b55c66fda764.png",
-   "rank": 6,
+   "rank": 8,
    "record": "2-1",
    "last5": [
     {
@@ -1030,9 +1048,18 @@
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
    "league_logo": "logos/b55c66fda764.png",
-   "rank": 12,
-   "record": "0-2",
+   "rank": 11,
+   "record": "1-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "93:86",
+     "opponent": "Tortona",
+     "venue": "H",
+     "date": "11.10. 15:00",
+     "pf": 93,
+     "pa": 86
+    },
     {
      "wl": "L",
      "score": "99:93",
@@ -1053,6 +1080,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "93:86",
+     "opponent": "Tortona",
+     "venue": "H",
+     "date": "11.10. 15:00",
+     "pf": 93,
+     "pa": 86
+    },
     {
      "wl": "L",
      "score": "99:93",
@@ -1083,7 +1119,7 @@
    "logo": "logos/1f2fb3cc995c.png",
    "league": "NBL",
    "league_logo": "logos/50067aa1be3f.png",
-   "rank": 2,
+   "rank": 3,
    "record": "5-1",
    "last5": [
     {
@@ -1199,9 +1235,18 @@
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
    "league_logo": "logos/e5d4a9d7c1bb.png",
-   "rank": 3,
-   "record": "2-2",
+   "rank": 8,
+   "record": "2-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "83:71",
+     "opponent": "Siauliai",
+     "venue": "A",
+     "date": "11.10. 16:10",
+     "pf": 71,
+     "pa": 83
+    },
     {
      "wl": "W",
      "score": "93:77",
@@ -1241,6 +1286,15 @@
    ],
    "games": [
     {
+     "wl": "L",
+     "score": "83:71",
+     "opponent": "Siauliai",
+     "venue": "A",
+     "date": "11.10. 16:10",
+     "pf": 71,
+     "pa": 83
+    },
+    {
      "wl": "W",
      "score": "93:77",
      "opponent": "Taurage",
@@ -1278,8 +1332,8 @@
     }
    ],
    "next": {
-    "date": "11.10. 16:10",
-    "opponent": "Siauliai"
+    "date": "18.10. 13:50",
+    "opponent": "Gargzdai"
    },
    "note": ""
   },
@@ -1341,7 +1395,7 @@
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
    "league_logo": "logos/d3db0986330a.png",
-   "rank": 7,
+   "rank": 8,
    "record": "2-1",
    "last5": [
     {
@@ -1412,13 +1466,13 @@
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
    "league_logo": "logos/07d3791c1460.png",
-   "rank": 2,
+   "rank": 3,
    "record": "0-0",
    "last5": [],
    "games": [],
    "next": {
-    "date": "11.10. 17:55",
-    "opponent": "Hapoel Jerusalem"
+    "date": "19.10. 17:05",
+    "opponent": "Ironi Eilat"
    },
    "note": ""
   },
@@ -1641,13 +1695,69 @@
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 8,
-   "record": "1-1",
-   "last5": [],
-   "games": [],
+   "rank": 4,
+   "record": "2-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "96:87",
+     "opponent": "San Pablo Burgos",
+     "venue": "H",
+     "date": "11.10. 16:00",
+     "pf": 96,
+     "pa": 87
+    },
+    {
+     "wl": "L",
+     "score": "104:101",
+     "opponent": "Leyma Coruna",
+     "venue": "A",
+     "date": "04.10. 10:00",
+     "pf": 101,
+     "pa": 104
+    },
+    {
+     "wl": "W",
+     "score": "107:92",
+     "opponent": "Manresa",
+     "venue": "H",
+     "date": "26.09. 16:00",
+     "pf": 107,
+     "pa": 92
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "96:87",
+     "opponent": "San Pablo Burgos",
+     "venue": "H",
+     "date": "11.10. 16:00",
+     "pf": 96,
+     "pa": 87
+    },
+    {
+     "wl": "L",
+     "score": "104:101",
+     "opponent": "Leyma Coruna",
+     "venue": "A",
+     "date": "04.10. 10:00",
+     "pf": 101,
+     "pa": 104
+    },
+    {
+     "wl": "W",
+     "score": "107:92",
+     "opponent": "Manresa",
+     "venue": "H",
+     "date": "26.09. 16:00",
+     "pf": 107,
+     "pa": 92
+    }
+   ],
    "next": {
-    "date": "11.10. 16:00",
-    "opponent": "San Pablo Burgos"
+    "date": "18.10. 10:30",
+    "opponent": "Real Madrid"
    },
    "note": ""
   },
@@ -1656,7 +1766,7 @@
    "logo": "logos/0abf3f361f89.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 5,
+   "rank": 6,
    "record": "1-1",
    "last5": [
     {
@@ -1825,9 +1935,18 @@
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 16,
-   "record": "0-1",
+   "rank": 17,
+   "record": "0-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "93:73",
+     "opponent": "Baskonia",
+     "venue": "A",
+     "date": "11.10. 15:00",
+     "pf": 73,
+     "pa": 93
+    },
     {
      "wl": "L",
      "score": "110:104",
@@ -1839,6 +1958,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "93:73",
+     "opponent": "Baskonia",
+     "venue": "A",
+     "date": "11.10. 15:00",
+     "pf": 73,
+     "pa": 93
+    },
     {
      "wl": "L",
      "score": "110:104",
@@ -1860,7 +1988,7 @@
    "logo": "logos/53eba8f126e3.png",
    "league": "BBL",
    "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 5,
+   "rank": 6,
    "record": "3-2",
    "last5": [
     {
@@ -1967,9 +2095,18 @@
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
    "league_logo": "logos/e985fcdd375b.png",
-   "rank": 5,
-   "record": "1-0",
+   "rank": 2,
+   "record": "2-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "93:86",
+     "opponent": "Benfica",
+     "venue": "H",
+     "date": "11.10. 14:00",
+     "pf": 93,
+     "pa": 86
+    },
     {
      "wl": "W",
      "score": "93:110",
@@ -1981,6 +2118,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "93:86",
+     "opponent": "Benfica",
+     "venue": "H",
+     "date": "11.10. 14:00",
+     "pf": 93,
+     "pa": 86
+    },
     {
      "wl": "W",
      "score": "93:110",
@@ -2002,7 +2148,7 @@
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
    "league_logo": "logos/07d3791c1460.png",
-   "rank": 3,
+   "rank": 4,
    "record": "0-0",
    "last5": [],
    "games": [],
