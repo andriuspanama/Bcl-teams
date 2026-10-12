@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-12 18:20",
+ "updated": "2026-10-12 21:16",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -287,8 +287,17 @@
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
    "rank": 10,
-   "record": "0-1",
+   "record": "0-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "82:90",
+     "opponent": "Slovan Bratislava",
+     "venue": "H",
+     "date": "12.10. 17:00",
+     "pf": 82,
+     "pa": 90
+    },
     {
      "wl": "L",
      "score": "89:76",
@@ -300,6 +309,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "82:90",
+     "opponent": "Slovan Bratislava",
+     "venue": "H",
+     "date": "12.10. 17:00",
+     "pf": 82,
+     "pa": 90
+    },
     {
      "wl": "L",
      "score": "89:76",
@@ -392,7 +410,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 10,
+   "rank": 12,
    "record": "1-1",
    "last5": [
     {
@@ -1804,7 +1822,7 @@
    "logo": "logos/0abf3f361f89.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 6,
+   "rank": 7,
    "record": "1-1",
    "last5": [
     {
@@ -2186,10 +2204,30 @@
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
    "league_logo": "logos/07d3791c1460.png",
-   "rank": 5,
-   "record": "0-0",
-   "last5": [],
-   "games": [],
+   "rank": 10,
+   "record": "0-1",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "79:89",
+     "opponent": "Maccabi Ironi Ramat Gan",
+     "venue": "H",
+     "date": "12.10. 17:10",
+     "pf": 79,
+     "pa": 89
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "79:89",
+     "opponent": "Maccabi Ironi Ramat Gan",
+     "venue": "H",
+     "date": "12.10. 17:10",
+     "pf": 79,
+     "pa": 89
+    }
+   ],
    "next": {
     "date": "18.10. 17:15",
     "opponent": "Nes Ziona"
