@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-12 15:21",
+ "updated": "2026-10-12 18:20",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -311,8 +311,8 @@
     }
    ],
    "next": {
-    "date": "12.10. 17:00",
-    "opponent": "Slovan Bratislava"
+    "date": "15.10. 16:00",
+    "opponent": "Borac Mozzart"
    },
    "note": ""
   },
@@ -321,9 +321,18 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 13,
-   "record": "1-1",
+   "rank": 12,
+   "record": "1-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "88:93",
+     "opponent": "Bursaspor",
+     "venue": "H",
+     "date": "12.10. 16:00",
+     "pf": 88,
+     "pa": 93
+    },
     {
      "wl": "L",
      "score": "78:71",
@@ -346,6 +355,15 @@
    "games": [
     {
      "wl": "L",
+     "score": "88:93",
+     "opponent": "Bursaspor",
+     "venue": "H",
+     "date": "12.10. 16:00",
+     "pf": 88,
+     "pa": 93
+    },
+    {
+     "wl": "L",
      "score": "78:71",
      "opponent": "Karsiyaka",
      "venue": "A",
@@ -364,8 +382,8 @@
     }
    ],
    "next": {
-    "date": "12.10. 16:00",
-    "opponent": "Bursaspor"
+    "date": "18.10. 17:30",
+    "opponent": "Besiktas"
    },
    "note": ""
   },
@@ -2173,8 +2191,8 @@
    "last5": [],
    "games": [],
    "next": {
-    "date": "12.10. 17:10",
-    "opponent": "Maccabi Ironi Ramat Gan"
+    "date": "18.10. 17:15",
+    "opponent": "Nes Ziona"
    },
    "note": ""
   }
