@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-14 18:34",
+ "updated": "2026-10-14 21:27",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -725,64 +725,11 @@
    "note": ""
   },
   {
-   "name": "Peristeri",
-   "logo": "logos/bc3941e9ed93.png",
-   "league": "Basket League",
-   "league_logo": "logos/d618cd530704.png",
-   "rank": 3,
-   "record": "2-0",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "91:89",
-     "opponent": "Iraklis",
-     "venue": "H",
-     "date": "10.10. 12:00",
-     "pf": 91,
-     "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "88:94",
-     "opponent": "Promitheas",
-     "venue": "A",
-     "date": "03.10. 14:00",
-     "pf": 94,
-     "pa": 88
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "91:89",
-     "opponent": "Iraklis",
-     "venue": "H",
-     "date": "10.10. 12:00",
-     "pf": 91,
-     "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "88:94",
-     "opponent": "Promitheas",
-     "venue": "A",
-     "date": "03.10. 14:00",
-     "pf": 94,
-     "pa": 88
-    }
-   ],
-   "next": {
-    "date": "18.10. 10:00",
-    "opponent": "Panathinaikos"
-   },
-   "note": ""
-  },
-  {
    "name": "Murcia",
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 13,
+   "rank": 14,
    "record": "1-2",
    "last5": [
     {
@@ -849,73 +796,55 @@
    "note": ""
   },
   {
-   "name": "Varese",
-   "logo": "logos/b645af5d2f8d.png",
-   "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
-   "rank": 8,
-   "record": "2-1",
+   "name": "Peristeri",
+   "logo": "logos/bc3941e9ed93.png",
+   "league": "Basket League",
+   "league_logo": "logos/d618cd530704.png",
+   "rank": 3,
+   "record": "2-0",
    "last5": [
     {
      "wl": "W",
-     "score": "85:84",
-     "opponent": "Trieste",
+     "score": "91:89",
+     "opponent": "Iraklis",
      "venue": "H",
-     "date": "10.10. 18:30",
-     "pf": 85,
-     "pa": 84
+     "date": "10.10. 12:00",
+     "pf": 91,
+     "pa": 89
     },
     {
      "wl": "W",
-     "score": "77:85",
-     "opponent": "Scafati",
+     "score": "88:94",
+     "opponent": "Promitheas",
      "venue": "A",
-     "date": "04.10. 15:00",
-     "pf": 85,
-     "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "69:90",
-     "opponent": "Virtus Bologna",
-     "venue": "H",
-     "date": "27.09. 17:00",
-     "pf": 69,
-     "pa": 90
+     "date": "03.10. 14:00",
+     "pf": 94,
+     "pa": 88
     }
    ],
    "games": [
     {
      "wl": "W",
-     "score": "85:84",
-     "opponent": "Trieste",
+     "score": "91:89",
+     "opponent": "Iraklis",
      "venue": "H",
-     "date": "10.10. 18:30",
-     "pf": 85,
-     "pa": 84
+     "date": "10.10. 12:00",
+     "pf": 91,
+     "pa": 89
     },
     {
      "wl": "W",
-     "score": "77:85",
-     "opponent": "Scafati",
+     "score": "88:94",
+     "opponent": "Promitheas",
      "venue": "A",
-     "date": "04.10. 15:00",
-     "pf": 85,
-     "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "69:90",
-     "opponent": "Virtus Bologna",
-     "venue": "H",
-     "date": "27.09. 17:00",
-     "pf": 69,
-     "pa": 90
+     "date": "03.10. 14:00",
+     "pf": 94,
+     "pa": 88
     }
    ],
    "next": {
-    "date": "18.10. 14:00",
-    "opponent": "Trento"
+    "date": "18.10. 10:00",
+    "opponent": "Panathinaikos"
    },
    "note": ""
   },
@@ -1023,6 +952,77 @@
    "next": {
     "date": "23.10. 18:00",
     "opponent": "Oldenburg"
+   },
+   "note": ""
+  },
+  {
+   "name": "Varese",
+   "logo": "logos/b645af5d2f8d.png",
+   "league": "Lega A",
+   "league_logo": "logos/b55c66fda764.png",
+   "rank": 8,
+   "record": "2-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "85:84",
+     "opponent": "Trieste",
+     "venue": "H",
+     "date": "10.10. 18:30",
+     "pf": 85,
+     "pa": 84
+    },
+    {
+     "wl": "W",
+     "score": "77:85",
+     "opponent": "Scafati",
+     "venue": "A",
+     "date": "04.10. 15:00",
+     "pf": 85,
+     "pa": 77
+    },
+    {
+     "wl": "L",
+     "score": "69:90",
+     "opponent": "Virtus Bologna",
+     "venue": "H",
+     "date": "27.09. 17:00",
+     "pf": 69,
+     "pa": 90
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "85:84",
+     "opponent": "Trieste",
+     "venue": "H",
+     "date": "10.10. 18:30",
+     "pf": 85,
+     "pa": 84
+    },
+    {
+     "wl": "W",
+     "score": "77:85",
+     "opponent": "Scafati",
+     "venue": "A",
+     "date": "04.10. 15:00",
+     "pf": 85,
+     "pa": 77
+    },
+    {
+     "wl": "L",
+     "score": "69:90",
+     "opponent": "Virtus Bologna",
+     "venue": "H",
+     "date": "27.09. 17:00",
+     "pf": 69,
+     "pa": 90
+    }
+   ],
+   "next": {
+    "date": "18.10. 14:00",
+    "opponent": "Trento"
    },
    "note": ""
   },
@@ -1401,59 +1401,6 @@
    "note": ""
   },
   {
-   "name": "Spartak Subotica",
-   "logo": "logos/3e1e7c9cc3b4.png",
-   "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
-   "rank": 6,
-   "record": "1-1",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "76:82",
-     "opponent": "Perspektiva Ilirija",
-     "venue": "A",
-     "date": "10.10. 15:30",
-     "pf": 82,
-     "pa": 76
-    },
-    {
-     "wl": "L",
-     "score": "79:95",
-     "opponent": "KK Bosna",
-     "venue": "H",
-     "date": "03.10. 17:00",
-     "pf": 79,
-     "pa": 95
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "76:82",
-     "opponent": "Perspektiva Ilirija",
-     "venue": "A",
-     "date": "10.10. 15:30",
-     "pf": 82,
-     "pa": 76
-    },
-    {
-     "wl": "L",
-     "score": "79:95",
-     "opponent": "KK Bosna",
-     "venue": "H",
-     "date": "03.10. 17:00",
-     "pf": 79,
-     "pa": 95
-    }
-   ],
-   "next": {
-    "date": "18.10. 16:00",
-    "opponent": "Cluj-Napoca"
-   },
-   "note": ""
-  },
-  {
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
@@ -1556,6 +1503,59 @@
    "next": {
     "date": "19.10. 17:05",
     "opponent": "Ironi Eilat"
+   },
+   "note": ""
+  },
+  {
+   "name": "Spartak Subotica",
+   "logo": "logos/3e1e7c9cc3b4.png",
+   "league": "Adrijos lyga",
+   "league_logo": "logos/4ecaeb496585.png",
+   "rank": 6,
+   "record": "1-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "76:82",
+     "opponent": "Perspektiva Ilirija",
+     "venue": "A",
+     "date": "10.10. 15:30",
+     "pf": 82,
+     "pa": 76
+    },
+    {
+     "wl": "L",
+     "score": "79:95",
+     "opponent": "KK Bosna",
+     "venue": "H",
+     "date": "03.10. 17:00",
+     "pf": 79,
+     "pa": 95
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "76:82",
+     "opponent": "Perspektiva Ilirija",
+     "venue": "A",
+     "date": "10.10. 15:30",
+     "pf": 82,
+     "pa": 76
+    },
+    {
+     "wl": "L",
+     "score": "79:95",
+     "opponent": "KK Bosna",
+     "venue": "H",
+     "date": "03.10. 17:00",
+     "pf": 79,
+     "pa": 95
+    }
+   ],
+   "next": {
+    "date": "18.10. 16:00",
+    "opponent": "Cluj-Napoca"
    },
    "note": ""
   },
@@ -2018,9 +2018,18 @@
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 17,
-   "record": "0-2",
+   "rank": 12,
+   "record": "1-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "96:75",
+     "opponent": "MoraBanc Andorra",
+     "venue": "H",
+     "date": "14.10. 18:00",
+     "pf": 96,
+     "pa": 75
+    },
     {
      "wl": "L",
      "score": "93:73",
@@ -2041,6 +2050,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "96:75",
+     "opponent": "MoraBanc Andorra",
+     "venue": "H",
+     "date": "14.10. 18:00",
+     "pf": 96,
+     "pa": 75
+    },
     {
      "wl": "L",
      "score": "93:73",
