@@ -1,8 +1,79 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-14 15:33",
+ "updated": "2026-10-14 18:34",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
+  {
+   "name": "Trabzonspor",
+   "logo": "logos/d3bb36600b97.png",
+   "league": "Super Lig",
+   "league_logo": "logos/577d84baf758.png",
+   "rank": 7,
+   "record": "2-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "83:80",
+     "opponent": "Bordo Bandirma",
+     "venue": "H",
+     "date": "11.10. 10:00",
+     "pf": 83,
+     "pa": 80
+    },
+    {
+     "wl": "L",
+     "score": "90:81",
+     "opponent": "Besiktas",
+     "venue": "A",
+     "date": "05.10. 16:00",
+     "pf": 81,
+     "pa": 90
+    },
+    {
+     "wl": "W",
+     "score": "82:76",
+     "opponent": "Bursaspor",
+     "venue": "H",
+     "date": "27.09. 12:30",
+     "pf": 82,
+     "pa": 76
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "83:80",
+     "opponent": "Bordo Bandirma",
+     "venue": "H",
+     "date": "11.10. 10:00",
+     "pf": 83,
+     "pa": 80
+    },
+    {
+     "wl": "L",
+     "score": "90:81",
+     "opponent": "Besiktas",
+     "venue": "A",
+     "date": "05.10. 16:00",
+     "pf": 81,
+     "pa": 90
+    },
+    {
+     "wl": "W",
+     "score": "82:76",
+     "opponent": "Bursaspor",
+     "venue": "H",
+     "date": "27.09. 12:30",
+     "pf": 82,
+     "pa": 76
+    }
+   ],
+   "next": {
+    "date": "18.10. 10:00",
+    "opponent": "Denizli Basket"
+   },
+   "note": ""
+  },
   {
    "name": "Nanterre",
    "logo": "logos/73df077a34e1.png",
@@ -124,77 +195,6 @@
    "next": {
     "date": "17.10. 13:50",
     "opponent": "Siauliai"
-   },
-   "note": ""
-  },
-  {
-   "name": "Trabzonspor",
-   "logo": "logos/d3bb36600b97.png",
-   "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
-   "rank": 7,
-   "record": "2-1",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "83:80",
-     "opponent": "Bordo Bandirma",
-     "venue": "H",
-     "date": "11.10. 10:00",
-     "pf": 83,
-     "pa": 80
-    },
-    {
-     "wl": "L",
-     "score": "90:81",
-     "opponent": "Besiktas",
-     "venue": "A",
-     "date": "05.10. 16:00",
-     "pf": 81,
-     "pa": 90
-    },
-    {
-     "wl": "W",
-     "score": "82:76",
-     "opponent": "Bursaspor",
-     "venue": "H",
-     "date": "27.09. 12:30",
-     "pf": 82,
-     "pa": 76
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "83:80",
-     "opponent": "Bordo Bandirma",
-     "venue": "H",
-     "date": "11.10. 10:00",
-     "pf": 83,
-     "pa": 80
-    },
-    {
-     "wl": "L",
-     "score": "90:81",
-     "opponent": "Besiktas",
-     "venue": "A",
-     "date": "05.10. 16:00",
-     "pf": 81,
-     "pa": 90
-    },
-    {
-     "wl": "W",
-     "score": "82:76",
-     "opponent": "Bursaspor",
-     "venue": "H",
-     "date": "27.09. 12:30",
-     "pf": 82,
-     "pa": 76
-    }
-   ],
-   "next": {
-    "date": "18.10. 10:00",
-    "opponent": "Denizli Basket"
    },
    "note": ""
   },
@@ -569,9 +569,18 @@
    "logo": "logos/047cf29bd231.png",
    "league": "Korisliiga",
    "league_logo": "logos/2a39fb1c52b4.png",
-   "rank": 4,
-   "record": "2-1",
+   "rank": 7,
+   "record": "2-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "81:102",
+     "opponent": "KTP Kotka Basket",
+     "venue": "H",
+     "date": "14.10. 15:30",
+     "pf": 81,
+     "pa": 102
+    },
     {
      "wl": "W",
      "score": "95:73",
@@ -601,6 +610,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "81:102",
+     "opponent": "KTP Kotka Basket",
+     "venue": "H",
+     "date": "14.10. 15:30",
+     "pf": 81,
+     "pa": 102
+    },
     {
      "wl": "W",
      "score": "95:73",
@@ -1155,9 +1173,18 @@
    "logo": "logos/1f2fb3cc995c.png",
    "league": "NBL",
    "league_logo": "logos/50067aa1be3f.png",
-   "rank": 3,
-   "record": "5-1",
+   "rank": 2,
+   "record": "6-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "88:61",
+     "opponent": "Olomoucko",
+     "venue": "H",
+     "date": "14.10. 15:30",
+     "pf": 88,
+     "pa": 61
+    },
     {
      "wl": "L",
      "score": "105:60",
@@ -1193,18 +1220,18 @@
      "date": "26.09. 16:00",
      "pf": 88,
      "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "54:100",
-     "opponent": "Olomoucko",
-     "venue": "A",
-     "date": "23.09. 16:00",
-     "pf": 100,
-     "pa": 54
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "88:61",
+     "opponent": "Olomoucko",
+     "venue": "H",
+     "date": "14.10. 15:30",
+     "pf": 88,
+     "pa": 61
+    },
     {
      "wl": "L",
      "score": "105:60",
@@ -2034,8 +2061,8 @@
     }
    ],
    "next": {
-    "date": "14.10. 18:00",
-    "opponent": "MoraBanc Andorra"
+    "date": "18.10. 17:00",
+    "opponent": "Barcelona"
    },
    "note": ""
   },
