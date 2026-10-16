@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-16 18:29",
+ "updated": "2026-10-16 21:25",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -215,9 +215,18 @@
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
    "league_logo": "logos/d3db0986330a.png",
-   "rank": 10,
-   "record": "1-2",
+   "rank": 8,
+   "record": "2-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "72:70",
+     "opponent": "Roanne",
+     "venue": "H",
+     "date": "16.10. 18:00",
+     "pf": 72,
+     "pa": 70
+    },
     {
      "wl": "L",
      "score": "98:84",
@@ -247,6 +256,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "72:70",
+     "opponent": "Roanne",
+     "venue": "H",
+     "date": "16.10. 18:00",
+     "pf": 72,
+     "pa": 70
+    },
     {
      "wl": "L",
      "score": "98:84",
@@ -286,9 +304,18 @@
    "logo": "logos/e29523e50e3b.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 10,
-   "record": "0-2",
+   "rank": 9,
+   "record": "0-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "94:95",
+     "opponent": "Borac Mozzart",
+     "venue": "H",
+     "date": "16.10. 16:30",
+     "pf": 94,
+     "pa": 95
+    },
     {
      "wl": "L",
      "score": "82:90",
@@ -309,6 +336,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "94:95",
+     "opponent": "Borac Mozzart",
+     "venue": "H",
+     "date": "16.10. 16:30",
+     "pf": 94,
+     "pa": 95
+    },
     {
      "wl": "L",
      "score": "82:90",
@@ -410,9 +446,18 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 12,
-   "record": "1-1",
+   "rank": 1,
+   "record": "2-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "73:72",
+     "opponent": "Anwil Wloclawek",
+     "venue": "H",
+     "date": "16.10. 18:15",
+     "pf": 73,
+     "pa": 72
+    },
     {
      "wl": "L",
      "score": "104:87",
@@ -433,6 +478,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "73:72",
+     "opponent": "Anwil Wloclawek",
+     "venue": "H",
+     "date": "16.10. 18:15",
+     "pf": 73,
+     "pa": 72
+    },
     {
      "wl": "L",
      "score": "104:87",
@@ -463,7 +517,7 @@
    "logo": "logos/f22e250d02bb.png",
    "league": "BNXT lyga",
    "league_logo": "logos/cc3eb03ee169.png",
-   "rank": 1,
+   "rank": 2,
    "record": "2-0",
    "last5": [
     {
@@ -1529,7 +1583,7 @@
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 6,
+   "rank": 7,
    "record": "1-1",
    "last5": [
     {
@@ -2257,8 +2311,8 @@
     }
    ],
    "next": {
-    "date": "16.10. 20:00",
-    "opponent": "Esgueira"
+    "date": "25.10. 15:00",
+    "opponent": "CAB Madeira"
    },
    "note": ""
   },
