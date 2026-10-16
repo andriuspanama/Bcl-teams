@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-16 15:28",
+ "updated": "2026-10-16 18:29",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -8,7 +8,7 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 7,
+   "rank": 8,
    "record": "2-1",
    "last5": [
     {
@@ -276,8 +276,8 @@
     }
    ],
    "next": {
-    "date": "16.10. 18:00",
-    "opponent": "Roanne"
+    "date": "24.10. 16:30",
+    "opponent": "Chalon/Saone"
    },
    "note": ""
   },
@@ -329,8 +329,8 @@
     }
    ],
    "next": {
-    "date": "16.10. 16:30",
-    "opponent": "Borac Mozzart"
+    "date": "26.10. 17:00",
+    "opponent": "KK Krka Novo mesto"
    },
    "note": ""
   },
@@ -339,7 +339,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 12,
+   "rank": 9,
    "record": "1-2",
    "last5": [
     {
@@ -453,8 +453,8 @@
     }
    ],
    "next": {
-    "date": "16.10. 18:15",
-    "opponent": "Anwil Wloclawek"
+    "date": "25.10. 14:00",
+    "opponent": "Ostrow Wielkopolski"
    },
    "note": ""
   },
@@ -569,7 +569,7 @@
    "logo": "logos/047cf29bd231.png",
    "league": "Korisliiga",
    "league_logo": "logos/2a39fb1c52b4.png",
-   "rank": 7,
+   "rank": 4,
    "record": "2-2",
    "last5": [
     {
@@ -659,8 +659,17 @@
    "league": "NB I. A",
    "league_logo": "logos/61a093b35850.png",
    "rank": 1,
-   "record": "3-0",
+   "record": "4-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "78:106",
+     "opponent": "NKA Pecs",
+     "venue": "A",
+     "date": "16.10. 16:00",
+     "pf": 106,
+     "pa": 78
+    },
     {
      "wl": "W",
      "score": "96:65",
@@ -692,6 +701,15 @@
    "games": [
     {
      "wl": "W",
+     "score": "78:106",
+     "opponent": "NKA Pecs",
+     "venue": "A",
+     "date": "16.10. 16:00",
+     "pf": 106,
+     "pa": 78
+    },
+    {
+     "wl": "W",
      "score": "96:65",
      "opponent": "Szedeak",
      "venue": "H",
@@ -719,8 +737,8 @@
     }
    ],
    "next": {
-    "date": "16.10. 16:00",
-    "opponent": "NKA Pecs"
+    "date": "24.10. 16:00",
+    "opponent": "Kecskemeti TE"
    },
    "note": ""
   },
