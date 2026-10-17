@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-17 09:24",
+ "updated": "2026-10-17 12:27",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -8,7 +8,7 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 8,
+   "rank": 6,
    "record": "2-1",
    "last5": [
     {
@@ -375,7 +375,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 9,
+   "rank": 10,
    "record": "1-2",
    "last5": [
     {
@@ -613,8 +613,8 @@
     }
    ],
    "next": {
-    "date": "17.10. 12:00",
-    "opponent": "Mykonos"
+    "date": "24.10. 14:30",
+    "opponent": "PAOK"
    },
    "note": ""
   },
