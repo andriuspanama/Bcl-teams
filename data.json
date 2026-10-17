@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-16 21:25",
+ "updated": "2026-10-17 00:34",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -2268,9 +2268,18 @@
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
    "league_logo": "logos/e985fcdd375b.png",
-   "rank": 2,
-   "record": "2-0",
+   "rank": 1,
+   "record": "3-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "91:95",
+     "opponent": "Esgueira",
+     "venue": "A",
+     "date": "16.10. 20:00",
+     "pf": 95,
+     "pa": 91
+    },
     {
      "wl": "W",
      "score": "93:86",
@@ -2291,6 +2300,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "91:95",
+     "opponent": "Esgueira",
+     "venue": "A",
+     "date": "16.10. 20:00",
+     "pf": 95,
+     "pa": 91
+    },
     {
      "wl": "W",
      "score": "93:86",
