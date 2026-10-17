@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-17 12:27",
+ "updated": "2026-10-17 15:23",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -8,7 +8,7 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 6,
+   "rank": 5,
    "record": "2-1",
    "last5": [
     {
@@ -193,8 +193,8 @@
     }
    ],
    "next": {
-    "date": "17.10. 13:50",
-    "opponent": "Siauliai"
+    "date": "21.10. 15:00",
+    "opponent": "Taurage"
    },
    "note": ""
   },
@@ -375,7 +375,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 10,
+   "rank": 12,
    "record": "1-2",
    "last5": [
     {
@@ -570,9 +570,18 @@
    "logo": "logos/e8fa983046df.png",
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
-   "rank": 5,
-   "record": "1-1",
+   "rank": 2,
+   "record": "2-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "84:79",
+     "opponent": "Mykonos",
+     "venue": "H",
+     "date": "17.10. 12:00",
+     "pf": 84,
+     "pa": 79
+    },
     {
      "wl": "L",
      "score": "88:58",
@@ -593,6 +602,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "84:79",
+     "opponent": "Mykonos",
+     "venue": "H",
+     "date": "17.10. 12:00",
+     "pf": 84,
+     "pa": 79
+    },
     {
      "wl": "L",
      "score": "88:58",
@@ -624,8 +642,17 @@
    "league": "Korisliiga",
    "league_logo": "logos/2a39fb1c52b4.png",
    "rank": 4,
-   "record": "2-2",
+   "record": "3-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "70:81",
+     "opponent": "Bisons Loimaa",
+     "venue": "A",
+     "date": "17.10. 13:00",
+     "pf": 81,
+     "pa": 70
+    },
     {
      "wl": "L",
      "score": "81:102",
@@ -665,6 +692,15 @@
    ],
    "games": [
     {
+     "wl": "W",
+     "score": "70:81",
+     "opponent": "Bisons Loimaa",
+     "venue": "A",
+     "date": "17.10. 13:00",
+     "pf": 81,
+     "pa": 70
+    },
+    {
      "wl": "L",
      "score": "81:102",
      "opponent": "KTP Kotka Basket",
@@ -702,8 +738,8 @@
     }
    ],
    "next": {
-    "date": "17.10. 13:00",
-    "opponent": "Bisons Loimaa"
+    "date": "24.10. 15:00",
+    "opponent": "Helsinki Seagulls"
    },
    "note": ""
   },
@@ -872,7 +908,7 @@
    "logo": "logos/bc3941e9ed93.png",
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
-   "rank": 3,
+   "rank": 4,
    "record": "2-0",
    "last5": [
     {
