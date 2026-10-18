@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-18 12:28",
+ "updated": "2026-10-18 15:23",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -429,7 +429,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 13,
+   "rank": 14,
    "record": "1-2",
    "last5": [
     {
@@ -500,7 +500,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 5,
+   "rank": 3,
    "record": "2-1",
    "last5": [
     {
@@ -970,8 +970,8 @@
     }
    ],
    "next": {
-    "date": "18.10. 15:00",
-    "opponent": "Valencia"
+    "date": "24.10. 17:30",
+    "opponent": "Leyma Coruna"
    },
    "note": ""
   },
@@ -1219,8 +1219,8 @@
     }
    ],
    "next": {
-    "date": "18.10. 14:00",
-    "opponent": "Trento"
+    "date": "24.10. 18:00",
+    "opponent": "BC Roma"
    },
    "note": ""
   },
@@ -1620,8 +1620,8 @@
     }
    ],
    "next": {
-    "date": "18.10. 13:50",
-    "opponent": "Gargzdai"
+    "date": "25.10. 14:50",
+    "opponent": "Rytas"
    },
    "note": ""
   },
