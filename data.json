@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-18 09:24",
+ "updated": "2026-10-18 12:28",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -8,9 +8,18 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 9,
-   "record": "2-1",
+   "rank": 3,
+   "record": "3-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "70:75",
+     "opponent": "Denizli Basket",
+     "venue": "A",
+     "date": "18.10. 10:00",
+     "pf": 75,
+     "pa": 70
+    },
     {
      "wl": "W",
      "score": "83:80",
@@ -42,6 +51,15 @@
    "games": [
     {
      "wl": "W",
+     "score": "70:75",
+     "opponent": "Denizli Basket",
+     "venue": "A",
+     "date": "18.10. 10:00",
+     "pf": 75,
+     "pa": 70
+    },
+    {
+     "wl": "W",
      "score": "83:80",
      "opponent": "Bordo Bandirma",
      "venue": "H",
@@ -69,8 +87,8 @@
     }
    ],
    "next": {
-    "date": "18.10. 10:00",
-    "opponent": "Denizli Basket"
+    "date": "24.10. 10:00",
+    "opponent": "Esenler Erokspor"
    },
    "note": ""
   },
@@ -411,7 +429,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 12,
+   "rank": 13,
    "record": "1-2",
    "last5": [
     {
@@ -963,8 +981,17 @@
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
    "rank": 5,
-   "record": "2-0",
+   "record": "2-1",
    "last5": [
+    {
+     "wl": "L",
+     "score": "95:75",
+     "opponent": "Panathinaikos",
+     "venue": "A",
+     "date": "18.10. 10:00",
+     "pf": 75,
+     "pa": 95
+    },
     {
      "wl": "W",
      "score": "91:89",
@@ -986,6 +1013,15 @@
    ],
    "games": [
     {
+     "wl": "L",
+     "score": "95:75",
+     "opponent": "Panathinaikos",
+     "venue": "A",
+     "date": "18.10. 10:00",
+     "pf": 75,
+     "pa": 95
+    },
+    {
      "wl": "W",
      "score": "91:89",
      "opponent": "Iraklis",
@@ -1005,8 +1041,8 @@
     }
    ],
    "next": {
-    "date": "18.10. 10:00",
-    "opponent": "Panathinaikos"
+    "date": "24.10. 14:30",
+    "opponent": "Maroussi"
    },
    "note": ""
   },
@@ -1985,9 +2021,18 @@
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 5,
-   "record": "2-1",
+   "rank": 9,
+   "record": "2-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "119:84",
+     "opponent": "Real Madrid",
+     "venue": "A",
+     "date": "18.10. 10:30",
+     "pf": 84,
+     "pa": 119
+    },
     {
      "wl": "W",
      "score": "96:87",
@@ -2018,6 +2063,15 @@
    ],
    "games": [
     {
+     "wl": "L",
+     "score": "119:84",
+     "opponent": "Real Madrid",
+     "venue": "A",
+     "date": "18.10. 10:30",
+     "pf": 84,
+     "pa": 119
+    },
+    {
      "wl": "W",
      "score": "96:87",
      "opponent": "San Pablo Burgos",
@@ -2046,8 +2100,8 @@
     }
    ],
    "next": {
-    "date": "18.10. 10:30",
-    "opponent": "Real Madrid"
+    "date": "25.10. 11:00",
+    "opponent": "MoraBanc Andorra"
    },
    "note": ""
   },
@@ -2252,7 +2306,7 @@
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 12,
+   "rank": 13,
    "record": "1-2",
    "last5": [
     {
