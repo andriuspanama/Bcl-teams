@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-18 18:25",
+ "updated": "2026-10-18 21:22",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -429,9 +429,18 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 14,
-   "record": "1-2",
+   "rank": 12,
+   "record": "1-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "83:80",
+     "opponent": "Besiktas",
+     "venue": "A",
+     "date": "18.10. 17:30",
+     "pf": 80,
+     "pa": 83
+    },
     {
      "wl": "L",
      "score": "88:93",
@@ -461,6 +470,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "83:80",
+     "opponent": "Besiktas",
+     "venue": "A",
+     "date": "18.10. 17:30",
+     "pf": 80,
+     "pa": 83
+    },
     {
      "wl": "L",
      "score": "88:93",
@@ -1176,7 +1194,7 @@
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
    "league_logo": "logos/b55c66fda764.png",
-   "rank": 9,
+   "rank": 10,
    "record": "2-2",
    "last5": [
     {
@@ -1354,7 +1372,7 @@
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
    "league_logo": "logos/b55c66fda764.png",
-   "rank": 14,
+   "rank": 12,
    "record": "1-3",
    "last5": [
     {
@@ -1817,9 +1835,18 @@
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 9,
-   "record": "1-1",
+   "rank": 3,
+   "record": "2-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "89:75",
+     "opponent": "Cluj-Napoca",
+     "venue": "H",
+     "date": "18.10. 17:30",
+     "pf": 89,
+     "pa": 75
+    },
     {
      "wl": "W",
      "score": "76:82",
@@ -1840,6 +1867,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "89:75",
+     "opponent": "Cluj-Napoca",
+     "venue": "H",
+     "date": "18.10. 17:30",
+     "pf": 89,
+     "pa": 75
+    },
     {
      "wl": "W",
      "score": "76:82",
@@ -2084,7 +2120,7 @@
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 10,
+   "rank": 11,
    "record": "2-2",
    "last5": [
     {
@@ -2369,9 +2405,18 @@
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 13,
-   "record": "1-2",
+   "rank": 8,
+   "record": "2-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "113:89",
+     "opponent": "Barcelona",
+     "venue": "H",
+     "date": "18.10. 17:00",
+     "pf": 113,
+     "pa": 89
+    },
     {
      "wl": "W",
      "score": "96:75",
@@ -2401,6 +2446,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "113:89",
+     "opponent": "Barcelona",
+     "venue": "H",
+     "date": "18.10. 17:00",
+     "pf": 113,
+     "pa": 89
+    },
     {
      "wl": "W",
      "score": "96:75",
@@ -2618,9 +2672,18 @@
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
    "league_logo": "logos/07d3791c1460.png",
-   "rank": 10,
-   "record": "0-1",
+   "rank": 7,
+   "record": "1-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "96:103",
+     "opponent": "Nes Ziona",
+     "venue": "A",
+     "date": "18.10. 17:15",
+     "pf": 103,
+     "pa": 96
+    },
     {
      "wl": "L",
      "score": "79:89",
@@ -2632,6 +2695,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "96:103",
+     "opponent": "Nes Ziona",
+     "venue": "A",
+     "date": "18.10. 17:15",
+     "pf": 103,
+     "pa": 96
+    },
     {
      "wl": "L",
      "score": "79:89",
