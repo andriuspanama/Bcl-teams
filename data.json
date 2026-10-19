@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-19 18:27",
+ "updated": "2026-10-19 21:24",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -1800,9 +1800,18 @@
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
    "league_logo": "logos/07d3791c1460.png",
-   "rank": 12,
-   "record": "0-1",
+   "rank": 14,
+   "record": "0-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "78:69",
+     "opponent": "Ironi Eilat",
+     "venue": "A",
+     "date": "19.10. 17:05",
+     "pf": 69,
+     "pa": 78
+    },
     {
      "wl": "L",
      "score": "69:92",
@@ -1814,6 +1823,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "78:69",
+     "opponent": "Ironi Eilat",
+     "venue": "A",
+     "date": "19.10. 17:05",
+     "pf": 69,
+     "pa": 78
+    },
     {
      "wl": "L",
      "score": "69:92",
@@ -2672,7 +2690,7 @@
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
    "league_logo": "logos/07d3791c1460.png",
-   "rank": 7,
+   "rank": 8,
    "record": "1-1",
    "last5": [
     {
