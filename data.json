@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-20 15:29",
+ "updated": "2026-10-20 18:29",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -585,6 +585,95 @@
    "note": ""
   },
   {
+   "name": "Szombathely",
+   "logo": "logos/9fb8bfa07c32.png",
+   "league": "NB I. A",
+   "league_logo": "logos/61a093b35850.png",
+   "rank": 1,
+   "record": "4-0",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "78:106",
+     "opponent": "NKA Pecs",
+     "venue": "A",
+     "date": "16.10. 16:00",
+     "pf": 106,
+     "pa": 78
+    },
+    {
+     "wl": "W",
+     "score": "96:65",
+     "opponent": "Szedeak",
+     "venue": "H",
+     "date": "10.10. 16:00",
+     "pf": 96,
+     "pa": 65
+    },
+    {
+     "wl": "W",
+     "score": "74:98",
+     "opponent": "OSE Lions",
+     "venue": "A",
+     "date": "03.10. 16:00",
+     "pf": 98,
+     "pa": 74
+    },
+    {
+     "wl": "W",
+     "score": "94:75",
+     "opponent": "Phoenix-MT Fot",
+     "venue": "H",
+     "date": "26.09. 16:00",
+     "pf": 94,
+     "pa": 75
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "78:106",
+     "opponent": "NKA Pecs",
+     "venue": "A",
+     "date": "16.10. 16:00",
+     "pf": 106,
+     "pa": 78
+    },
+    {
+     "wl": "W",
+     "score": "96:65",
+     "opponent": "Szedeak",
+     "venue": "H",
+     "date": "10.10. 16:00",
+     "pf": 96,
+     "pa": 65
+    },
+    {
+     "wl": "W",
+     "score": "74:98",
+     "opponent": "OSE Lions",
+     "venue": "A",
+     "date": "03.10. 16:00",
+     "pf": 98,
+     "pa": 74
+    },
+    {
+     "wl": "W",
+     "score": "94:75",
+     "opponent": "Phoenix-MT Fot",
+     "venue": "H",
+     "date": "26.09. 16:00",
+     "pf": 94,
+     "pa": 75
+    }
+   ],
+   "next": {
+    "date": "24.10. 16:00",
+    "opponent": "Kecskemeti TE"
+   },
+   "note": ""
+  },
+  {
    "name": "Antwerp Giants",
    "logo": "logos/f22e250d02bb.png",
    "league": "BNXT lyga",
@@ -830,95 +919,6 @@
    "next": {
     "date": "24.10. 15:00",
     "opponent": "Helsinki Seagulls"
-   },
-   "note": ""
-  },
-  {
-   "name": "Szombathely",
-   "logo": "logos/9fb8bfa07c32.png",
-   "league": "NB I. A",
-   "league_logo": "logos/61a093b35850.png",
-   "rank": 1,
-   "record": "4-0",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "78:106",
-     "opponent": "NKA Pecs",
-     "venue": "A",
-     "date": "16.10. 16:00",
-     "pf": 106,
-     "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "96:65",
-     "opponent": "Szedeak",
-     "venue": "H",
-     "date": "10.10. 16:00",
-     "pf": 96,
-     "pa": 65
-    },
-    {
-     "wl": "W",
-     "score": "74:98",
-     "opponent": "OSE Lions",
-     "venue": "A",
-     "date": "03.10. 16:00",
-     "pf": 98,
-     "pa": 74
-    },
-    {
-     "wl": "W",
-     "score": "94:75",
-     "opponent": "Phoenix-MT Fot",
-     "venue": "H",
-     "date": "26.09. 16:00",
-     "pf": 94,
-     "pa": 75
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "78:106",
-     "opponent": "NKA Pecs",
-     "venue": "A",
-     "date": "16.10. 16:00",
-     "pf": 106,
-     "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "96:65",
-     "opponent": "Szedeak",
-     "venue": "H",
-     "date": "10.10. 16:00",
-     "pf": 96,
-     "pa": 65
-    },
-    {
-     "wl": "W",
-     "score": "74:98",
-     "opponent": "OSE Lions",
-     "venue": "A",
-     "date": "03.10. 16:00",
-     "pf": 98,
-     "pa": 74
-    },
-    {
-     "wl": "W",
-     "score": "94:75",
-     "opponent": "Phoenix-MT Fot",
-     "venue": "H",
-     "date": "26.09. 16:00",
-     "pf": 94,
-     "pa": 75
-    }
-   ],
-   "next": {
-    "date": "24.10. 16:00",
-    "opponent": "Kecskemeti TE"
    },
    "note": ""
   },
