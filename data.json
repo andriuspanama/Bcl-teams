@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-21 18:28",
+ "updated": "2026-10-21 21:25",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -766,7 +766,7 @@
    "name": "AEK Athens",
    "logo": "logos/e8fa983046df.png",
    "league": "Basket League",
-   "league_logo": "logos/d618cd530704.png",
+   "league_logo": "logos/21f5bcd543ba.png",
    "rank": 4,
    "record": "2-1",
    "last5": [
@@ -1033,7 +1033,7 @@
    "name": "Peristeri",
    "logo": "logos/bc3941e9ed93.png",
    "league": "Basket League",
-   "league_logo": "logos/d618cd530704.png",
+   "league_logo": "logos/21f5bcd543ba.png",
    "rank": 5,
    "record": "2-1",
    "last5": [
@@ -1386,6 +1386,122 @@
    "note": ""
   },
   {
+   "name": "Juventus",
+   "logo": "logos/a5e67dc17035.png",
+   "league": "LKL",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "rank": 7,
+   "record": "3-3",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "100:90",
+     "opponent": "Gargzdai",
+     "venue": "H",
+     "date": "18.10. 13:50",
+     "pf": 100,
+     "pa": 90
+    },
+    {
+     "wl": "L",
+     "score": "83:71",
+     "opponent": "Siauliai",
+     "venue": "A",
+     "date": "11.10. 16:10",
+     "pf": 71,
+     "pa": 83
+    },
+    {
+     "wl": "W",
+     "score": "93:77",
+     "opponent": "Taurage",
+     "venue": "H",
+     "date": "04.10. 16:10",
+     "pf": 93,
+     "pa": 77
+    },
+    {
+     "wl": "W",
+     "score": "94:77",
+     "opponent": "Nevezis",
+     "venue": "H",
+     "date": "27.09. 16:10",
+     "pf": 94,
+     "pa": 77
+    },
+    {
+     "wl": "L",
+     "score": "99:84",
+     "opponent": "Neptunas",
+     "venue": "A",
+     "date": "23.09. 15:30",
+     "pf": 84,
+     "pa": 99
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "100:90",
+     "opponent": "Gargzdai",
+     "venue": "H",
+     "date": "18.10. 13:50",
+     "pf": 100,
+     "pa": 90
+    },
+    {
+     "wl": "L",
+     "score": "83:71",
+     "opponent": "Siauliai",
+     "venue": "A",
+     "date": "11.10. 16:10",
+     "pf": 71,
+     "pa": 83
+    },
+    {
+     "wl": "W",
+     "score": "93:77",
+     "opponent": "Taurage",
+     "venue": "H",
+     "date": "04.10. 16:10",
+     "pf": 93,
+     "pa": 77
+    },
+    {
+     "wl": "W",
+     "score": "94:77",
+     "opponent": "Nevezis",
+     "venue": "H",
+     "date": "27.09. 16:10",
+     "pf": 94,
+     "pa": 77
+    },
+    {
+     "wl": "L",
+     "score": "99:84",
+     "opponent": "Neptunas",
+     "venue": "A",
+     "date": "23.09. 15:30",
+     "pf": 84,
+     "pa": 99
+    },
+    {
+     "wl": "L",
+     "score": "84:82",
+     "opponent": "Lietkabelis",
+     "venue": "A",
+     "date": "19.09. 13:50",
+     "pf": 82,
+     "pa": 84
+    }
+   ],
+   "next": {
+    "date": "25.10. 14:50",
+    "opponent": "Rytas"
+   },
+   "note": ""
+  },
+  {
    "name": "Reggiana",
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
@@ -1605,122 +1721,6 @@
    "next": {
     "date": "25.10. 17:00",
     "opponent": "Usti n. Labem"
-   },
-   "note": ""
-  },
-  {
-   "name": "Juventus",
-   "logo": "logos/a5e67dc17035.png",
-   "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
-   "rank": 7,
-   "record": "3-3",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "100:90",
-     "opponent": "Gargzdai",
-     "venue": "H",
-     "date": "18.10. 13:50",
-     "pf": 100,
-     "pa": 90
-    },
-    {
-     "wl": "L",
-     "score": "83:71",
-     "opponent": "Siauliai",
-     "venue": "A",
-     "date": "11.10. 16:10",
-     "pf": 71,
-     "pa": 83
-    },
-    {
-     "wl": "W",
-     "score": "93:77",
-     "opponent": "Taurage",
-     "venue": "H",
-     "date": "04.10. 16:10",
-     "pf": 93,
-     "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "94:77",
-     "opponent": "Nevezis",
-     "venue": "H",
-     "date": "27.09. 16:10",
-     "pf": 94,
-     "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "99:84",
-     "opponent": "Neptunas",
-     "venue": "A",
-     "date": "23.09. 15:30",
-     "pf": 84,
-     "pa": 99
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "100:90",
-     "opponent": "Gargzdai",
-     "venue": "H",
-     "date": "18.10. 13:50",
-     "pf": 100,
-     "pa": 90
-    },
-    {
-     "wl": "L",
-     "score": "83:71",
-     "opponent": "Siauliai",
-     "venue": "A",
-     "date": "11.10. 16:10",
-     "pf": 71,
-     "pa": 83
-    },
-    {
-     "wl": "W",
-     "score": "93:77",
-     "opponent": "Taurage",
-     "venue": "H",
-     "date": "04.10. 16:10",
-     "pf": 93,
-     "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "94:77",
-     "opponent": "Nevezis",
-     "venue": "H",
-     "date": "27.09. 16:10",
-     "pf": 94,
-     "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "99:84",
-     "opponent": "Neptunas",
-     "venue": "A",
-     "date": "23.09. 15:30",
-     "pf": 84,
-     "pa": 99
-    },
-    {
-     "wl": "L",
-     "score": "84:82",
-     "opponent": "Lietkabelis",
-     "venue": "A",
-     "date": "19.09. 13:50",
-     "pf": 82,
-     "pa": 84
-    }
-   ],
-   "next": {
-    "date": "25.10. 14:50",
-    "opponent": "Rytas"
    },
    "note": ""
   },
@@ -2437,77 +2437,6 @@
    "note": ""
   },
   {
-   "name": "FC Porto",
-   "logo": "logos/332fca396adb.png",
-   "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
-   "rank": 2,
-   "record": "3-0",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "91:95",
-     "opponent": "Esgueira",
-     "venue": "A",
-     "date": "16.10. 20:00",
-     "pf": 95,
-     "pa": 91
-    },
-    {
-     "wl": "W",
-     "score": "93:86",
-     "opponent": "Benfica",
-     "venue": "H",
-     "date": "11.10. 14:00",
-     "pf": 93,
-     "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "93:110",
-     "opponent": "CA Queluz",
-     "venue": "A",
-     "date": "02.10. 20:15",
-     "pf": 110,
-     "pa": 93
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "91:95",
-     "opponent": "Esgueira",
-     "venue": "A",
-     "date": "16.10. 20:00",
-     "pf": 95,
-     "pa": 91
-    },
-    {
-     "wl": "W",
-     "score": "93:86",
-     "opponent": "Benfica",
-     "venue": "H",
-     "date": "11.10. 14:00",
-     "pf": 93,
-     "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "93:110",
-     "opponent": "CA Queluz",
-     "venue": "A",
-     "date": "02.10. 20:15",
-     "pf": 110,
-     "pa": 93
-    }
-   ],
-   "next": {
-    "date": "25.10. 15:00",
-    "opponent": "CAB Madeira"
-   },
-   "note": ""
-  },
-  {
    "name": "Joventut Badalona",
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
@@ -2593,59 +2522,6 @@
    "next": {
     "date": "25.10. 11:00",
     "opponent": "Basquet Girona"
-   },
-   "note": ""
-  },
-  {
-   "name": "Bnei Herzliya",
-   "logo": "logos/09e78b0bda6d.png",
-   "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
-   "rank": 8,
-   "record": "1-1",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "96:103",
-     "opponent": "Nes Ziona",
-     "venue": "A",
-     "date": "18.10. 17:15",
-     "pf": 103,
-     "pa": 96
-    },
-    {
-     "wl": "L",
-     "score": "79:89",
-     "opponent": "Maccabi Ironi Ramat Gan",
-     "venue": "H",
-     "date": "12.10. 17:10",
-     "pf": 79,
-     "pa": 89
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "96:103",
-     "opponent": "Nes Ziona",
-     "venue": "A",
-     "date": "18.10. 17:15",
-     "pf": 103,
-     "pa": 96
-    },
-    {
-     "wl": "L",
-     "score": "79:89",
-     "opponent": "Maccabi Ironi Ramat Gan",
-     "venue": "H",
-     "date": "12.10. 17:10",
-     "pf": 79,
-     "pa": 89
-    }
-   ],
-   "next": {
-    "date": "26.10. 17:30",
-    "opponent": "Ironi Eilat"
    },
    "note": ""
   },
@@ -2753,6 +2629,130 @@
    "next": {
     "date": "24.10. 18:00",
     "opponent": "Ludwigsburg"
+   },
+   "note": ""
+  },
+  {
+   "name": "FC Porto",
+   "logo": "logos/332fca396adb.png",
+   "league": "LPB",
+   "league_logo": "logos/e985fcdd375b.png",
+   "rank": 2,
+   "record": "3-0",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "91:95",
+     "opponent": "Esgueira",
+     "venue": "A",
+     "date": "16.10. 20:00",
+     "pf": 95,
+     "pa": 91
+    },
+    {
+     "wl": "W",
+     "score": "93:86",
+     "opponent": "Benfica",
+     "venue": "H",
+     "date": "11.10. 14:00",
+     "pf": 93,
+     "pa": 86
+    },
+    {
+     "wl": "W",
+     "score": "93:110",
+     "opponent": "CA Queluz",
+     "venue": "A",
+     "date": "02.10. 20:15",
+     "pf": 110,
+     "pa": 93
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "91:95",
+     "opponent": "Esgueira",
+     "venue": "A",
+     "date": "16.10. 20:00",
+     "pf": 95,
+     "pa": 91
+    },
+    {
+     "wl": "W",
+     "score": "93:86",
+     "opponent": "Benfica",
+     "venue": "H",
+     "date": "11.10. 14:00",
+     "pf": 93,
+     "pa": 86
+    },
+    {
+     "wl": "W",
+     "score": "93:110",
+     "opponent": "CA Queluz",
+     "venue": "A",
+     "date": "02.10. 20:15",
+     "pf": 110,
+     "pa": 93
+    }
+   ],
+   "next": {
+    "date": "25.10. 15:00",
+    "opponent": "CAB Madeira"
+   },
+   "note": ""
+  },
+  {
+   "name": "Bnei Herzliya",
+   "logo": "logos/09e78b0bda6d.png",
+   "league": "Super League",
+   "league_logo": "logos/07d3791c1460.png",
+   "rank": 8,
+   "record": "1-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "96:103",
+     "opponent": "Nes Ziona",
+     "venue": "A",
+     "date": "18.10. 17:15",
+     "pf": 103,
+     "pa": 96
+    },
+    {
+     "wl": "L",
+     "score": "79:89",
+     "opponent": "Maccabi Ironi Ramat Gan",
+     "venue": "H",
+     "date": "12.10. 17:10",
+     "pf": 79,
+     "pa": 89
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "96:103",
+     "opponent": "Nes Ziona",
+     "venue": "A",
+     "date": "18.10. 17:15",
+     "pf": 103,
+     "pa": 96
+    },
+    {
+     "wl": "L",
+     "score": "79:89",
+     "opponent": "Maccabi Ironi Ramat Gan",
+     "venue": "H",
+     "date": "12.10. 17:10",
+     "pf": 79,
+     "pa": 89
+    }
+   ],
+   "next": {
+    "date": "26.10. 17:30",
+    "opponent": "Ironi Eilat"
    },
    "note": ""
   }
