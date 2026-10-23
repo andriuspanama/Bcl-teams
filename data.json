@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-23 15:29",
+ "updated": "2026-10-23 18:30",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -1202,8 +1202,8 @@
     }
    ],
    "next": {
-    "date": "23.10. 18:00",
-    "opponent": "Oldenburg"
+    "date": "01.11. 14:00",
+    "opponent": "Jena"
    },
    "note": ""
   },
@@ -1889,7 +1889,7 @@
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 4,
+   "rank": 5,
    "record": "2-1",
    "last5": [
     {
@@ -2335,8 +2335,17 @@
    "league": "NBL",
    "league_logo": "logos/50067aa1be3f.png",
    "rank": 1,
-   "record": "6-1",
+   "record": "7-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "81:89",
+     "opponent": "Srsni Pisek",
+     "venue": "A",
+     "date": "23.10. 16:00",
+     "pf": 89,
+     "pa": 81
+    },
     {
      "wl": "L",
      "score": "91:79",
@@ -2372,18 +2381,18 @@
      "date": "30.09. 16:00",
      "pf": 88,
      "pa": 62
-    },
-    {
-     "wl": "W",
-     "score": "96:108",
-     "opponent": "Brno",
-     "venue": "A",
-     "date": "26.09. 16:00",
-     "pf": 108,
-     "pa": 96
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "81:89",
+     "opponent": "Srsni Pisek",
+     "venue": "A",
+     "date": "23.10. 16:00",
+     "pf": 89,
+     "pa": 81
+    },
     {
      "wl": "L",
      "score": "91:79",
@@ -2449,8 +2458,8 @@
     }
    ],
    "next": {
-    "date": "23.10. 16:00",
-    "opponent": "Srsni Pisek"
+    "date": "30.10. 17:00",
+    "opponent": "Opava"
    },
    "note": ""
   },
