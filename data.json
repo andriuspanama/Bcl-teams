@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-23 12:28",
+ "updated": "2026-10-23 15:29",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -1818,9 +1818,18 @@
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
    "league_logo": "logos/07d3791c1460.png",
-   "rank": 14,
-   "record": "0-2",
+   "rank": 11,
+   "record": "1-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "75:91",
+     "opponent": "Hapoel Beer Sheva",
+     "venue": "A",
+     "date": "23.10. 11:00",
+     "pf": 91,
+     "pa": 75
+    },
     {
      "wl": "L",
      "score": "78:69",
@@ -1841,6 +1850,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "75:91",
+     "opponent": "Hapoel Beer Sheva",
+     "venue": "A",
+     "date": "23.10. 11:00",
+     "pf": 91,
+     "pa": 75
+    },
     {
      "wl": "L",
      "score": "78:69",
