@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-23 18:30",
+ "updated": "2026-10-23 21:25",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -376,9 +376,18 @@
    "logo": "logos/e29523e50e3b.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 9,
-   "record": "0-3",
+   "rank": 8,
+   "record": "1-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "99:84",
+     "opponent": "KK Krka Novo mesto",
+     "venue": "H",
+     "date": "23.10. 18:30",
+     "pf": 99,
+     "pa": 84
+    },
     {
      "wl": "L",
      "score": "94:95",
@@ -409,6 +418,15 @@
    ],
    "games": [
     {
+     "wl": "W",
+     "score": "99:84",
+     "opponent": "KK Krka Novo mesto",
+     "venue": "H",
+     "date": "23.10. 18:30",
+     "pf": 99,
+     "pa": 84
+    },
+    {
      "wl": "L",
      "score": "94:95",
      "opponent": "Borac Mozzart",
@@ -437,8 +455,8 @@
     }
    ],
    "next": {
-    "date": "23.10. 18:30",
-    "opponent": "KK Krka Novo mesto"
+    "date": "30.10. 17:30",
+    "opponent": "Igokea"
    },
    "note": ""
   },
@@ -447,7 +465,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 13,
+   "rank": 14,
    "record": "1-3",
    "last5": [
     {
@@ -536,7 +554,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 4,
+   "rank": 5,
    "record": "2-1",
    "last5": [
     {
@@ -1105,9 +1123,18 @@
    "logo": "logos/75017b7879a2.png",
    "league": "BBL",
    "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 11,
-   "record": "2-3",
+   "rank": 9,
+   "record": "3-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "70:80",
+     "opponent": "Oldenburg",
+     "venue": "A",
+     "date": "23.10. 18:00",
+     "pf": 80,
+     "pa": 70
+    },
     {
      "wl": "L",
      "score": "74:85",
@@ -1143,18 +1170,18 @@
      "date": "24.09. 18:00",
      "pf": 108,
      "pa": 67
-    },
-    {
-     "wl": "L",
-     "score": "108:72",
-     "opponent": "Bayern",
-     "venue": "A",
-     "date": "20.09. 16:00",
-     "pf": 72,
-     "pa": 108
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "70:80",
+     "opponent": "Oldenburg",
+     "venue": "A",
+     "date": "23.10. 18:00",
+     "pf": 80,
+     "pa": 70
+    },
     {
      "wl": "L",
      "score": "74:85",
@@ -2067,7 +2094,7 @@
    "logo": "logos/6a6627a79bbc.png",
    "league": "BBL",
    "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 14,
+   "rank": 13,
    "record": "2-3",
    "last5": [
     {
@@ -2263,7 +2290,7 @@
    "logo": "logos/0abf3f361f89.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 8,
+   "rank": 9,
    "record": "1-2",
    "last5": [
     {
