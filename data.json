@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-24 12:25",
+ "updated": "2026-10-24 15:21",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -8,7 +8,7 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 3,
+   "rank": 4,
    "record": "3-2",
    "last5": [
     {
@@ -483,7 +483,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 14,
+   "rank": 15,
    "record": "1-3",
    "last5": [
     {
@@ -572,7 +572,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 5,
+   "rank": 9,
    "record": "2-1",
    "last5": [
     {
@@ -864,8 +864,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 14:30",
-    "opponent": "PAOK"
+    "date": "31.10. 13:00",
+    "opponent": "Vikos"
    },
    "note": ""
   },
@@ -971,7 +971,7 @@
     }
    ],
    "next": {
-    "date": "24.10. 15:00",
+    "date": "27.10. 16:30",
     "opponent": "Helsinki Seagulls"
    },
    "note": ""
@@ -1131,8 +1131,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 14:30",
-    "opponent": "Maroussi"
+    "date": "01.11. 11:00",
+    "opponent": "Olympiacos"
    },
    "note": ""
   },
