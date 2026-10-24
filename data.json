@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-24 15:21",
+ "updated": "2026-10-24 18:22",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -384,8 +384,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 16:30",
-    "opponent": "Chalon/Saone"
+    "date": "27.10. 19:00",
+    "opponent": "Saint Quentin"
    },
    "note": ""
   },
@@ -572,7 +572,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 9,
+   "rank": 11,
    "record": "2-1",
    "last5": [
     {
@@ -704,8 +704,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 18:00",
-    "opponent": "Mechelen"
+    "date": "31.10. 19:00",
+    "opponent": "Limburg"
    },
    "note": ""
   },
@@ -715,8 +715,17 @@
    "league": "NB I. A",
    "league_logo": "logos/61a093b35850.png",
    "rank": 1,
-   "record": "4-0",
+   "record": "5-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "85:65",
+     "opponent": "Kecskemeti TE",
+     "venue": "H",
+     "date": "24.10. 16:00",
+     "pf": 85,
+     "pa": 65
+    },
     {
      "wl": "W",
      "score": "78:106",
@@ -755,6 +764,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "85:65",
+     "opponent": "Kecskemeti TE",
+     "venue": "H",
+     "date": "24.10. 16:00",
+     "pf": 85,
+     "pa": 65
+    },
     {
      "wl": "W",
      "score": "78:106",
@@ -793,8 +811,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 16:00",
-    "opponent": "Kecskemeti TE"
+    "date": "28.10. 17:15",
+    "opponent": "Kormend"
    },
    "note": ""
   },
@@ -803,9 +821,18 @@
    "logo": "logos/e8fa983046df.png",
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
-   "rank": 4,
-   "record": "2-1",
+   "rank": 6,
+   "record": "2-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "65:62",
+     "opponent": "PAOK",
+     "venue": "A",
+     "date": "24.10. 14:30",
+     "pf": 62,
+     "pa": 65
+    },
     {
      "wl": "W",
      "score": "84:79",
@@ -835,6 +862,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "65:62",
+     "opponent": "PAOK",
+     "venue": "A",
+     "date": "24.10. 14:30",
+     "pf": 62,
+     "pa": 65
+    },
     {
      "wl": "W",
      "score": "84:79",
@@ -875,8 +911,17 @@
    "league": "Korisliiga",
    "league_logo": "logos/2a39fb1c52b4.png",
    "rank": 4,
-   "record": "3-2",
+   "record": "4-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "79:64",
+     "opponent": "Helsinki Seagulls",
+     "venue": "H",
+     "date": "24.10. 15:00",
+     "pf": 79,
+     "pa": 64
+    },
     {
      "wl": "W",
      "score": "70:81",
@@ -912,18 +957,18 @@
      "date": "03.10. 15:00",
      "pf": 97,
      "pa": 79
-    },
-    {
-     "wl": "L",
-     "score": "104:107",
-     "opponent": "Honka",
-     "venue": "H",
-     "date": "29.09. 15:30",
-     "pf": 104,
-     "pa": 107
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "79:64",
+     "opponent": "Helsinki Seagulls",
+     "venue": "H",
+     "date": "24.10. 15:00",
+     "pf": 79,
+     "pa": 64
+    },
     {
      "wl": "W",
      "score": "70:81",
@@ -1060,8 +1105,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 17:30",
-    "opponent": "Leyma Coruna"
+    "date": "31.10. 18:30",
+    "opponent": "Forca Lleida"
    },
    "note": ""
   },
@@ -1070,9 +1115,18 @@
    "logo": "logos/bc3941e9ed93.png",
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
-   "rank": 5,
-   "record": "2-1",
+   "rank": 3,
+   "record": "3-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "83:81",
+     "opponent": "Maroussi",
+     "venue": "H",
+     "date": "24.10. 14:30",
+     "pf": 83,
+     "pa": 81
+    },
     {
      "wl": "L",
      "score": "95:75",
@@ -1102,6 +1156,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "83:81",
+     "opponent": "Maroussi",
+     "venue": "H",
+     "date": "24.10. 14:30",
+     "pf": 83,
+     "pa": 81
+    },
     {
      "wl": "L",
      "score": "95:75",
@@ -1336,8 +1399,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 18:00",
-    "opponent": "BC Roma"
+    "date": "31.10. 19:00",
+    "opponent": "Verona"
    },
    "note": ""
   },
@@ -1346,7 +1409,7 @@
    "logo": "logos/13f74fd364a6.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 9,
+   "rank": 10,
    "record": "2-2",
    "last5": [
     {
@@ -1435,7 +1498,7 @@
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
    "league_logo": "logos/e5d4a9d7c1bb.png",
-   "rank": 7,
+   "rank": 6,
    "record": "3-3",
    "last5": [
     {
@@ -1640,7 +1703,7 @@
    "logo": "logos/1f2fb3cc995c.png",
    "league": "NBL",
    "league_logo": "logos/50067aa1be3f.png",
-   "rank": 3,
+   "rank": 4,
    "record": "6-2",
    "last5": [
     {
@@ -1934,7 +1997,7 @@
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 5,
+   "rank": 6,
    "record": "2-1",
    "last5": [
     {
@@ -2102,8 +2165,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 18:00",
-    "opponent": "Trier"
+    "date": "30.10. 19:00",
+    "opponent": "Phoenix Hagen"
    },
    "note": ""
   },
@@ -2219,7 +2282,7 @@
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 11,
+   "rank": 12,
    "record": "2-2",
    "last5": [
     {
@@ -2309,8 +2372,17 @@
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
    "rank": 9,
-   "record": "1-2",
+   "record": "1-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "80:81",
+     "opponent": "Crvena Zvezda Meridianbet",
+     "venue": "H",
+     "date": "24.10. 16:00",
+     "pf": 80,
+     "pa": 81
+    },
     {
      "wl": "L",
      "score": "81:93",
@@ -2342,6 +2414,15 @@
    "games": [
     {
      "wl": "L",
+     "score": "80:81",
+     "opponent": "Crvena Zvezda Meridianbet",
+     "venue": "H",
+     "date": "24.10. 16:00",
+     "pf": 80,
+     "pa": 81
+    },
+    {
+     "wl": "L",
      "score": "81:93",
      "opponent": "Cedevita Olimpija",
      "venue": "H",
@@ -2369,8 +2450,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 16:00",
-    "opponent": "Crvena Zvezda Meridianbet"
+    "date": "30.10. 17:30",
+    "opponent": "Cibona"
    },
    "note": ""
   },
@@ -2699,8 +2780,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 18:00",
-    "opponent": "Ludwigsburg"
+    "date": "01.11. 17:00",
+    "opponent": "Alba Berlin"
    },
    "note": ""
   },
