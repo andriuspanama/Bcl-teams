@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-24 18:22",
+ "updated": "2026-10-24 21:20",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -115,9 +115,18 @@
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
    "league_logo": "logos/d3db0986330a.png",
-   "rank": 9,
-   "record": "2-2",
+   "rank": 6,
+   "record": "3-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "86:69",
+     "opponent": "Cholet",
+     "venue": "H",
+     "date": "24.10. 18:30",
+     "pf": 86,
+     "pa": 69
+    },
     {
      "wl": "L",
      "score": "80:65",
@@ -157,6 +166,15 @@
    ],
    "games": [
     {
+     "wl": "W",
+     "score": "86:69",
+     "opponent": "Cholet",
+     "venue": "H",
+     "date": "24.10. 18:30",
+     "pf": 86,
+     "pa": 69
+    },
+    {
      "wl": "L",
      "score": "80:65",
      "opponent": "Nancy",
@@ -194,8 +212,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 18:30",
-    "opponent": "Cholet"
+    "date": "31.10. 19:30",
+    "opponent": "JL Bourg"
    },
    "note": ""
   },
@@ -305,9 +323,18 @@
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
    "league_logo": "logos/d3db0986330a.png",
-   "rank": 7,
-   "record": "2-2",
+   "rank": 10,
+   "record": "2-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "106:79",
+     "opponent": "Chalon/Saone",
+     "venue": "A",
+     "date": "24.10. 16:30",
+     "pf": 79,
+     "pa": 106
+    },
     {
      "wl": "W",
      "score": "72:70",
@@ -346,6 +373,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "106:79",
+     "opponent": "Chalon/Saone",
+     "venue": "A",
+     "date": "24.10. 16:30",
+     "pf": 79,
+     "pa": 106
+    },
     {
      "wl": "W",
      "score": "72:70",
@@ -572,7 +608,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 11,
+   "rank": 14,
    "record": "2-1",
    "last5": [
     {
@@ -644,8 +680,17 @@
    "league": "BNXT lyga",
    "league_logo": "logos/cc3eb03ee169.png",
    "rank": 1,
-   "record": "3-0",
+   "record": "4-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "109:75",
+     "opponent": "Mechelen",
+     "venue": "H",
+     "date": "24.10. 18:00",
+     "pf": 109,
+     "pa": 75
+    },
     {
      "wl": "W",
      "score": "86:125",
@@ -675,6 +720,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "109:75",
+     "opponent": "Mechelen",
+     "venue": "H",
+     "date": "24.10. 18:00",
+     "pf": 109,
+     "pa": 75
+    },
     {
      "wl": "W",
      "score": "86:125",
@@ -1026,9 +1080,18 @@
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 16,
-   "record": "1-3",
+   "rank": 13,
+   "record": "2-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "88:81",
+     "opponent": "Leyma Coruna",
+     "venue": "H",
+     "date": "24.10. 17:30",
+     "pf": 88,
+     "pa": 81
+    },
     {
      "wl": "L",
      "score": "116:93",
@@ -1067,6 +1130,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "88:81",
+     "opponent": "Leyma Coruna",
+     "venue": "H",
+     "date": "24.10. 17:30",
+     "pf": 88,
+     "pa": 81
+    },
     {
      "wl": "L",
      "score": "116:93",
@@ -1320,9 +1392,18 @@
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
    "league_logo": "logos/b55c66fda764.png",
-   "rank": 10,
-   "record": "2-2",
+   "rank": 5,
+   "record": "3-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "110:103",
+     "opponent": "BC Roma",
+     "venue": "H",
+     "date": "24.10. 18:00",
+     "pf": 110,
+     "pa": 103
+    },
     {
      "wl": "L",
      "score": "87:85",
@@ -1361,6 +1442,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "110:103",
+     "opponent": "BC Roma",
+     "venue": "H",
+     "date": "24.10. 18:00",
+     "pf": 110,
+     "pa": 103
+    },
     {
      "wl": "L",
      "score": "87:85",
@@ -1409,7 +1499,7 @@
    "logo": "logos/13f74fd364a6.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 10,
+   "rank": 11,
    "record": "2-2",
    "last5": [
     {
@@ -1837,9 +1927,18 @@
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
    "league_logo": "logos/d3db0986330a.png",
-   "rank": 8,
-   "record": "2-2",
+   "rank": 9,
+   "record": "2-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "86:69",
+     "opponent": "Nanterre",
+     "venue": "A",
+     "date": "24.10. 18:30",
+     "pf": 69,
+     "pa": 86
+    },
     {
      "wl": "L",
      "score": "77:86",
@@ -1880,6 +1979,15 @@
    "games": [
     {
      "wl": "L",
+     "score": "86:69",
+     "opponent": "Nanterre",
+     "venue": "A",
+     "date": "24.10. 18:30",
+     "pf": 69,
+     "pa": 86
+    },
+    {
+     "wl": "L",
      "score": "77:86",
      "opponent": "Chalon/Saone",
      "venue": "H",
@@ -1916,8 +2024,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 18:30",
-    "opponent": "Nanterre"
+    "date": "31.10. 17:30",
+    "opponent": "Strasbourg"
    },
    "note": ""
   },
@@ -1997,9 +2105,18 @@
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 6,
-   "record": "2-1",
+   "rank": 5,
+   "record": "2-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "80:82",
+     "opponent": "Partizan Mozzart Bet",
+     "venue": "H",
+     "date": "24.10. 18:30",
+     "pf": 80,
+     "pa": 82
+    },
     {
      "wl": "W",
      "score": "89:75",
@@ -2030,6 +2147,15 @@
    ],
    "games": [
     {
+     "wl": "L",
+     "score": "80:82",
+     "opponent": "Partizan Mozzart Bet",
+     "venue": "H",
+     "date": "24.10. 18:30",
+     "pf": 80,
+     "pa": 82
+    },
+    {
      "wl": "W",
      "score": "89:75",
      "opponent": "Cluj-Napoca",
@@ -2058,8 +2184,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 18:30",
-    "opponent": "Partizan Mozzart Bet"
+    "date": "02.11. 17:30",
+    "opponent": "Mega Basket"
    },
    "note": ""
   },
@@ -2068,9 +2194,18 @@
    "logo": "logos/fc078fb0f685.png",
    "league": "BBL",
    "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 17,
-   "record": "1-4",
+   "rank": 18,
+   "record": "1-5",
    "last5": [
+    {
+     "wl": "L",
+     "score": "88:97",
+     "opponent": "Trier",
+     "venue": "H",
+     "date": "24.10. 18:00",
+     "pf": 88,
+     "pa": 97
+    },
     {
      "wl": "W",
      "score": "97:92",
@@ -2106,18 +2241,18 @@
      "date": "26.09. 16:30",
      "pf": 81,
      "pa": 93
-    },
-    {
-     "wl": "L",
-     "score": "67:108",
-     "opponent": "Bamberg",
-     "venue": "H",
-     "date": "24.09. 18:00",
-     "pf": 67,
-     "pa": 108
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "88:97",
+     "opponent": "Trier",
+     "venue": "H",
+     "date": "24.10. 18:00",
+     "pf": 88,
+     "pa": 97
+    },
     {
      "wl": "W",
      "score": "97:92",
@@ -2594,7 +2729,7 @@
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 8,
+   "rank": 9,
    "record": "2-2",
    "last5": [
     {
@@ -2683,9 +2818,18 @@
    "logo": "logos/53eba8f126e3.png",
    "league": "BBL",
    "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 6,
-   "record": "3-2",
+   "rank": 8,
+   "record": "3-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "84:68",
+     "opponent": "Ludwigsburg",
+     "venue": "A",
+     "date": "24.10. 18:00",
+     "pf": 68,
+     "pa": 84
+    },
     {
      "wl": "W",
      "score": "115:68",
@@ -2721,18 +2865,18 @@
      "date": "25.09. 16:30",
      "pf": 80,
      "pa": 106
-    },
-    {
-     "wl": "W",
-     "score": "96:72",
-     "opponent": "Hamburg",
-     "venue": "H",
-     "date": "19.09. 18:00",
-     "pf": 96,
-     "pa": 72
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "84:68",
+     "opponent": "Ludwigsburg",
+     "venue": "A",
+     "date": "24.10. 18:00",
+     "pf": 68,
+     "pa": 84
+    },
     {
      "wl": "W",
      "score": "115:68",
@@ -2790,7 +2934,7 @@
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
    "league_logo": "logos/e985fcdd375b.png",
-   "rank": 2,
+   "rank": 3,
    "record": "3-0",
    "last5": [
     {
