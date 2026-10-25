@@ -1,14 +1,14 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-25 12:25",
+ "updated": "2026-10-25 15:22",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Trabzonspor",
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
-   "rank": 5,
+   "league_logo": "logos/883974099325.png",
+   "rank": 6,
    "record": "3-2",
    "last5": [
     {
@@ -221,7 +221,7 @@
    "name": "Rytas",
    "logo": "logos/da8b9d9ee9c8.png",
    "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 2,
    "record": "3-1",
    "last5": [
@@ -301,8 +301,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 14:50",
-    "opponent": "Juventus"
+    "date": "02.11. 14:50",
+    "opponent": "Zalgiris Kaunas"
    },
    "note": ""
   },
@@ -518,7 +518,7 @@
    "name": "Galatasaray",
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 15,
    "record": "1-3",
    "last5": [
@@ -669,8 +669,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 14:00",
-    "opponent": "Ostrow Wielkopolski"
+    "date": "31.10. 16:30",
+    "opponent": "Dziki Warszawa"
    },
    "note": ""
   },
@@ -678,7 +678,7 @@
    "name": "Antwerp Giants",
    "logo": "logos/f22e250d02bb.png",
    "league": "BNXT lyga",
-   "league_logo": "logos/cc3eb03ee169.png",
+   "league_logo": "logos/f0a5f6fa9273.png",
    "rank": 1,
    "record": "4-0",
    "last5": [
@@ -875,7 +875,7 @@
    "logo": "logos/e8fa983046df.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 6,
+   "rank": 8,
    "record": "2-2",
    "last5": [
     {
@@ -963,7 +963,7 @@
    "name": "Salon Vilpas",
    "logo": "logos/047cf29bd231.png",
    "league": "Korisliiga",
-   "league_logo": "logos/2a39fb1c52b4.png",
+   "league_logo": "logos/b10f1d73b114.png",
    "rank": 4,
    "record": "4-2",
    "last5": [
@@ -1080,7 +1080,7 @@
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 13,
+   "rank": 14,
    "record": "2-3",
    "last5": [
     {
@@ -1392,7 +1392,7 @@
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
    "league_logo": "logos/a535f34abeaf.png",
-   "rank": 5,
+   "rank": 6,
    "record": "3-2",
    "last5": [
     {
@@ -1499,7 +1499,7 @@
    "logo": "logos/13f74fd364a6.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 11,
+   "rank": 12,
    "record": "2-2",
    "last5": [
     {
@@ -1587,7 +1587,7 @@
    "name": "Juventus",
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 6,
    "record": "3-3",
    "last5": [
@@ -1694,8 +1694,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 14:50",
-    "opponent": "Rytas"
+    "date": "31.10. 17:10",
+    "opponent": "Jonava"
    },
    "note": ""
   },
@@ -2417,9 +2417,18 @@
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 12,
-   "record": "2-2",
+   "rank": 7,
+   "record": "3-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "88:76",
+     "opponent": "MoraBanc Andorra",
+     "venue": "H",
+     "date": "25.10. 11:00",
+     "pf": 88,
+     "pa": 76
+    },
     {
      "wl": "L",
      "score": "119:84",
@@ -2458,6 +2467,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "88:76",
+     "opponent": "MoraBanc Andorra",
+     "venue": "H",
+     "date": "25.10. 11:00",
+     "pf": 88,
+     "pa": 76
+    },
     {
      "wl": "L",
      "score": "119:84",
@@ -2729,9 +2747,18 @@
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 9,
-   "record": "2-2",
+   "rank": 13,
+   "record": "2-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "101:87",
+     "opponent": "Basquet Girona",
+     "venue": "A",
+     "date": "25.10. 11:00",
+     "pf": 87,
+     "pa": 101
+    },
     {
      "wl": "W",
      "score": "113:89",
@@ -2770,6 +2797,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "101:87",
+     "opponent": "Basquet Girona",
+     "venue": "A",
+     "date": "25.10. 11:00",
+     "pf": 87,
+     "pa": 101
+    },
     {
      "wl": "W",
      "score": "113:89",
@@ -2995,8 +3031,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 15:00",
-    "opponent": "CAB Madeira"
+    "date": "31.10. 16:00",
+    "opponent": "Ovarense"
    },
    "note": ""
   },
