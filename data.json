@@ -1,14 +1,14 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-25 09:23",
+ "updated": "2026-10-25 12:25",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Trabzonspor",
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
-   "rank": 4,
+   "league_logo": "logos/577d84baf758.png",
+   "rank": 5,
    "record": "3-2",
    "last5": [
     {
@@ -518,7 +518,7 @@
    "name": "Galatasaray",
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 15,
    "record": "1-3",
    "last5": [
@@ -607,7 +607,7 @@
    "name": "Legia",
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
+   "league_logo": "logos/e38c6600f3ac.png",
    "rank": 14,
    "record": "2-1",
    "last5": [
@@ -678,7 +678,7 @@
    "name": "Antwerp Giants",
    "logo": "logos/f22e250d02bb.png",
    "league": "BNXT lyga",
-   "league_logo": "logos/f0a5f6fa9273.png",
+   "league_logo": "logos/cc3eb03ee169.png",
    "rank": 1,
    "record": "4-0",
    "last5": [
@@ -767,7 +767,7 @@
    "name": "Szombathely",
    "logo": "logos/9fb8bfa07c32.png",
    "league": "NB I. A",
-   "league_logo": "logos/61a093b35850.png",
+   "league_logo": "logos/e25024497cfd.png",
    "rank": 1,
    "record": "5-0",
    "last5": [
@@ -963,7 +963,7 @@
    "name": "Salon Vilpas",
    "logo": "logos/047cf29bd231.png",
    "league": "Korisliiga",
-   "league_logo": "logos/b10f1d73b114.png",
+   "league_logo": "logos/2a39fb1c52b4.png",
    "rank": 4,
    "record": "4-2",
    "last5": [
@@ -2496,8 +2496,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 11:00",
-    "opponent": "MoraBanc Andorra"
+    "date": "01.11. 11:00",
+    "opponent": "Joventut Badalona"
    },
    "note": ""
   },
@@ -2808,8 +2808,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 11:00",
-    "opponent": "Basquet Girona"
+    "date": "01.11. 11:00",
+    "opponent": "Bilbao"
    },
    "note": ""
   },
@@ -2933,7 +2933,7 @@
    "name": "FC Porto",
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 3,
    "record": "3-0",
    "last5": [
