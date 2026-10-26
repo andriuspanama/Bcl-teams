@@ -1,13 +1,13 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-26 18:37",
+ "updated": "2026-10-26 21:28",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Trabzonspor",
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 7,
    "record": "3-2",
    "last5": [
@@ -536,7 +536,7 @@
    "name": "Galatasaray",
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 11,
    "record": "2-3",
    "last5": [
@@ -1329,8 +1329,8 @@
    "name": "Bamberg",
    "logo": "logos/75017b7879a2.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
-   "rank": 9,
+   "league_logo": "logos/5408e2e1f9f8.png",
+   "rank": 10,
    "record": "3-3",
    "last5": [
     {
@@ -2142,7 +2142,7 @@
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 12,
+   "rank": 11,
    "record": "1-2",
    "last5": [
     {
@@ -2301,8 +2301,8 @@
    "name": "Vechta",
    "logo": "logos/fc078fb0f685.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
-   "rank": 18,
+   "league_logo": "logos/5408e2e1f9f8.png",
+   "rank": 17,
    "record": "1-5",
    "last5": [
     {
@@ -2417,8 +2417,8 @@
    "name": "Alba Berlin",
    "logo": "logos/6a6627a79bbc.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
-   "rank": 10,
+   "league_logo": "logos/5408e2e1f9f8.png",
+   "rank": 11,
    "record": "3-3",
    "last5": [
     {
@@ -2970,8 +2970,8 @@
    "name": "Bonn",
    "logo": "logos/53eba8f126e3.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
-   "rank": 8,
+   "league_logo": "logos/5408e2e1f9f8.png",
+   "rank": 9,
    "record": "3-3",
    "last5": [
     {
@@ -3176,9 +3176,18 @@
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 7,
-   "record": "1-1",
+   "rank": 6,
+   "record": "2-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "96:93",
+     "opponent": "Ironi Eilat",
+     "venue": "H",
+     "date": "26.10. 17:30",
+     "pf": 96,
+     "pa": 93
+    },
     {
      "wl": "W",
      "score": "96:103",
@@ -3199,6 +3208,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "96:93",
+     "opponent": "Ironi Eilat",
+     "venue": "H",
+     "date": "26.10. 17:30",
+     "pf": 96,
+     "pa": 93
+    },
     {
      "wl": "W",
      "score": "96:103",
