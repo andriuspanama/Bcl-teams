@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-27 18:36",
+ "updated": "2026-10-27 21:28",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -341,9 +341,18 @@
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
-   "rank": 11,
-   "record": "2-3",
+   "rank": 7,
+   "record": "3-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "94:98",
+     "opponent": "Saint Quentin",
+     "venue": "A",
+     "date": "27.10. 19:00",
+     "pf": 98,
+     "pa": 94
+    },
     {
      "wl": "L",
      "score": "106:79",
@@ -379,18 +388,18 @@
      "date": "03.10. 16:00",
      "pf": 87,
      "pa": 75
-    },
-    {
-     "wl": "L",
-     "score": "81:72",
-     "opponent": "Dijon",
-     "venue": "A",
-     "date": "25.09. 18:00",
-     "pf": 72,
-     "pa": 81
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "94:98",
+     "opponent": "Saint Quentin",
+     "venue": "A",
+     "date": "27.10. 19:00",
+     "pf": 98,
+     "pa": 94
+    },
     {
      "wl": "L",
      "score": "106:79",
@@ -438,8 +447,8 @@
     }
    ],
    "next": {
-    "date": "27.10. 19:00",
-    "opponent": "Saint Quentin"
+    "date": "31.10. 17:30",
+    "opponent": "Cholet"
    },
    "note": ""
   },
@@ -1335,10 +1344,117 @@
    "note": ""
   },
   {
+   "name": "Varese",
+   "logo": "logos/b645af5d2f8d.png",
+   "league": "Lega A",
+   "league_logo": "logos/a535f34abeaf.png",
+   "rank": 8,
+   "record": "3-2",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "110:103",
+     "opponent": "BC Roma",
+     "venue": "H",
+     "date": "24.10. 18:00",
+     "pf": 110,
+     "pa": 103
+    },
+    {
+     "wl": "L",
+     "score": "87:85",
+     "opponent": "Trento",
+     "venue": "A",
+     "date": "18.10. 14:00",
+     "pf": 85,
+     "pa": 87
+    },
+    {
+     "wl": "W",
+     "score": "85:84",
+     "opponent": "Trieste",
+     "venue": "H",
+     "date": "10.10. 18:30",
+     "pf": 85,
+     "pa": 84
+    },
+    {
+     "wl": "W",
+     "score": "77:85",
+     "opponent": "Scafati",
+     "venue": "A",
+     "date": "04.10. 15:00",
+     "pf": 85,
+     "pa": 77
+    },
+    {
+     "wl": "L",
+     "score": "69:90",
+     "opponent": "Virtus Bologna",
+     "venue": "H",
+     "date": "27.09. 17:00",
+     "pf": 69,
+     "pa": 90
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "110:103",
+     "opponent": "BC Roma",
+     "venue": "H",
+     "date": "24.10. 18:00",
+     "pf": 110,
+     "pa": 103
+    },
+    {
+     "wl": "L",
+     "score": "87:85",
+     "opponent": "Trento",
+     "venue": "A",
+     "date": "18.10. 14:00",
+     "pf": 85,
+     "pa": 87
+    },
+    {
+     "wl": "W",
+     "score": "85:84",
+     "opponent": "Trieste",
+     "venue": "H",
+     "date": "10.10. 18:30",
+     "pf": 85,
+     "pa": 84
+    },
+    {
+     "wl": "W",
+     "score": "77:85",
+     "opponent": "Scafati",
+     "venue": "A",
+     "date": "04.10. 15:00",
+     "pf": 85,
+     "pa": 77
+    },
+    {
+     "wl": "L",
+     "score": "69:90",
+     "opponent": "Virtus Bologna",
+     "venue": "H",
+     "date": "27.09. 17:00",
+     "pf": 69,
+     "pa": 90
+    }
+   ],
+   "next": {
+    "date": "31.10. 19:00",
+    "opponent": "Verona"
+   },
+   "note": ""
+  },
+  {
    "name": "Bamberg",
    "logo": "logos/75017b7879a2.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 10,
    "record": "3-3",
    "last5": [
@@ -1447,113 +1563,6 @@
    "next": {
     "date": "01.11. 14:00",
     "opponent": "Jena"
-   },
-   "note": ""
-  },
-  {
-   "name": "Varese",
-   "logo": "logos/b645af5d2f8d.png",
-   "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
-   "rank": 8,
-   "record": "3-2",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "110:103",
-     "opponent": "BC Roma",
-     "venue": "H",
-     "date": "24.10. 18:00",
-     "pf": 110,
-     "pa": 103
-    },
-    {
-     "wl": "L",
-     "score": "87:85",
-     "opponent": "Trento",
-     "venue": "A",
-     "date": "18.10. 14:00",
-     "pf": 85,
-     "pa": 87
-    },
-    {
-     "wl": "W",
-     "score": "85:84",
-     "opponent": "Trieste",
-     "venue": "H",
-     "date": "10.10. 18:30",
-     "pf": 85,
-     "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "77:85",
-     "opponent": "Scafati",
-     "venue": "A",
-     "date": "04.10. 15:00",
-     "pf": 85,
-     "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "69:90",
-     "opponent": "Virtus Bologna",
-     "venue": "H",
-     "date": "27.09. 17:00",
-     "pf": 69,
-     "pa": 90
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "110:103",
-     "opponent": "BC Roma",
-     "venue": "H",
-     "date": "24.10. 18:00",
-     "pf": 110,
-     "pa": 103
-    },
-    {
-     "wl": "L",
-     "score": "87:85",
-     "opponent": "Trento",
-     "venue": "A",
-     "date": "18.10. 14:00",
-     "pf": 85,
-     "pa": 87
-    },
-    {
-     "wl": "W",
-     "score": "85:84",
-     "opponent": "Trieste",
-     "venue": "H",
-     "date": "10.10. 18:30",
-     "pf": 85,
-     "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "77:85",
-     "opponent": "Scafati",
-     "venue": "A",
-     "date": "04.10. 15:00",
-     "pf": 85,
-     "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "69:90",
-     "opponent": "Virtus Bologna",
-     "venue": "H",
-     "date": "27.09. 17:00",
-     "pf": 69,
-     "pa": 90
-    }
-   ],
-   "next": {
-    "date": "31.10. 19:00",
-    "opponent": "Verona"
    },
    "note": ""
   },
@@ -2044,7 +2053,7 @@
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
-   "rank": 8,
+   "rank": 9,
    "record": "2-3",
    "last5": [
     {
@@ -2310,7 +2319,7 @@
    "name": "Vechta",
    "logo": "logos/fc078fb0f685.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 17,
    "record": "1-5",
    "last5": [
@@ -2423,10 +2432,117 @@
    "note": ""
   },
   {
+   "name": "Bilbao",
+   "logo": "logos/f42c1a3a3146.png",
+   "league": "ACB",
+   "league_logo": "logos/c68ff65a02e9.png",
+   "rank": 9,
+   "record": "3-2",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "88:76",
+     "opponent": "MoraBanc Andorra",
+     "venue": "H",
+     "date": "25.10. 11:00",
+     "pf": 88,
+     "pa": 76
+    },
+    {
+     "wl": "L",
+     "score": "119:84",
+     "opponent": "Real Madrid",
+     "venue": "A",
+     "date": "18.10. 10:30",
+     "pf": 84,
+     "pa": 119
+    },
+    {
+     "wl": "W",
+     "score": "96:87",
+     "opponent": "San Pablo Burgos",
+     "venue": "H",
+     "date": "11.10. 16:00",
+     "pf": 96,
+     "pa": 87
+    },
+    {
+     "wl": "L",
+     "score": "104:101",
+     "opponent": "Leyma Coruna",
+     "venue": "A",
+     "date": "04.10. 10:00",
+     "pf": 101,
+     "pa": 104
+    },
+    {
+     "wl": "W",
+     "score": "107:92",
+     "opponent": "Manresa",
+     "venue": "H",
+     "date": "26.09. 16:00",
+     "pf": 107,
+     "pa": 92
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "88:76",
+     "opponent": "MoraBanc Andorra",
+     "venue": "H",
+     "date": "25.10. 11:00",
+     "pf": 88,
+     "pa": 76
+    },
+    {
+     "wl": "L",
+     "score": "119:84",
+     "opponent": "Real Madrid",
+     "venue": "A",
+     "date": "18.10. 10:30",
+     "pf": 84,
+     "pa": 119
+    },
+    {
+     "wl": "W",
+     "score": "96:87",
+     "opponent": "San Pablo Burgos",
+     "venue": "H",
+     "date": "11.10. 16:00",
+     "pf": 96,
+     "pa": 87
+    },
+    {
+     "wl": "L",
+     "score": "104:101",
+     "opponent": "Leyma Coruna",
+     "venue": "A",
+     "date": "04.10. 10:00",
+     "pf": 101,
+     "pa": 104
+    },
+    {
+     "wl": "W",
+     "score": "107:92",
+     "opponent": "Manresa",
+     "venue": "H",
+     "date": "26.09. 16:00",
+     "pf": 107,
+     "pa": 92
+    }
+   ],
+   "next": {
+    "date": "01.11. 11:00",
+    "opponent": "Joventut Badalona"
+   },
+   "note": ""
+  },
+  {
    "name": "Alba Berlin",
    "logo": "logos/6a6627a79bbc.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 11,
    "record": "3-3",
    "last5": [
@@ -2535,113 +2651,6 @@
    "next": {
     "date": "01.11. 17:00",
     "opponent": "Bonn"
-   },
-   "note": ""
-  },
-  {
-   "name": "Bilbao",
-   "logo": "logos/f42c1a3a3146.png",
-   "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 9,
-   "record": "3-2",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "88:76",
-     "opponent": "MoraBanc Andorra",
-     "venue": "H",
-     "date": "25.10. 11:00",
-     "pf": 88,
-     "pa": 76
-    },
-    {
-     "wl": "L",
-     "score": "119:84",
-     "opponent": "Real Madrid",
-     "venue": "A",
-     "date": "18.10. 10:30",
-     "pf": 84,
-     "pa": 119
-    },
-    {
-     "wl": "W",
-     "score": "96:87",
-     "opponent": "San Pablo Burgos",
-     "venue": "H",
-     "date": "11.10. 16:00",
-     "pf": 96,
-     "pa": 87
-    },
-    {
-     "wl": "L",
-     "score": "104:101",
-     "opponent": "Leyma Coruna",
-     "venue": "A",
-     "date": "04.10. 10:00",
-     "pf": 101,
-     "pa": 104
-    },
-    {
-     "wl": "W",
-     "score": "107:92",
-     "opponent": "Manresa",
-     "venue": "H",
-     "date": "26.09. 16:00",
-     "pf": 107,
-     "pa": 92
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "88:76",
-     "opponent": "MoraBanc Andorra",
-     "venue": "H",
-     "date": "25.10. 11:00",
-     "pf": 88,
-     "pa": 76
-    },
-    {
-     "wl": "L",
-     "score": "119:84",
-     "opponent": "Real Madrid",
-     "venue": "A",
-     "date": "18.10. 10:30",
-     "pf": 84,
-     "pa": 119
-    },
-    {
-     "wl": "W",
-     "score": "96:87",
-     "opponent": "San Pablo Burgos",
-     "venue": "H",
-     "date": "11.10. 16:00",
-     "pf": 96,
-     "pa": 87
-    },
-    {
-     "wl": "L",
-     "score": "104:101",
-     "opponent": "Leyma Coruna",
-     "venue": "A",
-     "date": "04.10. 10:00",
-     "pf": 101,
-     "pa": 104
-    },
-    {
-     "wl": "W",
-     "score": "107:92",
-     "opponent": "Manresa",
-     "venue": "H",
-     "date": "26.09. 16:00",
-     "pf": 107,
-     "pa": 92
-    }
-   ],
-   "next": {
-    "date": "01.11. 11:00",
-    "opponent": "Joventut Badalona"
    },
    "note": ""
   },
@@ -2979,7 +2988,7 @@
    "name": "Bonn",
    "logo": "logos/53eba8f126e3.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 9,
    "record": "3-3",
    "last5": [
@@ -3095,7 +3104,7 @@
    "name": "FC Porto",
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 1,
    "record": "4-0",
    "last5": [
