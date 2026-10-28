@@ -1,7 +1,7 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-28 00:40",
- "comp_logo": "logos/a6f9e1a9f508.png",
+ "updated": "2026-10-28 03:37",
+ "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
    "name": "Trabzonspor",
@@ -233,7 +233,7 @@
    "name": "Rytas",
    "logo": "logos/da8b9d9ee9c8.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "league_logo": "logos/c5eddc9adb50.png",
    "rank": 2,
    "record": "4-1",
    "last5": [
@@ -456,7 +456,7 @@
    "name": "Cibona",
    "logo": "logos/e29523e50e3b.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 8,
    "record": "1-3",
    "last5": [
@@ -652,7 +652,7 @@
    "name": "Legia",
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 5,
    "record": "3-1",
    "last5": [
@@ -1677,7 +1677,7 @@
    "name": "Juventus",
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "league_logo": "logos/c5eddc9adb50.png",
    "rank": 7,
    "record": "3-4",
    "last5": [
@@ -2230,7 +2230,7 @@
    "name": "Spartak Subotica",
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 6,
    "record": "2-2",
    "last5": [
@@ -2658,7 +2658,7 @@
    "name": "Igokea",
    "logo": "logos/0abf3f361f89.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 9,
    "record": "1-3",
    "last5": [
