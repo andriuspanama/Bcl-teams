@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-28 15:44",
+ "updated": "2026-10-28 18:38",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -830,7 +830,7 @@
    "name": "Szombathely",
    "logo": "logos/9fb8bfa07c32.png",
    "league": "NB I. A",
-   "league_logo": "logos/61a093b35850.png",
+   "league_logo": "logos/e25024497cfd.png",
    "rank": 1,
    "record": "5-0",
    "last5": [
@@ -928,8 +928,8 @@
     }
    ],
    "next": {
-    "date": "28.10. 17:15",
-    "opponent": "Kormend"
+    "date": "07.11. 17:00",
+    "opponent": "Soproni KC"
    },
    "note": ""
   },
@@ -1026,7 +1026,7 @@
    "name": "Salon Vilpas",
    "logo": "logos/047cf29bd231.png",
    "league": "Korisliiga",
-   "league_logo": "logos/b10f1d73b114.png",
+   "league_logo": "logos/2a39fb1c52b4.png",
    "rank": 4,
    "record": "4-3",
    "last5": [
@@ -1454,7 +1454,7 @@
    "name": "Bamberg",
    "logo": "logos/75017b7879a2.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 10,
    "record": "3-3",
    "last5": [
@@ -1911,8 +1911,17 @@
    "league": "NBL",
    "league_logo": "logos/d187bee6c341.png",
    "rank": 2,
-   "record": "7-2",
+   "record": "8-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "98:74",
+     "opponent": "Plzen",
+     "venue": "H",
+     "date": "28.10. 16:30",
+     "pf": 98,
+     "pa": 74
+    },
     {
      "wl": "W",
      "score": "64:83",
@@ -1948,18 +1957,18 @@
      "date": "10.10. 10:00",
      "pf": 60,
      "pa": 105
-    },
-    {
-     "wl": "W",
-     "score": "110:98",
-     "opponent": "NH Ostrava",
-     "venue": "H",
-     "date": "03.10. 15:30",
-     "pf": 110,
-     "pa": 98
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "98:74",
+     "opponent": "Plzen",
+     "venue": "H",
+     "date": "28.10. 16:30",
+     "pf": 98,
+     "pa": 74
+    },
     {
      "wl": "W",
      "score": "64:83",
@@ -2043,8 +2052,8 @@
     }
    ],
    "next": {
-    "date": "28.10. 16:30",
-    "opponent": "Plzen"
+    "date": "31.10. 16:30",
+    "opponent": "USK Prague"
    },
    "note": ""
   },
@@ -2159,7 +2168,7 @@
    "name": "Hapoel Holon",
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
+   "league_logo": "logos/07d3791c1460.png",
    "rank": 11,
    "record": "1-2",
    "last5": [
@@ -2319,7 +2328,7 @@
    "name": "Vechta",
    "logo": "logos/fc078fb0f685.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 17,
    "record": "1-5",
    "last5": [
@@ -2542,7 +2551,7 @@
    "name": "Alba Berlin",
    "logo": "logos/6a6627a79bbc.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 11,
    "record": "3-3",
    "last5": [
@@ -2988,7 +2997,7 @@
    "name": "Bonn",
    "logo": "logos/53eba8f126e3.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 9,
    "record": "3-3",
    "last5": [
@@ -3193,7 +3202,7 @@
    "name": "Bnei Herzliya",
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
+   "league_logo": "logos/07d3791c1460.png",
    "rank": 6,
    "record": "2-1",
    "last5": [
