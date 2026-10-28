@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-27 21:28",
+ "updated": "2026-10-28 00:40",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -233,7 +233,7 @@
    "name": "Rytas",
    "logo": "logos/da8b9d9ee9c8.png",
    "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 2,
    "record": "4-1",
    "last5": [
@@ -1148,6 +1148,95 @@
    "note": ""
   },
   {
+   "name": "Peristeri",
+   "logo": "logos/bc3941e9ed93.png",
+   "league": "Basket League",
+   "league_logo": "logos/21f5bcd543ba.png",
+   "rank": 3,
+   "record": "3-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "83:81",
+     "opponent": "Maroussi",
+     "venue": "H",
+     "date": "24.10. 14:30",
+     "pf": 83,
+     "pa": 81
+    },
+    {
+     "wl": "L",
+     "score": "95:75",
+     "opponent": "Panathinaikos",
+     "venue": "A",
+     "date": "18.10. 10:00",
+     "pf": 75,
+     "pa": 95
+    },
+    {
+     "wl": "W",
+     "score": "91:89",
+     "opponent": "Iraklis",
+     "venue": "H",
+     "date": "10.10. 12:00",
+     "pf": 91,
+     "pa": 89
+    },
+    {
+     "wl": "W",
+     "score": "88:94",
+     "opponent": "Promitheas",
+     "venue": "A",
+     "date": "03.10. 14:00",
+     "pf": 94,
+     "pa": 88
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "83:81",
+     "opponent": "Maroussi",
+     "venue": "H",
+     "date": "24.10. 14:30",
+     "pf": 83,
+     "pa": 81
+    },
+    {
+     "wl": "L",
+     "score": "95:75",
+     "opponent": "Panathinaikos",
+     "venue": "A",
+     "date": "18.10. 10:00",
+     "pf": 75,
+     "pa": 95
+    },
+    {
+     "wl": "W",
+     "score": "91:89",
+     "opponent": "Iraklis",
+     "venue": "H",
+     "date": "10.10. 12:00",
+     "pf": 91,
+     "pa": 89
+    },
+    {
+     "wl": "W",
+     "score": "88:94",
+     "opponent": "Promitheas",
+     "venue": "A",
+     "date": "03.10. 14:00",
+     "pf": 94,
+     "pa": 88
+    }
+   ],
+   "next": {
+    "date": "01.11. 11:00",
+    "opponent": "Olympiacos"
+   },
+   "note": ""
+  },
+  {
    "name": "Murcia",
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
@@ -1251,95 +1340,6 @@
    "next": {
     "date": "31.10. 18:30",
     "opponent": "Forca Lleida"
-   },
-   "note": ""
-  },
-  {
-   "name": "Peristeri",
-   "logo": "logos/bc3941e9ed93.png",
-   "league": "Basket League",
-   "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 3,
-   "record": "3-1",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "83:81",
-     "opponent": "Maroussi",
-     "venue": "H",
-     "date": "24.10. 14:30",
-     "pf": 83,
-     "pa": 81
-    },
-    {
-     "wl": "L",
-     "score": "95:75",
-     "opponent": "Panathinaikos",
-     "venue": "A",
-     "date": "18.10. 10:00",
-     "pf": 75,
-     "pa": 95
-    },
-    {
-     "wl": "W",
-     "score": "91:89",
-     "opponent": "Iraklis",
-     "venue": "H",
-     "date": "10.10. 12:00",
-     "pf": 91,
-     "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "88:94",
-     "opponent": "Promitheas",
-     "venue": "A",
-     "date": "03.10. 14:00",
-     "pf": 94,
-     "pa": 88
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "83:81",
-     "opponent": "Maroussi",
-     "venue": "H",
-     "date": "24.10. 14:30",
-     "pf": 83,
-     "pa": 81
-    },
-    {
-     "wl": "L",
-     "score": "95:75",
-     "opponent": "Panathinaikos",
-     "venue": "A",
-     "date": "18.10. 10:00",
-     "pf": 75,
-     "pa": 95
-    },
-    {
-     "wl": "W",
-     "score": "91:89",
-     "opponent": "Iraklis",
-     "venue": "H",
-     "date": "10.10. 12:00",
-     "pf": 91,
-     "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "88:94",
-     "opponent": "Promitheas",
-     "venue": "A",
-     "date": "03.10. 14:00",
-     "pf": 94,
-     "pa": 88
-    }
-   ],
-   "next": {
-    "date": "01.11. 11:00",
-    "opponent": "Olympiacos"
    },
    "note": ""
   },
@@ -1677,7 +1677,7 @@
    "name": "Juventus",
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 7,
    "record": "3-4",
    "last5": [
