@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-29 12:42",
+ "updated": "2026-10-29 15:45",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -233,7 +233,7 @@
    "name": "Nanterre",
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 6,
    "record": "3-2",
    "last5": [
@@ -340,7 +340,7 @@
    "name": "Strasbourg",
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 7,
    "record": "3-3",
    "last5": [
@@ -1035,7 +1035,7 @@
    "name": "Salon Vilpas",
    "logo": "logos/047cf29bd231.png",
    "league": "Korisliiga",
-   "league_logo": "logos/2a39fb1c52b4.png",
+   "league_logo": "logos/b10f1d73b114.png",
    "rank": 4,
    "record": "4-3",
    "last5": [
@@ -1918,7 +1918,7 @@
    "name": "Pardubice",
    "logo": "logos/1f2fb3cc995c.png",
    "league": "NBL",
-   "league_logo": "logos/50067aa1be3f.png",
+   "league_logo": "logos/d187bee6c341.png",
    "rank": 2,
    "record": "8-2",
    "last5": [
@@ -2070,7 +2070,7 @@
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 9,
    "record": "2-3",
    "last5": [
@@ -2765,7 +2765,7 @@
    "name": "Slavia Prague ERA NBK",
    "logo": "logos/dd8dec9dd0ca.png",
    "league": "NBL",
-   "league_logo": "logos/50067aa1be3f.png",
+   "league_logo": "logos/d187bee6c341.png",
    "rank": 1,
    "record": "7-1",
    "last5": [
