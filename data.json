@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-29 06:42",
+ "updated": "2026-10-29 09:43",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -1689,118 +1689,8 @@
    "league_logo": "logos/c5eddc9adb50.png",
    "rank": 7,
    "record": "3-4",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "76:94",
-     "opponent": "Rytas",
-     "venue": "H",
-     "date": "25.10. 14:50",
-     "pf": 76,
-     "pa": 94
-    },
-    {
-     "wl": "W",
-     "score": "100:90",
-     "opponent": "Gargzdai",
-     "venue": "H",
-     "date": "18.10. 13:50",
-     "pf": 100,
-     "pa": 90
-    },
-    {
-     "wl": "L",
-     "score": "83:71",
-     "opponent": "Siauliai",
-     "venue": "A",
-     "date": "11.10. 16:10",
-     "pf": 71,
-     "pa": 83
-    },
-    {
-     "wl": "W",
-     "score": "93:77",
-     "opponent": "Taurage",
-     "venue": "H",
-     "date": "04.10. 16:10",
-     "pf": 93,
-     "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "94:77",
-     "opponent": "Nevezis",
-     "venue": "H",
-     "date": "27.09. 16:10",
-     "pf": 94,
-     "pa": 77
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "76:94",
-     "opponent": "Rytas",
-     "venue": "H",
-     "date": "25.10. 14:50",
-     "pf": 76,
-     "pa": 94
-    },
-    {
-     "wl": "W",
-     "score": "100:90",
-     "opponent": "Gargzdai",
-     "venue": "H",
-     "date": "18.10. 13:50",
-     "pf": 100,
-     "pa": 90
-    },
-    {
-     "wl": "L",
-     "score": "83:71",
-     "opponent": "Siauliai",
-     "venue": "A",
-     "date": "11.10. 16:10",
-     "pf": 71,
-     "pa": 83
-    },
-    {
-     "wl": "W",
-     "score": "93:77",
-     "opponent": "Taurage",
-     "venue": "H",
-     "date": "04.10. 16:10",
-     "pf": 93,
-     "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "94:77",
-     "opponent": "Nevezis",
-     "venue": "H",
-     "date": "27.09. 16:10",
-     "pf": 94,
-     "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "99:84",
-     "opponent": "Neptunas",
-     "venue": "A",
-     "date": "23.09. 15:30",
-     "pf": 84,
-     "pa": 99
-    },
-    {
-     "wl": "L",
-     "score": "84:82",
-     "opponent": "Lietkabelis",
-     "venue": "A",
-     "date": "19.09. 13:50",
-     "pf": 82,
-     "pa": 84
-    }
-   ],
+   "last5": [],
+   "games": [],
    "next": {
     "date": "31.10. 17:10",
     "opponent": "Jonava"
