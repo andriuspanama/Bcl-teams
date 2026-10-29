@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-29 09:43",
+ "updated": "2026-10-29 12:42",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -233,7 +233,7 @@
    "name": "Nanterre",
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 6,
    "record": "3-2",
    "last5": [
@@ -340,7 +340,7 @@
    "name": "Strasbourg",
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 7,
    "record": "3-3",
    "last5": [
@@ -456,7 +456,7 @@
    "name": "Cibona",
    "logo": "logos/e29523e50e3b.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 8,
    "record": "1-3",
    "last5": [
@@ -1035,7 +1035,7 @@
    "name": "Salon Vilpas",
    "logo": "logos/047cf29bd231.png",
    "league": "Korisliiga",
-   "league_logo": "logos/b10f1d73b114.png",
+   "league_logo": "logos/2a39fb1c52b4.png",
    "rank": 4,
    "record": "4-3",
    "last5": [
@@ -1689,8 +1689,118 @@
    "league_logo": "logos/c5eddc9adb50.png",
    "rank": 7,
    "record": "3-4",
-   "last5": [],
-   "games": [],
+   "last5": [
+    {
+     "wl": "L",
+     "score": "76:94",
+     "opponent": "Rytas",
+     "venue": "H",
+     "date": "25.10. 14:50",
+     "pf": 76,
+     "pa": 94
+    },
+    {
+     "wl": "W",
+     "score": "100:90",
+     "opponent": "Gargzdai",
+     "venue": "H",
+     "date": "18.10. 13:50",
+     "pf": 100,
+     "pa": 90
+    },
+    {
+     "wl": "L",
+     "score": "83:71",
+     "opponent": "Siauliai",
+     "venue": "A",
+     "date": "11.10. 16:10",
+     "pf": 71,
+     "pa": 83
+    },
+    {
+     "wl": "W",
+     "score": "93:77",
+     "opponent": "Taurage",
+     "venue": "H",
+     "date": "04.10. 16:10",
+     "pf": 93,
+     "pa": 77
+    },
+    {
+     "wl": "W",
+     "score": "94:77",
+     "opponent": "Nevezis",
+     "venue": "H",
+     "date": "27.09. 16:10",
+     "pf": 94,
+     "pa": 77
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "76:94",
+     "opponent": "Rytas",
+     "venue": "H",
+     "date": "25.10. 14:50",
+     "pf": 76,
+     "pa": 94
+    },
+    {
+     "wl": "W",
+     "score": "100:90",
+     "opponent": "Gargzdai",
+     "venue": "H",
+     "date": "18.10. 13:50",
+     "pf": 100,
+     "pa": 90
+    },
+    {
+     "wl": "L",
+     "score": "83:71",
+     "opponent": "Siauliai",
+     "venue": "A",
+     "date": "11.10. 16:10",
+     "pf": 71,
+     "pa": 83
+    },
+    {
+     "wl": "W",
+     "score": "93:77",
+     "opponent": "Taurage",
+     "venue": "H",
+     "date": "04.10. 16:10",
+     "pf": 93,
+     "pa": 77
+    },
+    {
+     "wl": "W",
+     "score": "94:77",
+     "opponent": "Nevezis",
+     "venue": "H",
+     "date": "27.09. 16:10",
+     "pf": 94,
+     "pa": 77
+    },
+    {
+     "wl": "L",
+     "score": "99:84",
+     "opponent": "Neptunas",
+     "venue": "A",
+     "date": "23.09. 15:30",
+     "pf": 84,
+     "pa": 99
+    },
+    {
+     "wl": "L",
+     "score": "84:82",
+     "opponent": "Lietkabelis",
+     "venue": "A",
+     "date": "19.09. 13:50",
+     "pf": 82,
+     "pa": 84
+    }
+   ],
    "next": {
     "date": "31.10. 17:10",
     "opponent": "Jonava"
@@ -1808,7 +1918,7 @@
    "name": "Pardubice",
    "logo": "logos/1f2fb3cc995c.png",
    "league": "NBL",
-   "league_logo": "logos/d187bee6c341.png",
+   "league_logo": "logos/50067aa1be3f.png",
    "rank": 2,
    "record": "8-2",
    "last5": [
@@ -1960,7 +2070,7 @@
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 9,
    "record": "2-3",
    "last5": [
@@ -2067,7 +2177,7 @@
    "name": "Spartak Subotica",
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 6,
    "record": "2-2",
    "last5": [
@@ -2566,7 +2676,7 @@
    "name": "Igokea",
    "logo": "logos/0abf3f361f89.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 9,
    "record": "1-3",
    "last5": [
@@ -2655,7 +2765,7 @@
    "name": "Slavia Prague ERA NBK",
    "logo": "logos/dd8dec9dd0ca.png",
    "league": "NBL",
-   "league_logo": "logos/d187bee6c341.png",
+   "league_logo": "logos/50067aa1be3f.png",
    "rank": 1,
    "record": "7-1",
    "last5": [
@@ -3012,7 +3122,7 @@
    "name": "FC Porto",
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 1,
    "record": "4-0",
    "last5": [
