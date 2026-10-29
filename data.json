@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-29 18:40",
+ "updated": "2026-10-29 21:33",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -830,7 +830,7 @@
    "name": "Szombathely",
    "logo": "logos/9fb8bfa07c32.png",
    "league": "NB I. A",
-   "league_logo": "logos/e25024497cfd.png",
+   "league_logo": "logos/61a093b35850.png",
    "rank": 1,
    "record": "6-0",
    "last5": [
@@ -1249,7 +1249,7 @@
    "name": "Murcia",
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 14,
    "record": "2-3",
    "last5": [
@@ -1579,7 +1579,7 @@
    "name": "Unicaja",
    "logo": "logos/13f74fd364a6.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 5,
    "record": "3-2",
    "last5": [
@@ -2569,7 +2569,7 @@
    "name": "Bilbao",
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 9,
    "record": "3-2",
    "last5": [
@@ -2899,7 +2899,7 @@
    "name": "Joventut Badalona",
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 13,
    "record": "2-3",
    "last5": [
