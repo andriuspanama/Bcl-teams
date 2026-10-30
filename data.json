@@ -1,7 +1,7 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-30 15:43",
- "comp_logo": "logos/736a7e173080.png",
+ "updated": "2026-10-30 18:38",
+ "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Rytas",
@@ -114,7 +114,7 @@
    "name": "Trabzonspor",
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 7,
    "record": "3-2",
    "last5": [
@@ -233,7 +233,7 @@
    "name": "Nanterre",
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 6,
    "record": "3-2",
    "last5": [
@@ -340,7 +340,7 @@
    "name": "Strasbourg",
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 7,
    "record": "3-3",
    "last5": [
@@ -536,8 +536,8 @@
     }
    ],
    "next": {
-    "date": "30.10. 17:30",
-    "opponent": "Igokea"
+    "date": "09.11. 18:00",
+    "opponent": "Siroki Brijeg"
    },
    "note": ""
   },
@@ -545,7 +545,7 @@
    "name": "Galatasaray",
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 11,
    "record": "2-3",
    "last5": [
@@ -741,7 +741,7 @@
    "name": "Antwerp Giants",
    "logo": "logos/f22e250d02bb.png",
    "league": "BNXT lyga",
-   "league_logo": "logos/f0a5f6fa9273.png",
+   "league_logo": "logos/cc3eb03ee169.png",
    "rank": 1,
    "record": "4-0",
    "last5": [
@@ -1037,7 +1037,7 @@
    "league": "Korisliiga",
    "league_logo": "logos/b10f1d73b114.png",
    "rank": 4,
-   "record": "4-3",
+   "record": "5-3",
    "last5": [
     {
      "wl": "L",
@@ -2070,7 +2070,7 @@
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 9,
    "record": "2-3",
    "last5": [
@@ -2756,8 +2756,8 @@
     }
    ],
    "next": {
-    "date": "30.10. 17:30",
-    "opponent": "Cibona"
+    "date": "07.11. 16:00",
+    "opponent": "KK Krka Novo mesto"
    },
    "note": ""
   },
@@ -2890,8 +2890,8 @@
     }
    ],
    "next": {
-    "date": "30.10. 17:00",
-    "opponent": "Opava"
+    "date": "01.11. 17:00",
+    "opponent": "Usti n. Labem"
    },
    "note": ""
   },
