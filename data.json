@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-31 09:32",
+ "updated": "2026-10-31 12:38",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -212,8 +212,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 12:30",
-    "opponent": "Korfez Basket"
+    "date": "07.11. 15:00",
+    "opponent": "Petkim Spor"
    },
    "note": ""
   },
@@ -233,7 +233,7 @@
    "name": "Nanterre",
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 6,
    "record": "3-2",
    "last5": [
@@ -340,7 +340,7 @@
    "name": "Strasbourg",
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 7,
    "record": "3-3",
    "last5": [
@@ -670,7 +670,7 @@
    "name": "Legia",
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 4,
    "record": "3-1",
    "last5": [
@@ -2097,7 +2097,7 @@
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 9,
    "record": "2-3",
    "last5": [
@@ -2293,7 +2293,7 @@
    "name": "Hapoel Holon",
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
+   "league_logo": "logos/07d3791c1460.png",
    "rank": 11,
    "record": "1-2",
    "last5": [
@@ -3274,7 +3274,7 @@
    "name": "Bnei Herzliya",
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
+   "league_logo": "logos/07d3791c1460.png",
    "rank": 6,
    "record": "2-1",
    "last5": [
