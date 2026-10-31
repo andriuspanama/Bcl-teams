@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-31 12:38",
+ "updated": "2026-10-31 15:28",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -115,9 +115,18 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 7,
-   "record": "3-2",
+   "rank": 2,
+   "record": "4-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "86:94",
+     "opponent": "Korfez Basket",
+     "venue": "A",
+     "date": "31.10. 12:30",
+     "pf": 94,
+     "pa": 86
+    },
     {
      "wl": "L",
      "score": "90:93",
@@ -153,18 +162,18 @@
      "date": "05.10. 16:00",
      "pf": 81,
      "pa": 90
-    },
-    {
-     "wl": "W",
-     "score": "82:76",
-     "opponent": "Bursaspor",
-     "venue": "H",
-     "date": "27.09. 12:30",
-     "pf": 82,
-     "pa": 76
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "86:94",
+     "opponent": "Korfez Basket",
+     "venue": "A",
+     "date": "31.10. 12:30",
+     "pf": 94,
+     "pa": 86
+    },
     {
      "wl": "L",
      "score": "90:93",
@@ -233,7 +242,7 @@
    "name": "Nanterre",
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 6,
    "record": "3-2",
    "last5": [
@@ -340,7 +349,7 @@
    "name": "Strasbourg",
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 7,
    "record": "3-3",
    "last5": [
@@ -670,8 +679,8 @@
    "name": "Legia",
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
-   "rank": 4,
+   "league_logo": "logos/e38c6600f3ac.png",
+   "rank": 5,
    "record": "3-1",
    "last5": [
     {
@@ -965,9 +974,18 @@
    "logo": "logos/e8fa983046df.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 8,
-   "record": "2-2",
+   "rank": 3,
+   "record": "2-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "95:84",
+     "opponent": "Vikos",
+     "venue": "A",
+     "date": "31.10. 13:00",
+     "pf": 84,
+     "pa": 95
+    },
     {
      "wl": "L",
      "score": "65:62",
@@ -1008,6 +1026,15 @@
    "games": [
     {
      "wl": "L",
+     "score": "95:84",
+     "opponent": "Vikos",
+     "venue": "A",
+     "date": "31.10. 13:00",
+     "pf": 84,
+     "pa": 95
+    },
+    {
+     "wl": "L",
      "score": "65:62",
      "opponent": "PAOK",
      "venue": "A",
@@ -1044,8 +1071,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 13:00",
-    "opponent": "Vikos"
+    "date": "08.11. 11:00",
+    "opponent": "Panathinaikos"
    },
    "note": ""
   },
@@ -1188,7 +1215,7 @@
    "logo": "logos/bc3941e9ed93.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 3,
+   "rank": 4,
    "record": "3-1",
    "last5": [
     {
@@ -2097,7 +2124,7 @@
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 9,
    "record": "2-3",
    "last5": [
@@ -2293,7 +2320,7 @@
    "name": "Hapoel Holon",
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
+   "league_logo": "logos/7af634241793.png",
    "rank": 11,
    "record": "1-2",
    "last5": [
@@ -3274,7 +3301,7 @@
    "name": "Bnei Herzliya",
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
+   "league_logo": "logos/7af634241793.png",
    "rank": 6,
    "record": "2-1",
    "last5": [
