@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-31 15:28",
+ "updated": "2026-10-31 18:32",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -120,12 +120,12 @@
    "last5": [
     {
      "wl": "W",
-     "score": "86:94",
+     "score": "83:89",
      "opponent": "Korfez Basket",
      "venue": "A",
      "date": "31.10. 12:30",
-     "pf": 94,
-     "pa": 86
+     "pf": 89,
+     "pa": 83
     },
     {
      "wl": "L",
@@ -167,12 +167,12 @@
    "games": [
     {
      "wl": "W",
-     "score": "86:94",
+     "score": "83:89",
      "opponent": "Korfez Basket",
      "venue": "A",
      "date": "31.10. 12:30",
-     "pf": 94,
-     "pa": 86
+     "pf": 89,
+     "pa": 83
     },
     {
      "wl": "L",
@@ -456,8 +456,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 17:30",
-    "opponent": "Cholet"
+    "date": "08.11. 18:00",
+    "opponent": "Le Mans"
    },
    "note": ""
   },
@@ -573,7 +573,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 11,
+   "rank": 12,
    "record": "2-3",
    "last5": [
     {
@@ -670,8 +670,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 17:30",
-    "opponent": "Denizli Basket"
+    "date": "08.11. 15:00",
+    "opponent": "Esenler Erokspor"
    },
    "note": ""
   },
@@ -680,9 +680,18 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 5,
-   "record": "3-1",
+   "rank": 4,
+   "record": "3-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "77:92",
+     "opponent": "Dziki Warszawa",
+     "venue": "H",
+     "date": "31.10. 16:30",
+     "pf": 77,
+     "pa": 92
+    },
     {
      "wl": "W",
      "score": "84:74",
@@ -722,6 +731,15 @@
    ],
    "games": [
     {
+     "wl": "L",
+     "score": "77:92",
+     "opponent": "Dziki Warszawa",
+     "venue": "H",
+     "date": "31.10. 16:30",
+     "pf": 77,
+     "pa": 92
+    },
+    {
      "wl": "W",
      "score": "84:74",
      "opponent": "Ostrow Wielkopolski",
@@ -759,8 +777,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 16:30",
-    "opponent": "Dziki Warszawa"
+    "date": "08.11. 11:30",
+    "opponent": "Gdynia"
    },
    "note": ""
   },
@@ -974,7 +992,7 @@
    "logo": "logos/e8fa983046df.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 3,
+   "rank": 6,
    "record": "2-3",
    "last5": [
     {
@@ -1215,7 +1233,7 @@
    "logo": "logos/bc3941e9ed93.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 4,
+   "rank": 7,
    "record": "3-1",
    "last5": [
     {
@@ -1303,7 +1321,7 @@
    "name": "Murcia",
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 14,
    "record": "2-3",
    "last5": [
@@ -1401,8 +1419,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 18:30",
-    "opponent": "Forca Lleida"
+    "date": "08.11. 18:00",
+    "opponent": "Real Madrid"
    },
    "note": ""
   },
@@ -1633,7 +1651,7 @@
    "name": "Unicaja",
    "logo": "logos/13f74fd364a6.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 5,
    "record": "3-2",
    "last5": [
@@ -1741,7 +1759,7 @@
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
    "league_logo": "logos/c5eddc9adb50.png",
-   "rank": 7,
+   "rank": 6,
    "record": "3-4",
    "last5": [
     {
@@ -1856,8 +1874,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 17:10",
-    "opponent": "Jonava"
+    "date": "08.11. 14:50",
+    "opponent": "Zalgiris Kaunas"
    },
    "note": ""
   },
@@ -1974,8 +1992,17 @@
    "league": "NBL",
    "league_logo": "logos/d187bee6c341.png",
    "rank": 2,
-   "record": "8-2",
+   "record": "9-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "85:102",
+     "opponent": "USK Prague",
+     "venue": "A",
+     "date": "31.10. 16:30",
+     "pf": 102,
+     "pa": 85
+    },
     {
      "wl": "W",
      "score": "98:74",
@@ -2011,18 +2038,18 @@
      "date": "14.10. 15:30",
      "pf": 88,
      "pa": 61
-    },
-    {
-     "wl": "L",
-     "score": "105:60",
-     "opponent": "Slavia Prague ERA NBK",
-     "venue": "A",
-     "date": "10.10. 10:00",
-     "pf": 60,
-     "pa": 105
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "85:102",
+     "opponent": "USK Prague",
+     "venue": "A",
+     "date": "31.10. 16:30",
+     "pf": 102,
+     "pa": 85
+    },
     {
      "wl": "W",
      "score": "98:74",
@@ -2115,8 +2142,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 16:30",
-    "opponent": "USK Prague"
+    "date": "07.11. 15:00",
+    "opponent": "Opava"
    },
    "note": ""
   },
@@ -2222,8 +2249,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 17:30",
-    "opponent": "Strasbourg"
+    "date": "03.11. 18:30",
+    "opponent": "Paris"
    },
    "note": ""
   },
@@ -2632,7 +2659,7 @@
    "name": "Bilbao",
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 9,
    "record": "3-2",
    "last5": [
@@ -2740,7 +2767,7 @@
    "logo": "logos/0abf3f361f89.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 5,
+   "rank": 6,
    "record": "2-3",
    "last5": [
     {
@@ -2989,7 +3016,7 @@
    "name": "Joventut Badalona",
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 13,
    "record": "2-3",
    "last5": [
@@ -3213,9 +3240,18 @@
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
    "league_logo": "logos/b924ca13583e.png",
-   "rank": 1,
-   "record": "4-0",
+   "rank": 2,
+   "record": "4-1",
    "last5": [
+    {
+     "wl": "L",
+     "score": "78:76",
+     "opponent": "Ovarense",
+     "venue": "A",
+     "date": "31.10. 16:00",
+     "pf": 76,
+     "pa": 78
+    },
     {
      "wl": "W",
      "score": "93:82",
@@ -3255,6 +3291,15 @@
    ],
    "games": [
     {
+     "wl": "L",
+     "score": "78:76",
+     "opponent": "Ovarense",
+     "venue": "A",
+     "date": "31.10. 16:00",
+     "pf": 76,
+     "pa": 78
+    },
+    {
      "wl": "W",
      "score": "93:82",
      "opponent": "CAB Madeira",
@@ -3292,8 +3337,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 16:00",
-    "opponent": "Ovarense"
+    "date": "08.11. 15:00",
+    "opponent": "Braga"
    },
    "note": ""
   },
