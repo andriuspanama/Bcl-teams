@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-31 18:32",
+ "updated": "2026-10-31 21:28",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -340,8 +340,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 19:30",
-    "opponent": "JL Bourg"
+    "date": "07.11. 17:30",
+    "opponent": "Chalon/Saone"
    },
    "note": ""
   },
@@ -351,8 +351,17 @@
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
    "rank": 7,
-   "record": "3-3",
+   "record": "4-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "88:82",
+     "opponent": "Cholet",
+     "venue": "H",
+     "date": "31.10. 17:30",
+     "pf": 88,
+     "pa": 82
+    },
     {
      "wl": "W",
      "score": "94:98",
@@ -388,18 +397,18 @@
      "date": "11.10. 14:30",
      "pf": 84,
      "pa": 98
-    },
-    {
-     "wl": "W",
-     "score": "87:75",
-     "opponent": "Boulazac",
-     "venue": "H",
-     "date": "03.10. 16:00",
-     "pf": 87,
-     "pa": 75
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "88:82",
+     "opponent": "Cholet",
+     "venue": "H",
+     "date": "31.10. 17:30",
+     "pf": 88,
+     "pa": 82
+    },
     {
      "wl": "W",
      "score": "94:98",
@@ -573,9 +582,18 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 12,
-   "record": "2-3",
+   "rank": 6,
+   "record": "3-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "74:87",
+     "opponent": "Denizli Basket",
+     "venue": "A",
+     "date": "31.10. 17:30",
+     "pf": 87,
+     "pa": 74
+    },
     {
      "wl": "W",
      "score": "102:68",
@@ -611,18 +629,18 @@
      "date": "02.10. 16:00",
      "pf": 71,
      "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "102:79",
-     "opponent": "Cayirova",
-     "venue": "H",
-     "date": "26.09. 15:00",
-     "pf": 102,
-     "pa": 79
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "74:87",
+     "opponent": "Denizli Basket",
+     "venue": "A",
+     "date": "31.10. 17:30",
+     "pf": 87,
+     "pa": 74
+    },
     {
      "wl": "W",
      "score": "102:68",
@@ -680,7 +698,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 4,
+   "rank": 6,
    "record": "3-2",
    "last5": [
     {
@@ -788,8 +806,17 @@
    "league": "BNXT lyga",
    "league_logo": "logos/f0a5f6fa9273.png",
    "rank": 1,
-   "record": "4-0",
+   "record": "5-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "88:80",
+     "opponent": "Limburg",
+     "venue": "H",
+     "date": "31.10. 19:00",
+     "pf": 88,
+     "pa": 80
+    },
     {
      "wl": "W",
      "score": "109:75",
@@ -830,6 +857,15 @@
    "games": [
     {
      "wl": "W",
+     "score": "88:80",
+     "opponent": "Limburg",
+     "venue": "H",
+     "date": "31.10. 19:00",
+     "pf": 88,
+     "pa": 80
+    },
+    {
+     "wl": "W",
      "score": "109:75",
      "opponent": "Mechelen",
      "venue": "H",
@@ -866,8 +902,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 19:00",
-    "opponent": "Limburg"
+    "date": "08.11. 14:00",
+    "opponent": "Oostende"
    },
    "note": ""
   },
@@ -876,7 +912,7 @@
    "logo": "logos/9fb8bfa07c32.png",
    "league": "NB I. A",
    "league_logo": "logos/e25024497cfd.png",
-   "rank": 1,
+   "rank": 2,
    "record": "6-0",
    "last5": [
     {
@@ -1322,9 +1358,18 @@
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 14,
-   "record": "2-3",
+   "rank": 10,
+   "record": "3-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "125:98",
+     "opponent": "Forca Lleida",
+     "venue": "H",
+     "date": "31.10. 18:30",
+     "pf": 125,
+     "pa": 98
+    },
     {
      "wl": "W",
      "score": "88:81",
@@ -1360,18 +1405,18 @@
      "date": "04.10. 17:00",
      "pf": 100,
      "pa": 94
-    },
-    {
-     "wl": "L",
-     "score": "84:77",
-     "opponent": "Basquet Girona",
-     "venue": "A",
-     "date": "27.09. 15:00",
-     "pf": 77,
-     "pa": 84
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "125:98",
+     "opponent": "Forca Lleida",
+     "venue": "H",
+     "date": "31.10. 18:30",
+     "pf": 125,
+     "pa": 98
+    },
     {
      "wl": "W",
      "score": "88:81",
@@ -1429,9 +1474,18 @@
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
    "league_logo": "logos/a535f34abeaf.png",
-   "rank": 8,
-   "record": "3-2",
+   "rank": 4,
+   "record": "4-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "88:99",
+     "opponent": "Verona",
+     "venue": "A",
+     "date": "31.10. 19:00",
+     "pf": 99,
+     "pa": 88
+    },
     {
      "wl": "W",
      "score": "110:103",
@@ -1467,18 +1521,18 @@
      "date": "04.10. 15:00",
      "pf": 85,
      "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "69:90",
-     "opponent": "Virtus Bologna",
-     "venue": "H",
-     "date": "27.09. 17:00",
-     "pf": 69,
-     "pa": 90
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "88:99",
+     "opponent": "Verona",
+     "venue": "A",
+     "date": "31.10. 19:00",
+     "pf": 99,
+     "pa": 88
+    },
     {
      "wl": "W",
      "score": "110:103",
@@ -1526,8 +1580,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 19:00",
-    "opponent": "Verona"
+    "date": "08.11. 18:00",
+    "opponent": "Udine"
    },
    "note": ""
   },
@@ -1536,7 +1590,7 @@
    "logo": "logos/75017b7879a2.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 10,
+   "rank": 7,
    "record": "3-3",
    "last5": [
     {
@@ -1652,7 +1706,7 @@
    "logo": "logos/13f74fd364a6.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 5,
+   "rank": 6,
    "record": "3-2",
    "last5": [
     {
@@ -1759,9 +1813,18 @@
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
    "league_logo": "logos/c5eddc9adb50.png",
-   "rank": 6,
-   "record": "3-4",
+   "rank": 7,
+   "record": "3-5",
    "last5": [
+    {
+     "wl": "L",
+     "score": "94:82",
+     "opponent": "Jonava",
+     "venue": "A",
+     "date": "31.10. 17:10",
+     "pf": 82,
+     "pa": 94
+    },
     {
      "wl": "L",
      "score": "76:94",
@@ -1797,18 +1860,18 @@
      "date": "04.10. 16:10",
      "pf": 93,
      "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "94:77",
-     "opponent": "Nevezis",
-     "venue": "H",
-     "date": "27.09. 16:10",
-     "pf": 94,
-     "pa": 77
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "94:82",
+     "opponent": "Jonava",
+     "venue": "A",
+     "date": "31.10. 17:10",
+     "pf": 82,
+     "pa": 94
+    },
     {
      "wl": "L",
      "score": "76:94",
@@ -1884,9 +1947,18 @@
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
    "league_logo": "logos/a535f34abeaf.png",
-   "rank": 11,
-   "record": "2-3",
+   "rank": 13,
+   "record": "2-4",
    "last5": [
+    {
+     "wl": "L",
+     "score": "81:68",
+     "opponent": "Treviso",
+     "venue": "A",
+     "date": "31.10. 19:30",
+     "pf": 68,
+     "pa": 81
+    },
     {
      "wl": "W",
      "score": "81:60",
@@ -1922,18 +1994,18 @@
      "date": "03.10. 18:30",
      "pf": 93,
      "pa": 99
-    },
-    {
-     "wl": "L",
-     "score": "78:83",
-     "opponent": "Trento",
-     "venue": "H",
-     "date": "26.09. 18:30",
-     "pf": 78,
-     "pa": 83
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "81:68",
+     "opponent": "Treviso",
+     "venue": "A",
+     "date": "31.10. 19:30",
+     "pf": 68,
+     "pa": 81
+    },
     {
      "wl": "W",
      "score": "81:60",
@@ -1981,8 +2053,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 19:30",
-    "opponent": "Treviso"
+    "date": "07.11. 19:00",
+    "opponent": "Venezia"
    },
    "note": ""
   },
@@ -2152,9 +2224,18 @@
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
-   "rank": 9,
-   "record": "2-3",
+   "rank": 10,
+   "record": "2-4",
    "last5": [
+    {
+     "wl": "L",
+     "score": "88:82",
+     "opponent": "Strasbourg",
+     "venue": "A",
+     "date": "31.10. 17:30",
+     "pf": 82,
+     "pa": 88
+    },
     {
      "wl": "L",
      "score": "86:69",
@@ -2190,18 +2271,18 @@
      "date": "03.10. 16:00",
      "pf": 85,
      "pa": 76
-    },
-    {
-     "wl": "L",
-     "score": "85:97",
-     "opponent": "Lyon-Villeurbanne",
-     "venue": "H",
-     "date": "27.09. 17:00",
-     "pf": 85,
-     "pa": 97
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "88:82",
+     "opponent": "Strasbourg",
+     "venue": "A",
+     "date": "31.10. 17:30",
+     "pf": 82,
+     "pa": 88
+    },
     {
      "wl": "L",
      "score": "86:69",
@@ -2348,7 +2429,7 @@
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 11,
+   "rank": 10,
    "record": "1-2",
    "last5": [
     {
@@ -2419,7 +2500,7 @@
    "logo": "logos/fc078fb0f685.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 14,
+   "rank": 15,
    "record": "2-5",
    "last5": [
     {
@@ -2544,7 +2625,7 @@
    "logo": "logos/6a6627a79bbc.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 11,
+   "rank": 12,
    "record": "3-3",
    "last5": [
     {
@@ -3017,7 +3098,7 @@
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 13,
+   "rank": 14,
    "record": "2-3",
    "last5": [
     {
@@ -3239,8 +3320,8 @@
    "name": "FC Porto",
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
-   "rank": 2,
+   "league_logo": "logos/e985fcdd375b.png",
+   "rank": 1,
    "record": "4-1",
    "last5": [
     {
