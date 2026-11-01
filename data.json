@@ -1,7 +1,7 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-10-31 21:28",
- "comp_logo": "logos/a6f9e1a9f508.png",
+ "updated": "2026-11-01 00:47",
+ "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
    "name": "Rytas",
@@ -244,8 +244,17 @@
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
    "rank": 6,
-   "record": "3-2",
+   "record": "4-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "98:101",
+     "opponent": "JL Bourg",
+     "venue": "A",
+     "date": "31.10. 19:30",
+     "pf": 101,
+     "pa": 98
+    },
     {
      "wl": "W",
      "score": "86:69",
@@ -281,18 +290,18 @@
      "date": "02.10. 18:00",
      "pf": 83,
      "pa": 93
-    },
-    {
-     "wl": "W",
-     "score": "78:64",
-     "opponent": "Pau-Orthez",
-     "venue": "H",
-     "date": "26.09. 18:30",
-     "pf": 78,
-     "pa": 64
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "98:101",
+     "opponent": "JL Bourg",
+     "venue": "A",
+     "date": "31.10. 19:30",
+     "pf": 101,
+     "pa": 98
+    },
     {
      "wl": "W",
      "score": "86:69",
@@ -1357,7 +1366,7 @@
    "name": "Murcia",
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 10,
    "record": "3-3",
    "last5": [
@@ -1705,7 +1714,7 @@
    "name": "Unicaja",
    "logo": "logos/13f74fd364a6.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 6,
    "record": "3-2",
    "last5": [
@@ -2224,7 +2233,7 @@
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
-   "rank": 10,
+   "rank": 9,
    "record": "2-4",
    "last5": [
     {
@@ -2740,7 +2749,7 @@
    "name": "Bilbao",
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 9,
    "record": "3-2",
    "last5": [
@@ -3097,7 +3106,7 @@
    "name": "Joventut Badalona",
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 14,
    "record": "2-3",
    "last5": [
@@ -3320,7 +3329,7 @@
    "name": "FC Porto",
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 1,
    "record": "4-1",
    "last5": [
