@@ -1,13 +1,13 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-01 09:37",
+ "updated": "2026-11-01 12:39",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Rytas",
    "logo": "logos/da8b9d9ee9c8.png",
    "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 2,
    "record": "4-1",
    "last5": [
@@ -115,7 +115,7 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 2,
+   "rank": 4,
    "record": "4-2",
    "last5": [
     {
@@ -242,7 +242,7 @@
    "name": "Nanterre",
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 6,
    "record": "4-2",
    "last5": [
@@ -358,7 +358,7 @@
    "name": "Strasbourg",
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 7,
    "record": "4-3",
    "last5": [
@@ -1357,8 +1357,8 @@
     }
    ],
    "next": {
-    "date": "01.11. 11:00",
-    "opponent": "Olympiacos"
+    "date": "07.11. 14:00",
+    "opponent": "Kolossos Rhodes"
    },
    "note": ""
   },
@@ -1821,7 +1821,7 @@
    "name": "Juventus",
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 7,
    "record": "3-5",
    "last5": [
@@ -2232,7 +2232,7 @@
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 9,
    "record": "2-4",
    "last5": [
@@ -2847,8 +2847,8 @@
     }
    ],
    "next": {
-    "date": "01.11. 11:00",
-    "opponent": "Joventut Badalona"
+    "date": "07.11. 18:30",
+    "opponent": "Basquet Girona"
    },
    "note": ""
   },
@@ -3204,8 +3204,8 @@
     }
    ],
    "next": {
-    "date": "01.11. 11:00",
-    "opponent": "Bilbao"
+    "date": "08.11. 12:00",
+    "opponent": "Tenerife"
    },
    "note": ""
   },
