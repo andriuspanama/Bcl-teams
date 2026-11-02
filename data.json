@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-02 10:42",
+ "updated": "2026-11-02 21:30",
  "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
@@ -9,8 +9,17 @@
    "league": "LKL",
    "league_logo": "logos/c5eddc9adb50.png",
    "rank": 2,
-   "record": "4-1",
+   "record": "4-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "89:94",
+     "opponent": "Zalgiris Kaunas",
+     "venue": "H",
+     "date": "02.11. 14:50",
+     "pf": 89,
+     "pa": 94
+    },
     {
      "wl": "W",
      "score": "76:94",
@@ -46,18 +55,18 @@
      "date": "10.10. 13:50",
      "pf": 86,
      "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "102:105",
-     "opponent": "Gargzdai",
-     "venue": "H",
-     "date": "03.10. 13:50",
-     "pf": 102,
-     "pa": 105
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "89:94",
+     "opponent": "Zalgiris Kaunas",
+     "venue": "H",
+     "date": "02.11. 14:50",
+     "pf": 89,
+     "pa": 94
+    },
     {
      "wl": "W",
      "score": "76:94",
@@ -105,8 +114,8 @@
     }
    ],
    "next": {
-    "date": "02.11. 14:50",
-    "opponent": "Zalgiris Kaunas"
+    "date": "05.11. 16:50",
+    "opponent": "Jonava"
    },
    "note": ""
   },
@@ -115,7 +124,7 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 4,
+   "rank": 5,
    "record": "4-2",
    "last5": [
     {
@@ -591,7 +600,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 7,
+   "rank": 9,
    "record": "3-3",
    "last5": [
     {
@@ -706,7 +715,7 @@
    "name": "Legia",
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 8,
    "record": "3-2",
    "last5": [
@@ -1501,7 +1510,7 @@
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
    "league_logo": "logos/a535f34abeaf.png",
-   "rank": 5,
+   "rank": 6,
    "record": "4-2",
    "last5": [
     {
@@ -2385,9 +2394,18 @@
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 7,
-   "record": "2-2",
+   "rank": 4,
+   "record": "3-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "104:109",
+     "opponent": "Mega Basket",
+     "venue": "A",
+     "date": "02.11. 17:30",
+     "pf": 109,
+     "pa": 104
+    },
     {
      "wl": "L",
      "score": "80:82",
@@ -2427,6 +2445,15 @@
    ],
    "games": [
     {
+     "wl": "W",
+     "score": "104:109",
+     "opponent": "Mega Basket",
+     "venue": "A",
+     "date": "02.11. 17:30",
+     "pf": 109,
+     "pa": 104
+    },
+    {
      "wl": "L",
      "score": "80:82",
      "opponent": "Partizan Mozzart Bet",
@@ -2464,8 +2491,8 @@
     }
    ],
    "next": {
-    "date": "02.11. 17:30",
-    "opponent": "Mega Basket"
+    "date": "05.11. 17:00",
+    "opponent": "Zadar"
    },
    "note": ""
   },
@@ -2474,9 +2501,18 @@
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 11,
-   "record": "1-2",
+   "rank": 13,
+   "record": "1-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "70:78",
+     "opponent": "Maccabi Rishon",
+     "venue": "H",
+     "date": "02.11. 18:15",
+     "pf": 70,
+     "pa": 78
+    },
     {
      "wl": "W",
      "score": "75:91",
@@ -2507,6 +2543,15 @@
    ],
    "games": [
     {
+     "wl": "L",
+     "score": "70:78",
+     "opponent": "Maccabi Rishon",
+     "venue": "H",
+     "date": "02.11. 18:15",
+     "pf": 70,
+     "pa": 78
+    },
+    {
      "wl": "W",
      "score": "75:91",
      "opponent": "Hapoel Beer Sheva",
@@ -2535,8 +2580,8 @@
     }
    ],
    "next": {
-    "date": "02.11. 18:15",
-    "opponent": "Maccabi Rishon"
+    "date": "06.11. 11:00",
+    "opponent": "Galil Elyon"
    },
    "note": ""
   },
