@@ -1,13 +1,13 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-01 19:25",
+ "updated": "2026-11-02 00:24",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Rytas",
    "logo": "logos/da8b9d9ee9c8.png",
    "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 2,
    "record": "4-1",
    "last5": [
@@ -114,7 +114,7 @@
    "name": "Trabzonspor",
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 4,
    "record": "4-2",
    "last5": [
@@ -242,7 +242,7 @@
    "name": "Nanterre",
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 6,
    "record": "4-2",
    "last5": [
@@ -358,7 +358,7 @@
    "name": "Strasbourg",
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 7,
    "record": "4-3",
    "last5": [
@@ -483,7 +483,7 @@
    "name": "Cibona",
    "logo": "logos/e29523e50e3b.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 9,
    "record": "1-4",
    "last5": [
@@ -590,7 +590,7 @@
    "name": "Galatasaray",
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 7,
    "record": "3-3",
    "last5": [
@@ -707,7 +707,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 4,
+   "rank": 8,
    "record": "3-2",
    "last5": [
     {
@@ -1742,9 +1742,18 @@
    "logo": "logos/13f74fd364a6.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 8,
-   "record": "3-2",
+   "rank": 9,
+   "record": "3-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "89:92",
+     "opponent": "Barcelona",
+     "venue": "H",
+     "date": "01.11. 18:00",
+     "pf": 89,
+     "pa": 92
+    },
     {
      "wl": "W",
      "score": "90:103",
@@ -1780,18 +1789,18 @@
      "date": "03.10. 17:30",
      "pf": 75,
      "pa": 80
-    },
-    {
-     "wl": "L",
-     "score": "89:87",
-     "opponent": "Real Madrid",
-     "venue": "A",
-     "date": "27.09. 17:00",
-     "pf": 87,
-     "pa": 89
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "89:92",
+     "opponent": "Barcelona",
+     "venue": "H",
+     "date": "01.11. 18:00",
+     "pf": 89,
+     "pa": 92
+    },
     {
      "wl": "W",
      "score": "90:103",
@@ -1848,7 +1857,7 @@
    "name": "Juventus",
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 7,
    "record": "3-5",
    "last5": [
@@ -2259,7 +2268,7 @@
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 9,
    "record": "2-4",
    "last5": [
@@ -2375,7 +2384,7 @@
    "name": "Spartak Subotica",
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 7,
    "record": "2-2",
    "last5": [
@@ -2786,7 +2795,7 @@
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 7,
+   "rank": 8,
    "record": "4-2",
    "last5": [
     {
@@ -2901,8 +2910,8 @@
    "name": "Igokea",
    "logo": "logos/0abf3f361f89.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
-   "rank": 6,
+   "league_logo": "logos/4ecaeb496585.png",
+   "rank": 7,
    "record": "2-3",
    "last5": [
     {
