@@ -1,7 +1,7 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-03 20:49",
- "comp_logo": "logos/736a7e173080.png",
+ "updated": "2026-11-03 23:07",
+ "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Rytas",
@@ -1747,6 +1747,122 @@
    "note": ""
   },
   {
+   "name": "Unicaja",
+   "logo": "logos/13f74fd364a6.png",
+   "league": "ACB",
+   "league_logo": "logos/c68ff65a02e9.png",
+   "rank": 9,
+   "record": "3-3",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "89:92",
+     "opponent": "Barcelona",
+     "venue": "H",
+     "date": "01.11. 18:00",
+     "pf": 89,
+     "pa": 92
+    },
+    {
+     "wl": "W",
+     "score": "90:103",
+     "opponent": "Breogan",
+     "venue": "A",
+     "date": "25.10. 17:00",
+     "pf": 103,
+     "pa": 90
+    },
+    {
+     "wl": "W",
+     "score": "72:84",
+     "opponent": "Manresa",
+     "venue": "A",
+     "date": "17.10. 16:00",
+     "pf": 84,
+     "pa": 72
+    },
+    {
+     "wl": "W",
+     "score": "92:84",
+     "opponent": "MoraBanc Andorra",
+     "venue": "H",
+     "date": "10.10. 17:30",
+     "pf": 92,
+     "pa": 84
+    },
+    {
+     "wl": "L",
+     "score": "75:80",
+     "opponent": "Tenerife",
+     "venue": "H",
+     "date": "03.10. 17:30",
+     "pf": 75,
+     "pa": 80
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "89:92",
+     "opponent": "Barcelona",
+     "venue": "H",
+     "date": "01.11. 18:00",
+     "pf": 89,
+     "pa": 92
+    },
+    {
+     "wl": "W",
+     "score": "90:103",
+     "opponent": "Breogan",
+     "venue": "A",
+     "date": "25.10. 17:00",
+     "pf": 103,
+     "pa": 90
+    },
+    {
+     "wl": "W",
+     "score": "72:84",
+     "opponent": "Manresa",
+     "venue": "A",
+     "date": "17.10. 16:00",
+     "pf": 84,
+     "pa": 72
+    },
+    {
+     "wl": "W",
+     "score": "92:84",
+     "opponent": "MoraBanc Andorra",
+     "venue": "H",
+     "date": "10.10. 17:30",
+     "pf": 92,
+     "pa": 84
+    },
+    {
+     "wl": "L",
+     "score": "75:80",
+     "opponent": "Tenerife",
+     "venue": "H",
+     "date": "03.10. 17:30",
+     "pf": 75,
+     "pa": 80
+    },
+    {
+     "wl": "L",
+     "score": "89:87",
+     "opponent": "Real Madrid",
+     "venue": "A",
+     "date": "27.09. 17:00",
+     "pf": 87,
+     "pa": 89
+    }
+   ],
+   "next": {
+    "date": "08.11. 16:00",
+    "opponent": "Basket Zaragoza"
+   },
+   "note": ""
+  },
+  {
    "name": "Juventus",
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
@@ -1877,122 +1993,6 @@
    "next": {
     "date": "08.11. 14:50",
     "opponent": "Zalgiris Kaunas"
-   },
-   "note": ""
-  },
-  {
-   "name": "Unicaja",
-   "logo": "logos/13f74fd364a6.png",
-   "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 9,
-   "record": "3-3",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "89:92",
-     "opponent": "Barcelona",
-     "venue": "H",
-     "date": "01.11. 18:00",
-     "pf": 89,
-     "pa": 92
-    },
-    {
-     "wl": "W",
-     "score": "90:103",
-     "opponent": "Breogan",
-     "venue": "A",
-     "date": "25.10. 17:00",
-     "pf": 103,
-     "pa": 90
-    },
-    {
-     "wl": "W",
-     "score": "72:84",
-     "opponent": "Manresa",
-     "venue": "A",
-     "date": "17.10. 16:00",
-     "pf": 84,
-     "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "92:84",
-     "opponent": "MoraBanc Andorra",
-     "venue": "H",
-     "date": "10.10. 17:30",
-     "pf": 92,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "75:80",
-     "opponent": "Tenerife",
-     "venue": "H",
-     "date": "03.10. 17:30",
-     "pf": 75,
-     "pa": 80
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "89:92",
-     "opponent": "Barcelona",
-     "venue": "H",
-     "date": "01.11. 18:00",
-     "pf": 89,
-     "pa": 92
-    },
-    {
-     "wl": "W",
-     "score": "90:103",
-     "opponent": "Breogan",
-     "venue": "A",
-     "date": "25.10. 17:00",
-     "pf": 103,
-     "pa": 90
-    },
-    {
-     "wl": "W",
-     "score": "72:84",
-     "opponent": "Manresa",
-     "venue": "A",
-     "date": "17.10. 16:00",
-     "pf": 84,
-     "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "92:84",
-     "opponent": "MoraBanc Andorra",
-     "venue": "H",
-     "date": "10.10. 17:30",
-     "pf": 92,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "75:80",
-     "opponent": "Tenerife",
-     "venue": "H",
-     "date": "03.10. 17:30",
-     "pf": 75,
-     "pa": 80
-    },
-    {
-     "wl": "L",
-     "score": "89:87",
-     "opponent": "Real Madrid",
-     "venue": "A",
-     "date": "27.09. 17:00",
-     "pf": 87,
-     "pa": 89
-    }
-   ],
-   "next": {
-    "date": "08.11. 16:00",
-    "opponent": "Basket Zaragoza"
    },
    "note": ""
   },
@@ -2279,8 +2279,17 @@
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
    "rank": 9,
-   "record": "2-4",
+   "record": "3-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "94:90",
+     "opponent": "Paris",
+     "venue": "H",
+     "date": "03.11. 18:30",
+     "pf": 94,
+     "pa": 90
+    },
     {
      "wl": "L",
      "score": "88:82",
@@ -2316,18 +2325,18 @@
      "date": "10.10. 16:00",
      "pf": 85,
      "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "76:85",
-     "opponent": "Nancy",
-     "venue": "A",
-     "date": "03.10. 16:00",
-     "pf": 85,
-     "pa": 76
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "94:90",
+     "opponent": "Paris",
+     "venue": "H",
+     "date": "03.11. 18:30",
+     "pf": 94,
+     "pa": 90
+    },
     {
      "wl": "L",
      "score": "88:82",
@@ -3327,6 +3336,113 @@
    "note": ""
   },
   {
+   "name": "FC Porto",
+   "logo": "logos/332fca396adb.png",
+   "league": "LPB",
+   "league_logo": "logos/b924ca13583e.png",
+   "rank": 2,
+   "record": "4-1",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "78:76",
+     "opponent": "Ovarense",
+     "venue": "A",
+     "date": "31.10. 16:00",
+     "pf": 76,
+     "pa": 78
+    },
+    {
+     "wl": "W",
+     "score": "93:82",
+     "opponent": "CAB Madeira",
+     "venue": "H",
+     "date": "25.10. 15:00",
+     "pf": 93,
+     "pa": 82
+    },
+    {
+     "wl": "W",
+     "score": "91:95",
+     "opponent": "Esgueira",
+     "venue": "A",
+     "date": "16.10. 20:00",
+     "pf": 95,
+     "pa": 91
+    },
+    {
+     "wl": "W",
+     "score": "93:86",
+     "opponent": "Benfica",
+     "venue": "H",
+     "date": "11.10. 14:00",
+     "pf": 93,
+     "pa": 86
+    },
+    {
+     "wl": "W",
+     "score": "93:110",
+     "opponent": "CA Queluz",
+     "venue": "A",
+     "date": "02.10. 20:15",
+     "pf": 110,
+     "pa": 93
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "78:76",
+     "opponent": "Ovarense",
+     "venue": "A",
+     "date": "31.10. 16:00",
+     "pf": 76,
+     "pa": 78
+    },
+    {
+     "wl": "W",
+     "score": "93:82",
+     "opponent": "CAB Madeira",
+     "venue": "H",
+     "date": "25.10. 15:00",
+     "pf": 93,
+     "pa": 82
+    },
+    {
+     "wl": "W",
+     "score": "91:95",
+     "opponent": "Esgueira",
+     "venue": "A",
+     "date": "16.10. 20:00",
+     "pf": 95,
+     "pa": 91
+    },
+    {
+     "wl": "W",
+     "score": "93:86",
+     "opponent": "Benfica",
+     "venue": "H",
+     "date": "11.10. 14:00",
+     "pf": 93,
+     "pa": 86
+    },
+    {
+     "wl": "W",
+     "score": "93:110",
+     "opponent": "CA Queluz",
+     "venue": "A",
+     "date": "02.10. 20:15",
+     "pf": 110,
+     "pa": 93
+    }
+   ],
+   "next": {
+    "date": "08.11. 15:00",
+    "opponent": "Braga"
+   },
+   "note": ""
+  },
+  {
    "name": "Bonn",
    "logo": "logos/53eba8f126e3.png",
    "league": "BBL",
@@ -3448,113 +3564,6 @@
    "next": {
     "date": "07.11. 19:00",
     "opponent": "Basketball Braunschweig"
-   },
-   "note": ""
-  },
-  {
-   "name": "FC Porto",
-   "logo": "logos/332fca396adb.png",
-   "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
-   "rank": 2,
-   "record": "4-1",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "78:76",
-     "opponent": "Ovarense",
-     "venue": "A",
-     "date": "31.10. 16:00",
-     "pf": 76,
-     "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "93:82",
-     "opponent": "CAB Madeira",
-     "venue": "H",
-     "date": "25.10. 15:00",
-     "pf": 93,
-     "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "91:95",
-     "opponent": "Esgueira",
-     "venue": "A",
-     "date": "16.10. 20:00",
-     "pf": 95,
-     "pa": 91
-    },
-    {
-     "wl": "W",
-     "score": "93:86",
-     "opponent": "Benfica",
-     "venue": "H",
-     "date": "11.10. 14:00",
-     "pf": 93,
-     "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "93:110",
-     "opponent": "CA Queluz",
-     "venue": "A",
-     "date": "02.10. 20:15",
-     "pf": 110,
-     "pa": 93
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "78:76",
-     "opponent": "Ovarense",
-     "venue": "A",
-     "date": "31.10. 16:00",
-     "pf": 76,
-     "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "93:82",
-     "opponent": "CAB Madeira",
-     "venue": "H",
-     "date": "25.10. 15:00",
-     "pf": 93,
-     "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "91:95",
-     "opponent": "Esgueira",
-     "venue": "A",
-     "date": "16.10. 20:00",
-     "pf": 95,
-     "pa": 91
-    },
-    {
-     "wl": "W",
-     "score": "93:86",
-     "opponent": "Benfica",
-     "venue": "H",
-     "date": "11.10. 14:00",
-     "pf": 93,
-     "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "93:110",
-     "opponent": "CA Queluz",
-     "venue": "A",
-     "date": "02.10. 20:15",
-     "pf": 110,
-     "pa": 93
-    }
-   ],
-   "next": {
-    "date": "08.11. 15:00",
-    "opponent": "Braga"
    },
    "note": ""
   },
