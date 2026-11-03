@@ -1,7 +1,7 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-03 16:56",
- "comp_logo": "logos/a6f9e1a9f508.png",
+ "updated": "2026-11-03 20:49",
+ "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
    "name": "Rytas",
@@ -926,6 +926,140 @@
    "note": ""
   },
   {
+   "name": "Salon Vilpas",
+   "logo": "logos/047cf29bd231.png",
+   "league": "Korisliiga",
+   "league_logo": "logos/b10f1d73b114.png",
+   "rank": 4,
+   "record": "5-3",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "52:80",
+     "opponent": "Lahti Basketball",
+     "venue": "A",
+     "date": "30.10. 16:30",
+     "pf": 80,
+     "pa": 52
+    },
+    {
+     "wl": "L",
+     "score": "86:79",
+     "opponent": "Helsinki Seagulls",
+     "venue": "A",
+     "date": "27.10. 16:30",
+     "pf": 79,
+     "pa": 86
+    },
+    {
+     "wl": "W",
+     "score": "79:64",
+     "opponent": "Helsinki Seagulls",
+     "venue": "H",
+     "date": "24.10. 15:00",
+     "pf": 79,
+     "pa": 64
+    },
+    {
+     "wl": "W",
+     "score": "70:81",
+     "opponent": "Bisons Loimaa",
+     "venue": "A",
+     "date": "17.10. 13:00",
+     "pf": 81,
+     "pa": 70
+    },
+    {
+     "wl": "L",
+     "score": "81:102",
+     "opponent": "KTP Kotka Basket",
+     "venue": "H",
+     "date": "14.10. 15:30",
+     "pf": 81,
+     "pa": 102
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "52:80",
+     "opponent": "Lahti Basketball",
+     "venue": "A",
+     "date": "30.10. 16:30",
+     "pf": 80,
+     "pa": 52
+    },
+    {
+     "wl": "L",
+     "score": "86:79",
+     "opponent": "Helsinki Seagulls",
+     "venue": "A",
+     "date": "27.10. 16:30",
+     "pf": 79,
+     "pa": 86
+    },
+    {
+     "wl": "W",
+     "score": "79:64",
+     "opponent": "Helsinki Seagulls",
+     "venue": "H",
+     "date": "24.10. 15:00",
+     "pf": 79,
+     "pa": 64
+    },
+    {
+     "wl": "W",
+     "score": "70:81",
+     "opponent": "Bisons Loimaa",
+     "venue": "A",
+     "date": "17.10. 13:00",
+     "pf": 81,
+     "pa": 70
+    },
+    {
+     "wl": "L",
+     "score": "81:102",
+     "opponent": "KTP Kotka Basket",
+     "venue": "H",
+     "date": "14.10. 15:30",
+     "pf": 81,
+     "pa": 102
+    },
+    {
+     "wl": "W",
+     "score": "95:73",
+     "opponent": "UU-Korihait Uusikaupunki",
+     "venue": "H",
+     "date": "10.10. 15:00",
+     "pf": 95,
+     "pa": 73
+    },
+    {
+     "wl": "W",
+     "score": "79:97",
+     "opponent": "Pyrinto Tampere",
+     "venue": "A",
+     "date": "03.10. 15:00",
+     "pf": 97,
+     "pa": 79
+    },
+    {
+     "wl": "L",
+     "score": "104:107",
+     "opponent": "Honka",
+     "venue": "H",
+     "date": "29.09. 15:30",
+     "pf": 104,
+     "pa": 107
+    }
+   ],
+   "next": {
+    "date": "07.11. 14:00",
+    "opponent": "Kipina"
+   },
+   "note": ""
+  },
+  {
    "name": "Szombathely",
    "logo": "logos/9fb8bfa07c32.png",
    "league": "NB I. A",
@@ -1145,140 +1279,6 @@
    "next": {
     "date": "08.11. 11:00",
     "opponent": "Panathinaikos"
-   },
-   "note": ""
-  },
-  {
-   "name": "Salon Vilpas",
-   "logo": "logos/047cf29bd231.png",
-   "league": "Korisliiga",
-   "league_logo": "logos/b10f1d73b114.png",
-   "rank": 4,
-   "record": "5-3",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "52:80",
-     "opponent": "Lahti Basketball",
-     "venue": "A",
-     "date": "30.10. 16:30",
-     "pf": 80,
-     "pa": 52
-    },
-    {
-     "wl": "L",
-     "score": "86:79",
-     "opponent": "Helsinki Seagulls",
-     "venue": "A",
-     "date": "27.10. 16:30",
-     "pf": 79,
-     "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "79:64",
-     "opponent": "Helsinki Seagulls",
-     "venue": "H",
-     "date": "24.10. 15:00",
-     "pf": 79,
-     "pa": 64
-    },
-    {
-     "wl": "W",
-     "score": "70:81",
-     "opponent": "Bisons Loimaa",
-     "venue": "A",
-     "date": "17.10. 13:00",
-     "pf": 81,
-     "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "81:102",
-     "opponent": "KTP Kotka Basket",
-     "venue": "H",
-     "date": "14.10. 15:30",
-     "pf": 81,
-     "pa": 102
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "52:80",
-     "opponent": "Lahti Basketball",
-     "venue": "A",
-     "date": "30.10. 16:30",
-     "pf": 80,
-     "pa": 52
-    },
-    {
-     "wl": "L",
-     "score": "86:79",
-     "opponent": "Helsinki Seagulls",
-     "venue": "A",
-     "date": "27.10. 16:30",
-     "pf": 79,
-     "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "79:64",
-     "opponent": "Helsinki Seagulls",
-     "venue": "H",
-     "date": "24.10. 15:00",
-     "pf": 79,
-     "pa": 64
-    },
-    {
-     "wl": "W",
-     "score": "70:81",
-     "opponent": "Bisons Loimaa",
-     "venue": "A",
-     "date": "17.10. 13:00",
-     "pf": 81,
-     "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "81:102",
-     "opponent": "KTP Kotka Basket",
-     "venue": "H",
-     "date": "14.10. 15:30",
-     "pf": 81,
-     "pa": 102
-    },
-    {
-     "wl": "W",
-     "score": "95:73",
-     "opponent": "UU-Korihait Uusikaupunki",
-     "venue": "H",
-     "date": "10.10. 15:00",
-     "pf": 95,
-     "pa": 73
-    },
-    {
-     "wl": "W",
-     "score": "79:97",
-     "opponent": "Pyrinto Tampere",
-     "venue": "A",
-     "date": "03.10. 15:00",
-     "pf": 97,
-     "pa": 79
-    },
-    {
-     "wl": "L",
-     "score": "104:107",
-     "opponent": "Honka",
-     "venue": "H",
-     "date": "29.09. 15:30",
-     "pf": 104,
-     "pa": 107
-    }
-   ],
-   "next": {
-    "date": "07.11. 14:00",
-    "opponent": "Kipina"
    },
    "note": ""
   },
@@ -1509,7 +1509,7 @@
    "name": "Varese",
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
+   "league_logo": "logos/a535f34abeaf.png",
    "rank": 6,
    "record": "4-2",
    "last5": [
@@ -1625,7 +1625,7 @@
    "name": "Bamberg",
    "logo": "logos/75017b7879a2.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 8,
    "record": "4-3",
    "last5": [
@@ -1743,122 +1743,6 @@
    "next": {
     "date": "07.11. 17:30",
     "opponent": "Trier"
-   },
-   "note": ""
-  },
-  {
-   "name": "Unicaja",
-   "logo": "logos/13f74fd364a6.png",
-   "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 9,
-   "record": "3-3",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "89:92",
-     "opponent": "Barcelona",
-     "venue": "H",
-     "date": "01.11. 18:00",
-     "pf": 89,
-     "pa": 92
-    },
-    {
-     "wl": "W",
-     "score": "90:103",
-     "opponent": "Breogan",
-     "venue": "A",
-     "date": "25.10. 17:00",
-     "pf": 103,
-     "pa": 90
-    },
-    {
-     "wl": "W",
-     "score": "72:84",
-     "opponent": "Manresa",
-     "venue": "A",
-     "date": "17.10. 16:00",
-     "pf": 84,
-     "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "92:84",
-     "opponent": "MoraBanc Andorra",
-     "venue": "H",
-     "date": "10.10. 17:30",
-     "pf": 92,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "75:80",
-     "opponent": "Tenerife",
-     "venue": "H",
-     "date": "03.10. 17:30",
-     "pf": 75,
-     "pa": 80
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "89:92",
-     "opponent": "Barcelona",
-     "venue": "H",
-     "date": "01.11. 18:00",
-     "pf": 89,
-     "pa": 92
-    },
-    {
-     "wl": "W",
-     "score": "90:103",
-     "opponent": "Breogan",
-     "venue": "A",
-     "date": "25.10. 17:00",
-     "pf": 103,
-     "pa": 90
-    },
-    {
-     "wl": "W",
-     "score": "72:84",
-     "opponent": "Manresa",
-     "venue": "A",
-     "date": "17.10. 16:00",
-     "pf": 84,
-     "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "92:84",
-     "opponent": "MoraBanc Andorra",
-     "venue": "H",
-     "date": "10.10. 17:30",
-     "pf": 92,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "75:80",
-     "opponent": "Tenerife",
-     "venue": "H",
-     "date": "03.10. 17:30",
-     "pf": 75,
-     "pa": 80
-    },
-    {
-     "wl": "L",
-     "score": "89:87",
-     "opponent": "Real Madrid",
-     "venue": "A",
-     "date": "27.09. 17:00",
-     "pf": 87,
-     "pa": 89
-    }
-   ],
-   "next": {
-    "date": "08.11. 16:00",
-    "opponent": "Basket Zaragoza"
    },
    "note": ""
   },
@@ -1997,10 +1881,126 @@
    "note": ""
   },
   {
+   "name": "Unicaja",
+   "logo": "logos/13f74fd364a6.png",
+   "league": "ACB",
+   "league_logo": "logos/c68ff65a02e9.png",
+   "rank": 9,
+   "record": "3-3",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "89:92",
+     "opponent": "Barcelona",
+     "venue": "H",
+     "date": "01.11. 18:00",
+     "pf": 89,
+     "pa": 92
+    },
+    {
+     "wl": "W",
+     "score": "90:103",
+     "opponent": "Breogan",
+     "venue": "A",
+     "date": "25.10. 17:00",
+     "pf": 103,
+     "pa": 90
+    },
+    {
+     "wl": "W",
+     "score": "72:84",
+     "opponent": "Manresa",
+     "venue": "A",
+     "date": "17.10. 16:00",
+     "pf": 84,
+     "pa": 72
+    },
+    {
+     "wl": "W",
+     "score": "92:84",
+     "opponent": "MoraBanc Andorra",
+     "venue": "H",
+     "date": "10.10. 17:30",
+     "pf": 92,
+     "pa": 84
+    },
+    {
+     "wl": "L",
+     "score": "75:80",
+     "opponent": "Tenerife",
+     "venue": "H",
+     "date": "03.10. 17:30",
+     "pf": 75,
+     "pa": 80
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "89:92",
+     "opponent": "Barcelona",
+     "venue": "H",
+     "date": "01.11. 18:00",
+     "pf": 89,
+     "pa": 92
+    },
+    {
+     "wl": "W",
+     "score": "90:103",
+     "opponent": "Breogan",
+     "venue": "A",
+     "date": "25.10. 17:00",
+     "pf": 103,
+     "pa": 90
+    },
+    {
+     "wl": "W",
+     "score": "72:84",
+     "opponent": "Manresa",
+     "venue": "A",
+     "date": "17.10. 16:00",
+     "pf": 84,
+     "pa": 72
+    },
+    {
+     "wl": "W",
+     "score": "92:84",
+     "opponent": "MoraBanc Andorra",
+     "venue": "H",
+     "date": "10.10. 17:30",
+     "pf": 92,
+     "pa": 84
+    },
+    {
+     "wl": "L",
+     "score": "75:80",
+     "opponent": "Tenerife",
+     "venue": "H",
+     "date": "03.10. 17:30",
+     "pf": 75,
+     "pa": 80
+    },
+    {
+     "wl": "L",
+     "score": "89:87",
+     "opponent": "Real Madrid",
+     "venue": "A",
+     "date": "27.09. 17:00",
+     "pf": 87,
+     "pa": 89
+    }
+   ],
+   "next": {
+    "date": "08.11. 16:00",
+    "opponent": "Basket Zaragoza"
+   },
+   "note": ""
+  },
+  {
    "name": "Reggiana",
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
+   "league_logo": "logos/a535f34abeaf.png",
    "rank": 13,
    "record": "2-4",
    "last5": [
@@ -2116,7 +2116,7 @@
    "name": "Pardubice",
    "logo": "logos/1f2fb3cc995c.png",
    "league": "NBL",
-   "league_logo": "logos/50067aa1be3f.png",
+   "league_logo": "logos/d187bee6c341.png",
    "rank": 2,
    "record": "9-2",
    "last5": [
@@ -2384,8 +2384,8 @@
     }
    ],
    "next": {
-    "date": "03.11. 18:30",
-    "opponent": "Paris"
+    "date": "07.11. 17:00",
+    "opponent": "Dijon"
    },
    "note": ""
   },
@@ -2500,7 +2500,7 @@
    "name": "Hapoel Holon",
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
+   "league_logo": "logos/7af634241793.png",
    "rank": 13,
    "record": "1-3",
    "last5": [
@@ -2589,7 +2589,7 @@
    "name": "Vechta",
    "logo": "logos/fc078fb0f685.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 15,
    "record": "2-5",
    "last5": [
@@ -2714,8 +2714,8 @@
    "name": "Alba Berlin",
    "logo": "logos/6a6627a79bbc.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 11,
+   "league_logo": "logos/98572a4b17ba.png",
+   "rank": 10,
    "record": "3-4",
    "last5": [
     {
@@ -3062,7 +3062,7 @@
    "name": "Slavia Prague ERA NBK",
    "logo": "logos/dd8dec9dd0ca.png",
    "league": "NBL",
-   "league_logo": "logos/50067aa1be3f.png",
+   "league_logo": "logos/d187bee6c341.png",
    "rank": 1,
    "record": "9-1",
    "last5": [
@@ -3330,7 +3330,7 @@
    "name": "Bonn",
    "logo": "logos/53eba8f126e3.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 9,
    "record": "4-3",
    "last5": [
@@ -3562,7 +3562,7 @@
    "name": "Bnei Herzliya",
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
+   "league_logo": "logos/7af634241793.png",
    "rank": 7,
    "record": "2-2",
    "last5": [
