@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-04 14:14",
+ "updated": "2026-11-04 19:30",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -123,7 +123,7 @@
    "name": "Trabzonspor",
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 5,
    "record": "4-2",
    "last5": [
@@ -489,10 +489,117 @@
    "note": ""
   },
   {
+   "name": "Legia",
+   "logo": "logos/b3e78bcc47c2.png",
+   "league": "Basket Liga",
+   "league_logo": "logos/e38c6600f3ac.png",
+   "rank": 8,
+   "record": "3-2",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "77:92",
+     "opponent": "Dziki Warszawa",
+     "venue": "H",
+     "date": "31.10. 16:30",
+     "pf": 77,
+     "pa": 92
+    },
+    {
+     "wl": "W",
+     "score": "84:74",
+     "opponent": "Ostrow Wielkopolski",
+     "venue": "H",
+     "date": "25.10. 14:00",
+     "pf": 84,
+     "pa": 74
+    },
+    {
+     "wl": "W",
+     "score": "73:72",
+     "opponent": "Anwil Wloclawek",
+     "venue": "H",
+     "date": "16.10. 18:15",
+     "pf": 73,
+     "pa": 72
+    },
+    {
+     "wl": "L",
+     "score": "104:87",
+     "opponent": "Zielona Gora",
+     "venue": "A",
+     "date": "09.10. 16:00",
+     "pf": 87,
+     "pa": 104
+    },
+    {
+     "wl": "W",
+     "score": "76:79",
+     "opponent": "Czarni Slupsk",
+     "venue": "A",
+     "date": "02.10. 16:00",
+     "pf": 79,
+     "pa": 76
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "77:92",
+     "opponent": "Dziki Warszawa",
+     "venue": "H",
+     "date": "31.10. 16:30",
+     "pf": 77,
+     "pa": 92
+    },
+    {
+     "wl": "W",
+     "score": "84:74",
+     "opponent": "Ostrow Wielkopolski",
+     "venue": "H",
+     "date": "25.10. 14:00",
+     "pf": 84,
+     "pa": 74
+    },
+    {
+     "wl": "W",
+     "score": "73:72",
+     "opponent": "Anwil Wloclawek",
+     "venue": "H",
+     "date": "16.10. 18:15",
+     "pf": 73,
+     "pa": 72
+    },
+    {
+     "wl": "L",
+     "score": "104:87",
+     "opponent": "Zielona Gora",
+     "venue": "A",
+     "date": "09.10. 16:00",
+     "pf": 87,
+     "pa": 104
+    },
+    {
+     "wl": "W",
+     "score": "76:79",
+     "opponent": "Czarni Slupsk",
+     "venue": "A",
+     "date": "02.10. 16:00",
+     "pf": 79,
+     "pa": 76
+    }
+   ],
+   "next": {
+    "date": "08.11. 11:30",
+    "opponent": "Gdynia"
+   },
+   "note": ""
+  },
+  {
    "name": "Cibona",
    "logo": "logos/e29523e50e3b.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 9,
    "record": "1-4",
    "last5": [
@@ -599,7 +706,7 @@
    "name": "Galatasaray",
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 9,
    "record": "3-3",
    "last5": [
@@ -712,113 +819,6 @@
    "note": ""
   },
   {
-   "name": "Legia",
-   "logo": "logos/b3e78bcc47c2.png",
-   "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 8,
-   "record": "3-2",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "77:92",
-     "opponent": "Dziki Warszawa",
-     "venue": "H",
-     "date": "31.10. 16:30",
-     "pf": 77,
-     "pa": 92
-    },
-    {
-     "wl": "W",
-     "score": "84:74",
-     "opponent": "Ostrow Wielkopolski",
-     "venue": "H",
-     "date": "25.10. 14:00",
-     "pf": 84,
-     "pa": 74
-    },
-    {
-     "wl": "W",
-     "score": "73:72",
-     "opponent": "Anwil Wloclawek",
-     "venue": "H",
-     "date": "16.10. 18:15",
-     "pf": 73,
-     "pa": 72
-    },
-    {
-     "wl": "L",
-     "score": "104:87",
-     "opponent": "Zielona Gora",
-     "venue": "A",
-     "date": "09.10. 16:00",
-     "pf": 87,
-     "pa": 104
-    },
-    {
-     "wl": "W",
-     "score": "76:79",
-     "opponent": "Czarni Slupsk",
-     "venue": "A",
-     "date": "02.10. 16:00",
-     "pf": 79,
-     "pa": 76
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "77:92",
-     "opponent": "Dziki Warszawa",
-     "venue": "H",
-     "date": "31.10. 16:30",
-     "pf": 77,
-     "pa": 92
-    },
-    {
-     "wl": "W",
-     "score": "84:74",
-     "opponent": "Ostrow Wielkopolski",
-     "venue": "H",
-     "date": "25.10. 14:00",
-     "pf": 84,
-     "pa": 74
-    },
-    {
-     "wl": "W",
-     "score": "73:72",
-     "opponent": "Anwil Wloclawek",
-     "venue": "H",
-     "date": "16.10. 18:15",
-     "pf": 73,
-     "pa": 72
-    },
-    {
-     "wl": "L",
-     "score": "104:87",
-     "opponent": "Zielona Gora",
-     "venue": "A",
-     "date": "09.10. 16:00",
-     "pf": 87,
-     "pa": 104
-    },
-    {
-     "wl": "W",
-     "score": "76:79",
-     "opponent": "Czarni Slupsk",
-     "venue": "A",
-     "date": "02.10. 16:00",
-     "pf": 79,
-     "pa": 76
-    }
-   ],
-   "next": {
-    "date": "08.11. 11:30",
-    "opponent": "Gdynia"
-   },
-   "note": ""
-  },
-  {
    "name": "Antwerp Giants",
    "logo": "logos/f22e250d02bb.png",
    "league": "BNXT lyga",
@@ -922,6 +922,229 @@
    "next": {
     "date": "08.11. 14:00",
     "opponent": "Oostende"
+   },
+   "note": ""
+  },
+  {
+   "name": "AEK Athens",
+   "logo": "logos/e8fa983046df.png",
+   "league": "Basket League",
+   "league_logo": "logos/21f5bcd543ba.png",
+   "rank": 9,
+   "record": "2-3",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "95:84",
+     "opponent": "Vikos",
+     "venue": "A",
+     "date": "31.10. 13:00",
+     "pf": 84,
+     "pa": 95
+    },
+    {
+     "wl": "L",
+     "score": "65:62",
+     "opponent": "PAOK",
+     "venue": "A",
+     "date": "24.10. 14:30",
+     "pf": 62,
+     "pa": 65
+    },
+    {
+     "wl": "W",
+     "score": "84:79",
+     "opponent": "Mykonos",
+     "venue": "H",
+     "date": "17.10. 12:00",
+     "pf": 84,
+     "pa": 79
+    },
+    {
+     "wl": "L",
+     "score": "88:58",
+     "opponent": "Aris",
+     "venue": "A",
+     "date": "10.10. 14:30",
+     "pf": 58,
+     "pa": 88
+    },
+    {
+     "wl": "W",
+     "score": "91:70",
+     "opponent": "Maroussi",
+     "venue": "H",
+     "date": "03.10. 13:00",
+     "pf": 91,
+     "pa": 70
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "95:84",
+     "opponent": "Vikos",
+     "venue": "A",
+     "date": "31.10. 13:00",
+     "pf": 84,
+     "pa": 95
+    },
+    {
+     "wl": "L",
+     "score": "65:62",
+     "opponent": "PAOK",
+     "venue": "A",
+     "date": "24.10. 14:30",
+     "pf": 62,
+     "pa": 65
+    },
+    {
+     "wl": "W",
+     "score": "84:79",
+     "opponent": "Mykonos",
+     "venue": "H",
+     "date": "17.10. 12:00",
+     "pf": 84,
+     "pa": 79
+    },
+    {
+     "wl": "L",
+     "score": "88:58",
+     "opponent": "Aris",
+     "venue": "A",
+     "date": "10.10. 14:30",
+     "pf": 58,
+     "pa": 88
+    },
+    {
+     "wl": "W",
+     "score": "91:70",
+     "opponent": "Maroussi",
+     "venue": "H",
+     "date": "03.10. 13:00",
+     "pf": 91,
+     "pa": 70
+    }
+   ],
+   "next": {
+    "date": "08.11. 11:00",
+    "opponent": "Panathinaikos"
+   },
+   "note": ""
+  },
+  {
+   "name": "Szombathely",
+   "logo": "logos/9fb8bfa07c32.png",
+   "league": "NB I. A",
+   "league_logo": "logos/e25024497cfd.png",
+   "rank": 2,
+   "record": "6-0",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "79:105",
+     "opponent": "Kormend",
+     "venue": "A",
+     "date": "28.10. 17:15",
+     "pf": 105,
+     "pa": 79
+    },
+    {
+     "wl": "W",
+     "score": "85:65",
+     "opponent": "Kecskemeti TE",
+     "venue": "H",
+     "date": "24.10. 16:00",
+     "pf": 85,
+     "pa": 65
+    },
+    {
+     "wl": "W",
+     "score": "78:106",
+     "opponent": "NKA Pecs",
+     "venue": "A",
+     "date": "16.10. 16:00",
+     "pf": 106,
+     "pa": 78
+    },
+    {
+     "wl": "W",
+     "score": "96:65",
+     "opponent": "Szedeak",
+     "venue": "H",
+     "date": "10.10. 16:00",
+     "pf": 96,
+     "pa": 65
+    },
+    {
+     "wl": "W",
+     "score": "74:98",
+     "opponent": "OSE Lions",
+     "venue": "A",
+     "date": "03.10. 16:00",
+     "pf": 98,
+     "pa": 74
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "79:105",
+     "opponent": "Kormend",
+     "venue": "A",
+     "date": "28.10. 17:15",
+     "pf": 105,
+     "pa": 79
+    },
+    {
+     "wl": "W",
+     "score": "85:65",
+     "opponent": "Kecskemeti TE",
+     "venue": "H",
+     "date": "24.10. 16:00",
+     "pf": 85,
+     "pa": 65
+    },
+    {
+     "wl": "W",
+     "score": "78:106",
+     "opponent": "NKA Pecs",
+     "venue": "A",
+     "date": "16.10. 16:00",
+     "pf": 106,
+     "pa": 78
+    },
+    {
+     "wl": "W",
+     "score": "96:65",
+     "opponent": "Szedeak",
+     "venue": "H",
+     "date": "10.10. 16:00",
+     "pf": 96,
+     "pa": 65
+    },
+    {
+     "wl": "W",
+     "score": "74:98",
+     "opponent": "OSE Lions",
+     "venue": "A",
+     "date": "03.10. 16:00",
+     "pf": 98,
+     "pa": 74
+    },
+    {
+     "wl": "W",
+     "score": "94:75",
+     "opponent": "Phoenix-MT Fot",
+     "venue": "H",
+     "date": "26.09. 16:00",
+     "pf": 94,
+     "pa": 75
+    }
+   ],
+   "next": {
+    "date": "07.11. 17:00",
+    "opponent": "Soproni KC"
    },
    "note": ""
   },
@@ -1056,229 +1279,6 @@
    "next": {
     "date": "07.11. 14:00",
     "opponent": "Kipina"
-   },
-   "note": ""
-  },
-  {
-   "name": "Szombathely",
-   "logo": "logos/9fb8bfa07c32.png",
-   "league": "NB I. A",
-   "league_logo": "logos/61a093b35850.png",
-   "rank": 2,
-   "record": "6-0",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "79:105",
-     "opponent": "Kormend",
-     "venue": "A",
-     "date": "28.10. 17:15",
-     "pf": 105,
-     "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "85:65",
-     "opponent": "Kecskemeti TE",
-     "venue": "H",
-     "date": "24.10. 16:00",
-     "pf": 85,
-     "pa": 65
-    },
-    {
-     "wl": "W",
-     "score": "78:106",
-     "opponent": "NKA Pecs",
-     "venue": "A",
-     "date": "16.10. 16:00",
-     "pf": 106,
-     "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "96:65",
-     "opponent": "Szedeak",
-     "venue": "H",
-     "date": "10.10. 16:00",
-     "pf": 96,
-     "pa": 65
-    },
-    {
-     "wl": "W",
-     "score": "74:98",
-     "opponent": "OSE Lions",
-     "venue": "A",
-     "date": "03.10. 16:00",
-     "pf": 98,
-     "pa": 74
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "79:105",
-     "opponent": "Kormend",
-     "venue": "A",
-     "date": "28.10. 17:15",
-     "pf": 105,
-     "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "85:65",
-     "opponent": "Kecskemeti TE",
-     "venue": "H",
-     "date": "24.10. 16:00",
-     "pf": 85,
-     "pa": 65
-    },
-    {
-     "wl": "W",
-     "score": "78:106",
-     "opponent": "NKA Pecs",
-     "venue": "A",
-     "date": "16.10. 16:00",
-     "pf": 106,
-     "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "96:65",
-     "opponent": "Szedeak",
-     "venue": "H",
-     "date": "10.10. 16:00",
-     "pf": 96,
-     "pa": 65
-    },
-    {
-     "wl": "W",
-     "score": "74:98",
-     "opponent": "OSE Lions",
-     "venue": "A",
-     "date": "03.10. 16:00",
-     "pf": 98,
-     "pa": 74
-    },
-    {
-     "wl": "W",
-     "score": "94:75",
-     "opponent": "Phoenix-MT Fot",
-     "venue": "H",
-     "date": "26.09. 16:00",
-     "pf": 94,
-     "pa": 75
-    }
-   ],
-   "next": {
-    "date": "07.11. 17:00",
-    "opponent": "Soproni KC"
-   },
-   "note": ""
-  },
-  {
-   "name": "AEK Athens",
-   "logo": "logos/e8fa983046df.png",
-   "league": "Basket League",
-   "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 9,
-   "record": "2-3",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "95:84",
-     "opponent": "Vikos",
-     "venue": "A",
-     "date": "31.10. 13:00",
-     "pf": 84,
-     "pa": 95
-    },
-    {
-     "wl": "L",
-     "score": "65:62",
-     "opponent": "PAOK",
-     "venue": "A",
-     "date": "24.10. 14:30",
-     "pf": 62,
-     "pa": 65
-    },
-    {
-     "wl": "W",
-     "score": "84:79",
-     "opponent": "Mykonos",
-     "venue": "H",
-     "date": "17.10. 12:00",
-     "pf": 84,
-     "pa": 79
-    },
-    {
-     "wl": "L",
-     "score": "88:58",
-     "opponent": "Aris",
-     "venue": "A",
-     "date": "10.10. 14:30",
-     "pf": 58,
-     "pa": 88
-    },
-    {
-     "wl": "W",
-     "score": "91:70",
-     "opponent": "Maroussi",
-     "venue": "H",
-     "date": "03.10. 13:00",
-     "pf": 91,
-     "pa": 70
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "95:84",
-     "opponent": "Vikos",
-     "venue": "A",
-     "date": "31.10. 13:00",
-     "pf": 84,
-     "pa": 95
-    },
-    {
-     "wl": "L",
-     "score": "65:62",
-     "opponent": "PAOK",
-     "venue": "A",
-     "date": "24.10. 14:30",
-     "pf": 62,
-     "pa": 65
-    },
-    {
-     "wl": "W",
-     "score": "84:79",
-     "opponent": "Mykonos",
-     "venue": "H",
-     "date": "17.10. 12:00",
-     "pf": 84,
-     "pa": 79
-    },
-    {
-     "wl": "L",
-     "score": "88:58",
-     "opponent": "Aris",
-     "venue": "A",
-     "date": "10.10. 14:30",
-     "pf": 58,
-     "pa": 88
-    },
-    {
-     "wl": "W",
-     "score": "91:70",
-     "opponent": "Maroussi",
-     "venue": "H",
-     "date": "03.10. 13:00",
-     "pf": 91,
-     "pa": 70
-    }
-   ],
-   "next": {
-    "date": "08.11. 11:00",
-    "opponent": "Panathinaikos"
    },
    "note": ""
   },
@@ -2402,7 +2402,7 @@
    "name": "Spartak Subotica",
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 4,
    "record": "3-2",
    "last5": [
@@ -2964,7 +2964,7 @@
    "name": "Igokea",
    "logo": "logos/0abf3f361f89.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 7,
    "record": "2-3",
    "last5": [
@@ -3073,8 +3073,17 @@
    "league": "NBL",
    "league_logo": "logos/d187bee6c341.png",
    "rank": 1,
-   "record": "9-1",
+   "record": "10-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "89:78",
+     "opponent": "Decin",
+     "venue": "H",
+     "date": "04.11. 17:00",
+     "pf": 89,
+     "pa": 78
+    },
     {
      "wl": "W",
      "score": "89:91",
@@ -3110,18 +3119,18 @@
      "date": "17.10. 15:30",
      "pf": 79,
      "pa": 91
-    },
-    {
-     "wl": "W",
-     "score": "105:60",
-     "opponent": "Pardubice",
-     "venue": "H",
-     "date": "10.10. 10:00",
-     "pf": 105,
-     "pa": 60
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "89:78",
+     "opponent": "Decin",
+     "venue": "H",
+     "date": "04.11. 17:00",
+     "pf": 89,
+     "pa": 78
+    },
     {
      "wl": "W",
      "score": "89:91",
@@ -3214,8 +3223,8 @@
     }
    ],
    "next": {
-    "date": "04.11. 17:00",
-    "opponent": "Decin"
+    "date": "06.11. 17:00",
+    "opponent": "Plzen"
    },
    "note": ""
   },
@@ -3339,7 +3348,7 @@
    "name": "FC Porto",
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 2,
    "record": "4-1",
    "last5": [
