@@ -1,7 +1,7 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-04 10:37",
- "comp_logo": "logos/736a7e173080.png",
+ "updated": "2026-11-04 14:14",
+ "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Rytas",
@@ -123,7 +123,7 @@
    "name": "Trabzonspor",
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 5,
    "record": "4-2",
    "last5": [
@@ -599,7 +599,7 @@
    "name": "Galatasaray",
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 9,
    "record": "3-3",
    "last5": [
@@ -1063,7 +1063,7 @@
    "name": "Szombathely",
    "logo": "logos/9fb8bfa07c32.png",
    "league": "NB I. A",
-   "league_logo": "logos/e25024497cfd.png",
+   "league_logo": "logos/61a093b35850.png",
    "rank": 2,
    "record": "6-0",
    "last5": [
@@ -1393,7 +1393,7 @@
    "name": "Murcia",
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 10,
    "record": "3-3",
    "last5": [
@@ -1750,7 +1750,7 @@
    "name": "Unicaja",
    "logo": "logos/13f74fd364a6.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 9,
    "record": "3-3",
    "last5": [
@@ -2848,7 +2848,7 @@
    "name": "Bilbao",
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 8,
    "record": "4-2",
    "last5": [
@@ -3223,7 +3223,7 @@
    "name": "Joventut Badalona",
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 14,
    "record": "2-4",
    "last5": [
@@ -3339,7 +3339,7 @@
    "name": "FC Porto",
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
+   "league_logo": "logos/e985fcdd375b.png",
    "rank": 2,
    "record": "4-1",
    "last5": [
