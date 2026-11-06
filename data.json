@@ -1,13 +1,13 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-06 10:32",
+ "updated": "2026-11-06 16:41",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Rytas",
    "logo": "logos/da8b9d9ee9c8.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "league_logo": "logos/c5eddc9adb50.png",
    "rank": 2,
    "record": "5-2",
    "last5": [
@@ -501,7 +501,7 @@
    "name": "Legia",
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 8,
    "record": "3-2",
    "last5": [
@@ -831,7 +831,7 @@
    "name": "Antwerp Giants",
    "logo": "logos/f22e250d02bb.png",
    "league": "BNXT lyga",
-   "league_logo": "logos/cc3eb03ee169.png",
+   "league_logo": "logos/f0a5f6fa9273.png",
    "rank": 1,
    "record": "5-0",
    "last5": [
@@ -1518,7 +1518,7 @@
    "name": "Varese",
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 6,
    "record": "4-2",
    "last5": [
@@ -1875,7 +1875,7 @@
    "name": "Juventus",
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "league_logo": "logos/c5eddc9adb50.png",
    "rank": 8,
    "record": "3-5",
    "last5": [
@@ -2009,7 +2009,7 @@
    "name": "Reggiana",
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 13,
    "record": "2-4",
    "last5": [
@@ -2528,9 +2528,18 @@
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 13,
-   "record": "1-3",
+   "rank": 14,
+   "record": "1-4",
    "last5": [
+    {
+     "wl": "L",
+     "score": "101:110",
+     "opponent": "Galil Elyon",
+     "venue": "H",
+     "date": "06.11. 11:00",
+     "pf": 101,
+     "pa": 110
+    },
     {
      "wl": "L",
      "score": "70:78",
@@ -2571,6 +2580,15 @@
    "games": [
     {
      "wl": "L",
+     "score": "101:110",
+     "opponent": "Galil Elyon",
+     "venue": "H",
+     "date": "06.11. 11:00",
+     "pf": 101,
+     "pa": 110
+    },
+    {
+     "wl": "L",
      "score": "70:78",
      "opponent": "Maccabi Rishon",
      "venue": "H",
@@ -2607,8 +2625,8 @@
     }
    ],
    "next": {
-    "date": "06.11. 11:00",
-    "opponent": "Galil Elyon"
+    "date": "16.11. 18:05",
+    "opponent": "Hapoel HaEmek"
    },
    "note": ""
   },
@@ -3599,7 +3617,7 @@
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 7,
+   "rank": 8,
    "record": "2-2",
    "last5": [
     {
