@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-06 19:12",
+ "updated": "2026-11-06 22:56",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -132,7 +132,7 @@
    "name": "Trabzonspor",
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 5,
    "record": "4-2",
    "last5": [
@@ -502,7 +502,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 8,
+   "rank": 9,
    "record": "3-2",
    "last5": [
     {
@@ -715,7 +715,7 @@
    "name": "Galatasaray",
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 9,
    "record": "3-3",
    "last5": [
@@ -1634,7 +1634,7 @@
    "name": "Bamberg",
    "logo": "logos/75017b7879a2.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 8,
    "record": "4-3",
    "last5": [
@@ -2287,7 +2287,7 @@
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
-   "rank": 9,
+   "rank": 10,
    "record": "3-4",
    "last5": [
     {
@@ -2634,8 +2634,8 @@
    "name": "Vechta",
    "logo": "logos/fc078fb0f685.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
-   "rank": 15,
+   "league_logo": "logos/5408e2e1f9f8.png",
+   "rank": 16,
    "record": "2-5",
    "last5": [
     {
@@ -2759,10 +2759,19 @@
    "name": "Alba Berlin",
    "logo": "logos/6a6627a79bbc.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 10,
-   "record": "3-4",
+   "record": "4-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "102:72",
+     "opponent": "Phoenix Hagen",
+     "venue": "H",
+     "date": "06.11. 19:00",
+     "pf": 102,
+     "pa": 72
+    },
     {
      "wl": "L",
      "score": "95:88",
@@ -2798,18 +2807,18 @@
      "date": "03.10. 16:30",
      "pf": 83,
      "pa": 98
-    },
-    {
-     "wl": "L",
-     "score": "95:61",
-     "opponent": "Bayern",
-     "venue": "A",
-     "date": "26.09. 13:40",
-     "pf": 61,
-     "pa": 95
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "102:72",
+     "opponent": "Phoenix Hagen",
+     "venue": "H",
+     "date": "06.11. 19:00",
+     "pf": 102,
+     "pa": 72
+    },
     {
      "wl": "L",
      "score": "95:88",
@@ -3393,7 +3402,7 @@
    "name": "Bonn",
    "logo": "logos/53eba8f126e3.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 9,
    "record": "4-3",
    "last5": [
