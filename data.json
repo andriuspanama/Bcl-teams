@@ -1,13 +1,13 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-06 22:56",
+ "updated": "2026-11-07 00:41",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Rytas",
    "logo": "logos/da8b9d9ee9c8.png",
    "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 2,
    "record": "5-2",
    "last5": [
@@ -1518,7 +1518,7 @@
    "name": "Varese",
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
+   "league_logo": "logos/a535f34abeaf.png",
    "rank": 6,
    "record": "4-2",
    "last5": [
@@ -1875,7 +1875,7 @@
    "name": "Juventus",
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 8,
    "record": "3-5",
    "last5": [
@@ -2009,7 +2009,7 @@
    "name": "Reggiana",
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
+   "league_logo": "logos/a535f34abeaf.png",
    "rank": 13,
    "record": "2-4",
    "last5": [
