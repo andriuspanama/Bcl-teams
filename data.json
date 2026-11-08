@@ -1,13 +1,13 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-08 10:04",
+ "updated": "2026-11-08 12:56",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Rytas",
    "logo": "logos/da8b9d9ee9c8.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "league_logo": "logos/c5eddc9adb50.png",
    "rank": 3,
    "record": "5-3",
    "last5": [
@@ -142,7 +142,7 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 5,
+   "rank": 6,
    "record": "4-3",
    "last5": [
     {
@@ -278,7 +278,7 @@
    "name": "Nanterre",
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 5,
    "record": "5-2",
    "last5": [
@@ -403,7 +403,7 @@
    "name": "Strasbourg",
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 8,
    "record": "4-3",
    "last5": [
@@ -626,8 +626,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 11:30",
-    "opponent": "Gdynia"
+    "date": "14.11. 16:30",
+    "opponent": "Szczecin"
    },
    "note": ""
   },
@@ -1063,8 +1063,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 11:00",
-    "opponent": "Panathinaikos"
+    "date": "14.11. 15:00",
+    "opponent": "Lefkadas"
    },
    "note": ""
   },
@@ -1688,7 +1688,7 @@
    "name": "Bamberg",
    "logo": "logos/75017b7879a2.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 9,
    "record": "4-4",
    "last5": [
@@ -1938,7 +1938,7 @@
    "name": "Juventus",
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "league_logo": "logos/c5eddc9adb50.png",
    "rank": 8,
    "record": "3-5",
    "last5": [
@@ -2367,7 +2367,7 @@
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 10,
    "record": "3-5",
    "last5": [
@@ -2617,7 +2617,7 @@
    "name": "Hapoel Holon",
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
+   "league_logo": "logos/7af634241793.png",
    "rank": 14,
    "record": "1-4",
    "last5": [
@@ -2724,7 +2724,7 @@
    "name": "Vechta",
    "logo": "logos/fc078fb0f685.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 13,
    "record": "3-5",
    "last5": [
@@ -2858,7 +2858,7 @@
    "name": "Alba Berlin",
    "logo": "logos/6a6627a79bbc.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 10,
    "record": "4-4",
    "last5": [
@@ -3510,8 +3510,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 12:00",
-    "opponent": "Tenerife"
+    "date": "14.11. 20:00",
+    "opponent": "Basket Zaragoza"
    },
    "note": ""
   },
@@ -3519,7 +3519,7 @@
    "name": "Bonn",
    "logo": "logos/53eba8f126e3.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 5,
    "record": "5-3",
    "last5": [
@@ -3653,7 +3653,7 @@
    "name": "FC Porto",
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 6,
    "record": "4-1",
    "last5": [
@@ -3760,7 +3760,7 @@
    "name": "Bnei Herzliya",
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
+   "league_logo": "logos/7af634241793.png",
    "rank": 9,
    "record": "2-2",
    "last5": [
