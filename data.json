@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-08 19:24",
+ "updated": "2026-11-08 21:54",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -405,8 +405,17 @@
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
    "rank": 8,
-   "record": "4-3",
+   "record": "4-4",
    "last5": [
+    {
+     "wl": "L",
+     "score": "69:94",
+     "opponent": "Le Mans",
+     "venue": "H",
+     "date": "08.11. 18:00",
+     "pf": 69,
+     "pa": 94
+    },
     {
      "wl": "W",
      "score": "88:82",
@@ -442,18 +451,18 @@
      "date": "16.10. 18:00",
      "pf": 72,
      "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "98:84",
-     "opponent": "Paris",
-     "venue": "A",
-     "date": "11.10. 14:30",
-     "pf": 84,
-     "pa": 98
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "69:94",
+     "opponent": "Le Mans",
+     "venue": "H",
+     "date": "08.11. 18:00",
+     "pf": 69,
+     "pa": 94
+    },
     {
      "wl": "W",
      "score": "88:82",
@@ -644,7 +653,7 @@
    "name": "Cibona",
    "logo": "logos/e29523e50e3b.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 10,
    "record": "1-4",
    "last5": [
@@ -1494,8 +1503,17 @@
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
    "rank": 11,
-   "record": "3-3",
+   "record": "3-4",
    "last5": [
+    {
+     "wl": "L",
+     "score": "90:71",
+     "opponent": "Real Madrid",
+     "venue": "A",
+     "date": "08.11. 18:00",
+     "pf": 71,
+     "pa": 90
+    },
     {
      "wl": "W",
      "score": "125:98",
@@ -1531,18 +1549,18 @@
      "date": "11.10. 10:30",
      "pf": 77,
      "pa": 90
-    },
-    {
-     "wl": "W",
-     "score": "100:94",
-     "opponent": "Barcelona",
-     "venue": "H",
-     "date": "04.10. 17:00",
-     "pf": 100,
-     "pa": 94
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "90:71",
+     "opponent": "Real Madrid",
+     "venue": "A",
+     "date": "08.11. 18:00",
+     "pf": 71,
+     "pa": 90
+    },
     {
      "wl": "W",
      "score": "125:98",
@@ -1609,9 +1627,18 @@
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
    "league_logo": "logos/a535f34abeaf.png",
-   "rank": 6,
-   "record": "4-2",
+   "rank": 8,
+   "record": "4-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "81:84",
+     "opponent": "Udine",
+     "venue": "H",
+     "date": "08.11. 18:00",
+     "pf": 81,
+     "pa": 84
+    },
     {
      "wl": "W",
      "score": "88:99",
@@ -1647,18 +1674,18 @@
      "date": "10.10. 18:30",
      "pf": 85,
      "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "77:85",
-     "opponent": "Scafati",
-     "venue": "A",
-     "date": "04.10. 15:00",
-     "pf": 85,
-     "pa": 77
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "81:84",
+     "opponent": "Udine",
+     "venue": "H",
+     "date": "08.11. 18:00",
+     "pf": 81,
+     "pa": 84
+    },
     {
      "wl": "W",
      "score": "88:99",
@@ -2555,7 +2582,7 @@
    "name": "Spartak Subotica",
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 3,
    "record": "4-2",
    "last5": [
@@ -3171,7 +3198,7 @@
    "name": "Igokea",
    "logo": "logos/0abf3f361f89.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 5,
    "record": "2-4",
    "last5": [
