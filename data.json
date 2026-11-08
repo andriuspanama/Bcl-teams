@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-08 17:50",
+ "updated": "2026-11-08 19:24",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -519,8 +519,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 18:00",
-    "opponent": "Le Mans"
+    "date": "13.11. 19:00",
+    "opponent": "Pau-Orthez"
    },
    "note": ""
   },
@@ -529,7 +529,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 8,
+   "rank": 9,
    "record": "3-3",
    "last5": [
     {
@@ -1599,8 +1599,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 18:00",
-    "opponent": "Real Madrid"
+    "date": "15.11. 17:00",
+    "opponent": "Bilbao"
    },
    "note": ""
   },
@@ -1715,8 +1715,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 18:00",
-    "opponent": "Udine"
+    "date": "14.11. 19:00",
+    "opponent": "Reggiana"
    },
    "note": ""
   },
@@ -1725,7 +1725,7 @@
    "logo": "logos/75017b7879a2.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 11,
+   "rank": 8,
    "record": "4-4",
    "last5": [
     {
@@ -1860,8 +1860,17 @@
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
    "rank": 10,
-   "record": "3-3",
+   "record": "3-4",
    "last5": [
+    {
+     "wl": "L",
+     "score": "96:91",
+     "opponent": "Basket Zaragoza",
+     "venue": "A",
+     "date": "08.11. 16:00",
+     "pf": 91,
+     "pa": 96
+    },
     {
      "wl": "L",
      "score": "89:92",
@@ -1897,18 +1906,18 @@
      "date": "10.10. 17:30",
      "pf": 92,
      "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "75:80",
-     "opponent": "Tenerife",
-     "venue": "H",
-     "date": "03.10. 17:30",
-     "pf": 75,
-     "pa": 80
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "96:91",
+     "opponent": "Basket Zaragoza",
+     "venue": "A",
+     "date": "08.11. 16:00",
+     "pf": 91,
+     "pa": 96
+    },
     {
      "wl": "L",
      "score": "89:92",
@@ -2904,7 +2913,7 @@
    "logo": "logos/6a6627a79bbc.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 7,
+   "rank": 11,
    "record": "4-4",
    "last5": [
     {
@@ -3449,7 +3458,7 @@
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 13,
+   "rank": 14,
    "record": "2-5",
    "last5": [
     {
