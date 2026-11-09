@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-09 11:03",
+ "updated": "2026-11-09 15:52",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -141,7 +141,7 @@
    "name": "Trabzonspor",
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 8,
    "record": "4-3",
    "last5": [
@@ -278,7 +278,7 @@
    "name": "Nanterre",
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 5,
    "record": "5-2",
    "last5": [
@@ -403,7 +403,7 @@
    "name": "Strasbourg",
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 8,
    "record": "4-4",
    "last5": [
@@ -537,7 +537,7 @@
    "name": "Legia",
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
+   "league_logo": "logos/e38c6600f3ac.png",
    "rank": 9,
    "record": "3-3",
    "last5": [
@@ -760,7 +760,7 @@
    "name": "Galatasaray",
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 7,
    "record": "4-3",
    "last5": [
@@ -1117,7 +1117,7 @@
    "name": "Szombathely",
    "logo": "logos/9fb8bfa07c32.png",
    "league": "NB I. A",
-   "league_logo": "logos/61a093b35850.png",
+   "league_logo": "logos/e25024497cfd.png",
    "rank": 2,
    "record": "7-0",
    "last5": [
@@ -1751,7 +1751,7 @@
    "name": "Bamberg",
    "logo": "logos/75017b7879a2.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 8,
    "record": "4-4",
    "last5": [
@@ -2278,7 +2278,7 @@
    "name": "Pardubice",
    "logo": "logos/1f2fb3cc995c.png",
    "league": "NBL",
-   "league_logo": "logos/50067aa1be3f.png",
+   "league_logo": "logos/d187bee6c341.png",
    "rank": 2,
    "record": "10-2",
    "last5": [
@@ -2448,7 +2448,7 @@
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 10,
    "record": "3-5",
    "last5": [
@@ -2698,7 +2698,7 @@
    "name": "Hapoel Holon",
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
+   "league_logo": "logos/7af634241793.png",
    "rank": 14,
    "record": "1-4",
    "last5": [
@@ -2805,7 +2805,7 @@
    "name": "Vechta",
    "logo": "logos/fc078fb0f685.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 13,
    "record": "3-5",
    "last5": [
@@ -2939,7 +2939,7 @@
    "name": "Alba Berlin",
    "logo": "logos/6a6627a79bbc.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 11,
    "record": "4-4",
    "last5": [
@@ -3314,7 +3314,7 @@
    "name": "Slavia Prague ERA NBK",
    "logo": "logos/dd8dec9dd0ca.png",
    "league": "NBL",
-   "league_logo": "logos/50067aa1be3f.png",
+   "league_logo": "logos/d187bee6c341.png",
    "rank": 1,
    "record": "11-1",
    "last5": [
@@ -3609,7 +3609,7 @@
    "name": "Bonn",
    "logo": "logos/53eba8f126e3.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 5,
    "record": "5-3",
    "last5": [
@@ -3859,7 +3859,7 @@
    "name": "Bnei Herzliya",
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
+   "league_logo": "logos/7af634241793.png",
    "rank": 9,
    "record": "2-2",
    "last5": [
