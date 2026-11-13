@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-13 19:29",
+ "updated": "2026-11-13 21:15",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -153,7 +153,7 @@
    "name": "Trabzonspor",
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 9,
    "record": "4-3",
    "last5": [
@@ -405,8 +405,17 @@
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
    "rank": 8,
-   "record": "4-4",
+   "record": "5-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "84:89",
+     "opponent": "Pau-Orthez",
+     "venue": "A",
+     "date": "13.11. 19:00",
+     "pf": 89,
+     "pa": 84
+    },
     {
      "wl": "L",
      "score": "69:94",
@@ -442,18 +451,18 @@
      "date": "24.10. 16:30",
      "pf": 79,
      "pa": 106
-    },
-    {
-     "wl": "W",
-     "score": "72:70",
-     "opponent": "Roanne",
-     "venue": "H",
-     "date": "16.10. 18:00",
-     "pf": 72,
-     "pa": 70
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "84:89",
+     "opponent": "Pau-Orthez",
+     "venue": "A",
+     "date": "13.11. 19:00",
+     "pf": 89,
+     "pa": 84
+    },
     {
      "wl": "L",
      "score": "69:94",
@@ -538,7 +547,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 10,
+   "rank": 11,
    "record": "3-3",
    "last5": [
     {
@@ -659,6 +668,15 @@
    "last5": [
     {
      "wl": "W",
+     "score": "80:77",
+     "opponent": "FMP Beograd",
+     "venue": "H",
+     "date": "13.11. 17:30",
+     "pf": 80,
+     "pa": 77
+    },
+    {
+     "wl": "W",
      "score": "93:102",
      "opponent": "Siroki Brijeg",
      "venue": "A",
@@ -692,18 +710,18 @@
      "date": "16.10. 16:30",
      "pf": 94,
      "pa": 95
-    },
-    {
-     "wl": "L",
-     "score": "82:90",
-     "opponent": "Slovan Bratislava",
-     "venue": "H",
-     "date": "12.10. 17:00",
-     "pf": 82,
-     "pa": 90
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "80:77",
+     "opponent": "FMP Beograd",
+     "venue": "H",
+     "date": "13.11. 17:30",
+     "pf": 80,
+     "pa": 77
+    },
     {
      "wl": "W",
      "score": "93:102",
@@ -769,7 +787,7 @@
    "name": "Galatasaray",
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 6,
    "record": "4-3",
    "last5": [
@@ -1644,7 +1662,7 @@
    "name": "Varese",
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 8,
    "record": "4-3",
    "last5": [
@@ -1770,7 +1788,7 @@
    "logo": "logos/75017b7879a2.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 8,
+   "rank": 9,
    "record": "4-4",
    "last5": [
     {
@@ -2171,7 +2189,7 @@
    "name": "Reggiana",
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 13,
    "record": "2-5",
    "last5": [
@@ -3877,8 +3895,8 @@
     }
    ],
    "next": {
-    "date": "13.11. 20:30",
-    "opponent": "Vitoria"
+    "date": "22.11. 18:30",
+    "opponent": "CD Povoa"
    },
    "note": ""
   },
