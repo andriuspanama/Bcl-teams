@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-14 19:47",
+ "updated": "2026-11-14 22:13",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -556,7 +556,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 9,
+   "rank": 8,
    "record": "3-4",
    "last5": [
     {
@@ -941,8 +941,17 @@
    "league": "BNXT lyga",
    "league_logo": "logos/f0a5f6fa9273.png",
    "rank": 1,
-   "record": "6-0",
+   "record": "7-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "78:65",
+     "opponent": "Brussels Basketball",
+     "venue": "H",
+     "date": "14.11. 19:30",
+     "pf": 78,
+     "pa": 65
+    },
     {
      "wl": "W",
      "score": "71:82",
@@ -978,18 +987,18 @@
      "date": "17.10. 18:00",
      "pf": 125,
      "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "113:106",
-     "opponent": "Kortrijk",
-     "venue": "H",
-     "date": "10.10. 18:30",
-     "pf": 113,
-     "pa": 106
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "78:65",
+     "opponent": "Brussels Basketball",
+     "venue": "H",
+     "date": "14.11. 19:30",
+     "pf": 78,
+     "pa": 65
+    },
     {
      "wl": "W",
      "score": "71:82",
@@ -1323,7 +1332,7 @@
    "name": "Salon Vilpas",
    "logo": "logos/047cf29bd231.png",
    "league": "Korisliiga",
-   "league_logo": "logos/b10f1d73b114.png",
+   "league_logo": "logos/2a39fb1c52b4.png",
    "rank": 6,
    "record": "5-5",
    "last5": [
@@ -1592,7 +1601,7 @@
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 11,
+   "rank": 12,
    "record": "3-4",
    "last5": [
     {
@@ -1716,10 +1725,19 @@
    "name": "Varese",
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
-   "rank": 8,
-   "record": "4-3",
+   "league_logo": "logos/b55c66fda764.png",
+   "rank": 6,
+   "record": "5-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "84:99",
+     "opponent": "Reggiana",
+     "venue": "A",
+     "date": "14.11. 19:00",
+     "pf": 99,
+     "pa": 84
+    },
     {
      "wl": "L",
      "score": "81:84",
@@ -1755,18 +1773,18 @@
      "date": "18.10. 14:00",
      "pf": 85,
      "pa": 87
-    },
-    {
-     "wl": "W",
-     "score": "85:84",
-     "opponent": "Trieste",
-     "venue": "H",
-     "date": "10.10. 18:30",
-     "pf": 85,
-     "pa": 84
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "84:99",
+     "opponent": "Reggiana",
+     "venue": "A",
+     "date": "14.11. 19:00",
+     "pf": 99,
+     "pa": 84
+    },
     {
      "wl": "L",
      "score": "81:84",
@@ -1842,7 +1860,7 @@
    "logo": "logos/75017b7879a2.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 12,
+   "rank": 11,
    "record": "4-5",
    "last5": [
     {
@@ -2261,10 +2279,19 @@
    "name": "Reggiana",
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
-   "rank": 13,
-   "record": "2-5",
+   "league_logo": "logos/b55c66fda764.png",
+   "rank": 14,
+   "record": "2-6",
    "last5": [
+    {
+     "wl": "L",
+     "score": "84:99",
+     "opponent": "Varese",
+     "venue": "H",
+     "date": "14.11. 19:00",
+     "pf": 84,
+     "pa": 99
+    },
     {
      "wl": "L",
      "score": "78:83",
@@ -2300,18 +2327,18 @@
      "date": "18.10. 16:00",
      "pf": 81,
      "pa": 94
-    },
-    {
-     "wl": "W",
-     "score": "93:86",
-     "opponent": "Tortona",
-     "venue": "H",
-     "date": "11.10. 15:00",
-     "pf": 93,
-     "pa": 86
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "84:99",
+     "opponent": "Varese",
+     "venue": "H",
+     "date": "14.11. 19:00",
+     "pf": 84,
+     "pa": 99
+    },
     {
      "wl": "L",
      "score": "78:83",
@@ -2388,8 +2415,17 @@
    "league": "NBL",
    "league_logo": "logos/d187bee6c341.png",
    "rank": 2,
-   "record": "11-2",
+   "record": "12-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "108:109",
+     "opponent": "Brno",
+     "venue": "A",
+     "date": "14.11. 17:30",
+     "pf": 109,
+     "pa": 108
+    },
     {
      "wl": "W",
      "score": "75:81",
@@ -2425,18 +2461,18 @@
      "date": "28.10. 16:30",
      "pf": 98,
      "pa": 74
-    },
-    {
-     "wl": "W",
-     "score": "64:83",
-     "opponent": "Usti n. Labem",
-     "venue": "A",
-     "date": "25.10. 17:00",
-     "pf": 83,
-     "pa": 64
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "108:109",
+     "opponent": "Brno",
+     "venue": "A",
+     "date": "14.11. 17:30",
+     "pf": 109,
+     "pa": 108
+    },
     {
      "wl": "W",
      "score": "75:81",
@@ -2824,7 +2860,7 @@
    "name": "Hapoel Holon",
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
+   "league_logo": "logos/07d3791c1460.png",
    "rank": 13,
    "record": "1-4",
    "last5": [
@@ -3191,9 +3227,18 @@
    "logo": "logos/6a6627a79bbc.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 9,
-   "record": "4-4",
+   "rank": 7,
+   "record": "5-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "77:95",
+     "opponent": "Oldenburg",
+     "venue": "A",
+     "date": "14.11. 19:00",
+     "pf": 95,
+     "pa": 77
+    },
     {
      "wl": "W",
      "score": "102:72",
@@ -3229,18 +3274,18 @@
      "date": "10.10. 18:00",
      "pf": 75,
      "pa": 95
-    },
-    {
-     "wl": "L",
-     "score": "83:98",
-     "opponent": "Bamberg",
-     "venue": "H",
-     "date": "03.10. 16:30",
-     "pf": 83,
-     "pa": 98
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "77:95",
+     "opponent": "Oldenburg",
+     "venue": "A",
+     "date": "14.11. 19:00",
+     "pf": 95,
+     "pa": 77
+    },
     {
      "wl": "W",
      "score": "102:72",
@@ -3620,9 +3665,18 @@
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 14,
-   "record": "2-5",
+   "rank": 11,
+   "record": "3-5",
    "last5": [
+    {
+     "wl": "W",
+     "score": "99:94",
+     "opponent": "Basket Zaragoza",
+     "venue": "H",
+     "date": "14.11. 20:00",
+     "pf": 99,
+     "pa": 94
+    },
     {
      "wl": "L",
      "score": "80:74",
@@ -3658,18 +3712,18 @@
      "date": "18.10. 17:00",
      "pf": 113,
      "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "96:75",
-     "opponent": "MoraBanc Andorra",
-     "venue": "H",
-     "date": "14.10. 18:00",
-     "pf": 96,
-     "pa": 75
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "99:94",
+     "opponent": "Basket Zaragoza",
+     "venue": "H",
+     "date": "14.11. 20:00",
+     "pf": 99,
+     "pa": 94
+    },
     {
      "wl": "L",
      "score": "80:74",
@@ -3735,8 +3789,8 @@
     }
    ],
    "next": {
-    "date": "14.11. 20:00",
-    "opponent": "Basket Zaragoza"
+    "date": "22.11. 18:00",
+    "opponent": "Real Madrid"
    },
    "note": ""
   },
@@ -4012,7 +4066,7 @@
    "name": "Bnei Herzliya",
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
+   "league_logo": "logos/07d3791c1460.png",
    "rank": 11,
    "record": "2-4",
    "last5": [
