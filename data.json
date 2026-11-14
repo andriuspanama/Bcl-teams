@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-13 21:15",
+ "updated": "2026-11-14 01:23",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -278,7 +278,7 @@
    "name": "Nanterre",
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 5,
    "record": "5-2",
    "last5": [
@@ -403,7 +403,7 @@
    "name": "Strasbourg",
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 8,
    "record": "5-4",
    "last5": [
@@ -663,7 +663,7 @@
    "logo": "logos/e29523e50e3b.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 4,
+   "rank": 5,
    "record": "3-4",
    "last5": [
     {
@@ -1662,7 +1662,7 @@
    "name": "Varese",
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
+   "league_logo": "logos/a535f34abeaf.png",
    "rank": 8,
    "record": "4-3",
    "last5": [
@@ -2189,7 +2189,7 @@
    "name": "Reggiana",
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
+   "league_logo": "logos/a535f34abeaf.png",
    "rank": 13,
    "record": "2-5",
    "last5": [
@@ -2609,7 +2609,7 @@
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 10,
    "record": "3-5",
    "last5": [
@@ -3790,8 +3790,17 @@
    "league": "LPB",
    "league_logo": "logos/b924ca13583e.png",
    "rank": 1,
-   "record": "5-1",
+   "record": "6-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "65:93",
+     "opponent": "Vitoria",
+     "venue": "A",
+     "date": "13.11. 20:30",
+     "pf": 93,
+     "pa": 65
+    },
     {
      "wl": "W",
      "score": "81:76",
@@ -3827,18 +3836,18 @@
      "date": "16.10. 20:00",
      "pf": 95,
      "pa": 91
-    },
-    {
-     "wl": "W",
-     "score": "93:86",
-     "opponent": "Benfica",
-     "venue": "H",
-     "date": "11.10. 14:00",
-     "pf": 93,
-     "pa": 86
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "65:93",
+     "opponent": "Vitoria",
+     "venue": "A",
+     "date": "13.11. 20:30",
+     "pf": 93,
+     "pa": 65
+    },
     {
      "wl": "W",
      "score": "81:76",
