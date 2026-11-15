@@ -1,13 +1,13 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-15 13:49",
- "comp_logo": "logos/736a7e173080.png",
+ "updated": "2026-11-15 18:37",
+ "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Rytas",
    "logo": "logos/da8b9d9ee9c8.png",
    "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 2,
    "record": "5-3",
    "last5": [
@@ -132,8 +132,8 @@
     }
    ],
    "next": {
-    "date": "15.11. 17:10",
-    "opponent": "Jonava"
+    "date": "18.11. 16:50",
+    "opponent": "Nevezis"
    },
    "note": ""
   },
@@ -154,7 +154,7 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 10,
+   "rank": 11,
    "record": "4-4",
    "last5": [
     {
@@ -287,10 +287,19 @@
    "name": "Nanterre",
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
-   "rank": 5,
-   "record": "5-2",
+   "league_logo": "logos/c611aab280e5.png",
+   "rank": 4,
+   "record": "6-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "91:101",
+     "opponent": "Dijon",
+     "venue": "A",
+     "date": "15.11. 15:30",
+     "pf": 101,
+     "pa": 91
+    },
     {
      "wl": "W",
      "score": "93:81",
@@ -326,18 +335,18 @@
      "date": "17.10. 16:00",
      "pf": 65,
      "pa": 80
-    },
-    {
-     "wl": "W",
-     "score": "101:73",
-     "opponent": "Gravelines-Dunkerque",
-     "venue": "H",
-     "date": "10.10. 16:00",
-     "pf": 101,
-     "pa": 73
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "91:101",
+     "opponent": "Dijon",
+     "venue": "A",
+     "date": "15.11. 15:30",
+     "pf": 101,
+     "pa": 91
+    },
     {
      "wl": "W",
      "score": "93:81",
@@ -403,8 +412,8 @@
     }
    ],
    "next": {
-    "date": "15.11. 15:30",
-    "opponent": "Dijon"
+    "date": "21.11. 19:30",
+    "opponent": "Strasbourg"
    },
    "note": ""
   },
@@ -412,7 +421,7 @@
    "name": "Strasbourg",
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 8,
    "record": "5-4",
    "last5": [
@@ -806,7 +815,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 7,
+   "rank": 10,
    "record": "4-4",
    "last5": [
     {
@@ -1725,8 +1734,8 @@
     }
    ],
    "next": {
-    "date": "15.11. 17:00",
-    "opponent": "Bilbao"
+    "date": "21.11. 20:00",
+    "opponent": "Basket Zaragoza"
    },
    "note": ""
   },
@@ -2145,7 +2154,7 @@
    "name": "Juventus",
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 8,
    "record": "3-7",
    "last5": [
@@ -2620,7 +2629,7 @@
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 3,
+   "rank": 4,
    "record": "4-3",
    "last5": [
     {
@@ -2744,7 +2753,7 @@
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 9,
    "record": "4-5",
    "last5": [
@@ -2996,8 +3005,17 @@
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
    "rank": 14,
-   "record": "3-5",
+   "record": "3-6",
    "last5": [
+    {
+     "wl": "L",
+     "score": "86:75",
+     "opponent": "Rostock",
+     "venue": "A",
+     "date": "15.11. 14:00",
+     "pf": 75,
+     "pa": 86
+    },
     {
      "wl": "W",
      "score": "99:90",
@@ -3033,18 +3051,18 @@
      "date": "10.10. 18:00",
      "pf": 97,
      "pa": 92
-    },
-    {
-     "wl": "L",
-     "score": "87:93",
-     "opponent": "Basketball Braunschweig",
-     "venue": "H",
-     "date": "05.10. 18:00",
-     "pf": 87,
-     "pa": 93
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "86:75",
+     "opponent": "Rostock",
+     "venue": "A",
+     "date": "15.11. 14:00",
+     "pf": 75,
+     "pa": 86
+    },
     {
      "wl": "W",
      "score": "99:90",
@@ -3119,8 +3137,8 @@
     }
    ],
    "next": {
-    "date": "15.11. 14:00",
-    "opponent": "Rostock"
+    "date": "20.11. 19:00",
+    "opponent": "Wurzburg"
    },
    "note": ""
   },
@@ -3244,8 +3262,8 @@
     }
    ],
    "next": {
-    "date": "15.11. 17:00",
-    "opponent": "Murcia"
+    "date": "22.11. 11:00",
+    "opponent": "Baskonia"
    },
    "note": ""
   },
@@ -3835,7 +3853,7 @@
    "logo": "logos/53eba8f126e3.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 4,
+   "rank": 3,
    "record": "6-3",
    "last5": [
     {
