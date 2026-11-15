@@ -1,7 +1,7 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-15 10:30",
- "comp_logo": "logos/a6f9e1a9f508.png",
+ "updated": "2026-11-15 13:49",
+ "comp_logo": "logos/736a7e173080.png",
  "teams": [
   {
    "name": "Rytas",
@@ -154,7 +154,7 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 9,
+   "rank": 10,
    "record": "4-4",
    "last5": [
     {
@@ -287,7 +287,7 @@
    "name": "Nanterre",
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 5,
    "record": "5-2",
    "last5": [
@@ -412,7 +412,7 @@
    "name": "Strasbourg",
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 8,
    "record": "5-4",
    "last5": [
@@ -556,7 +556,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 8,
+   "rank": 10,
    "record": "3-4",
    "last5": [
     {
@@ -680,7 +680,7 @@
    "name": "Cibona",
    "logo": "logos/e29523e50e3b.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 6,
    "record": "3-4",
    "last5": [
@@ -806,7 +806,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 8,
+   "rank": 7,
    "record": "4-4",
    "last5": [
     {
@@ -1485,9 +1485,18 @@
    "logo": "logos/bc3941e9ed93.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 9,
-   "record": "3-3",
+   "rank": 5,
+   "record": "4-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "84:67",
+     "opponent": "Mykonos",
+     "venue": "H",
+     "date": "15.11. 11:00",
+     "pf": 84,
+     "pa": 67
+    },
     {
      "wl": "L",
      "score": "81:78",
@@ -1523,18 +1532,18 @@
      "date": "18.10. 10:00",
      "pf": 75,
      "pa": 95
-    },
-    {
-     "wl": "W",
-     "score": "91:89",
-     "opponent": "Iraklis",
-     "venue": "H",
-     "date": "10.10. 12:00",
-     "pf": 91,
-     "pa": 89
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "84:67",
+     "opponent": "Mykonos",
+     "venue": "H",
+     "date": "15.11. 11:00",
+     "pf": 84,
+     "pa": 67
+    },
     {
      "wl": "L",
      "score": "81:78",
@@ -1591,8 +1600,8 @@
     }
    ],
    "next": {
-    "date": "15.11. 11:00",
-    "opponent": "Mykonos"
+    "date": "21.11. 15:00",
+    "opponent": "Lefkadas"
    },
    "note": ""
   },
@@ -2003,9 +2012,18 @@
    "logo": "logos/13f74fd364a6.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 10,
-   "record": "3-4",
+   "rank": 8,
+   "record": "4-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "82:70",
+     "opponent": "Basquet Girona",
+     "venue": "H",
+     "date": "15.11. 11:30",
+     "pf": 82,
+     "pa": 70
+    },
     {
      "wl": "L",
      "score": "96:91",
@@ -2041,18 +2059,18 @@
      "date": "17.10. 16:00",
      "pf": 84,
      "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "92:84",
-     "opponent": "MoraBanc Andorra",
-     "venue": "H",
-     "date": "10.10. 17:30",
-     "pf": 92,
-     "pa": 84
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "82:70",
+     "opponent": "Basquet Girona",
+     "venue": "H",
+     "date": "15.11. 11:30",
+     "pf": 82,
+     "pa": 70
+    },
     {
      "wl": "L",
      "score": "96:91",
@@ -2118,8 +2136,8 @@
     }
    ],
    "next": {
-    "date": "15.11. 11:30",
-    "opponent": "Basquet Girona"
+    "date": "21.11. 17:00",
+    "opponent": "San Pablo Burgos"
    },
    "note": ""
   },
@@ -2601,10 +2619,19 @@
    "name": "Spartak Subotica",
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 3,
-   "record": "4-2",
+   "record": "4-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "93:75",
+     "opponent": "Dubai",
+     "venue": "A",
+     "date": "15.11. 09:00",
+     "pf": 75,
+     "pa": 93
+    },
     {
      "wl": "W",
      "score": "67:51",
@@ -2640,18 +2667,18 @@
      "date": "18.10. 17:30",
      "pf": 89,
      "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "76:82",
-     "opponent": "Perspektiva Ilirija",
-     "venue": "A",
-     "date": "10.10. 15:30",
-     "pf": 82,
-     "pa": 76
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "93:75",
+     "opponent": "Dubai",
+     "venue": "A",
+     "date": "15.11. 09:00",
+     "pf": 75,
+     "pa": 93
+    },
     {
      "wl": "W",
      "score": "67:51",
@@ -2717,7 +2744,7 @@
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 9,
    "record": "4-5",
    "last5": [
@@ -3102,7 +3129,7 @@
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 8,
+   "rank": 9,
    "record": "4-3",
    "last5": [
     {
@@ -3369,7 +3396,7 @@
    "name": "Igokea",
    "logo": "logos/0abf3f361f89.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 5,
    "record": "3-4",
    "last5": [
@@ -3496,8 +3523,17 @@
    "league": "NBL",
    "league_logo": "logos/d187bee6c341.png",
    "rank": 1,
-   "record": "11-1",
+   "record": "12-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "97:71",
+     "opponent": "USK Prague",
+     "venue": "H",
+     "date": "15.11. 11:00",
+     "pf": 97,
+     "pa": 71
+    },
     {
      "wl": "W",
      "score": "114:82",
@@ -3533,18 +3569,18 @@
      "date": "30.10. 17:00",
      "pf": 121,
      "pa": 96
-    },
-    {
-     "wl": "W",
-     "score": "81:89",
-     "opponent": "Srsni Pisek",
-     "venue": "A",
-     "date": "23.10. 16:00",
-     "pf": 89,
-     "pa": 81
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "97:71",
+     "opponent": "USK Prague",
+     "venue": "H",
+     "date": "15.11. 11:00",
+     "pf": 97,
+     "pa": 71
+    },
     {
      "wl": "W",
      "score": "114:82",
@@ -3655,8 +3691,8 @@
     }
    ],
    "next": {
-    "date": "15.11. 11:00",
-    "opponent": "USK Prague"
+    "date": "21.11. 14:00",
+    "opponent": "Brno"
    },
    "note": ""
   },
