@@ -1,16 +1,25 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-15 18:37",
+ "updated": "2026-11-15 20:16",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Rytas",
    "logo": "logos/da8b9d9ee9c8.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "league_logo": "logos/c5eddc9adb50.png",
    "rank": 2,
-   "record": "5-3",
+   "record": "6-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "96:79",
+     "opponent": "Jonava",
+     "venue": "H",
+     "date": "15.11. 17:10",
+     "pf": 96,
+     "pa": 79
+    },
     {
      "wl": "L",
      "score": "85:81",
@@ -46,18 +55,18 @@
      "date": "25.10. 14:50",
      "pf": 94,
      "pa": 76
-    },
-    {
-     "wl": "W",
-     "score": "71:79",
-     "opponent": "Taurage",
-     "venue": "A",
-     "date": "21.10. 15:00",
-     "pf": 79,
-     "pa": 71
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "96:79",
+     "opponent": "Jonava",
+     "venue": "H",
+     "date": "15.11. 17:10",
+     "pf": 96,
+     "pa": 79
+    },
     {
      "wl": "L",
      "score": "85:81",
@@ -153,7 +162,7 @@
    "name": "Trabzonspor",
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 11,
    "record": "4-4",
    "last5": [
@@ -288,7 +297,7 @@
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
-   "rank": 4,
+   "rank": 3,
    "record": "6-2",
    "last5": [
     {
@@ -814,8 +823,8 @@
    "name": "Galatasaray",
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
-   "rank": 10,
+   "league_logo": "logos/577d84baf758.png",
+   "rank": 9,
    "record": "4-4",
    "last5": [
     {
@@ -1619,9 +1628,18 @@
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 12,
-   "record": "3-4",
+   "rank": 10,
+   "record": "4-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "76:84",
+     "opponent": "Bilbao",
+     "venue": "A",
+     "date": "15.11. 17:00",
+     "pf": 84,
+     "pa": 76
+    },
     {
      "wl": "L",
      "score": "90:71",
@@ -1657,18 +1675,18 @@
      "date": "18.10. 15:00",
      "pf": 93,
      "pa": 116
-    },
-    {
-     "wl": "L",
-     "score": "77:90",
-     "opponent": "Tenerife",
-     "venue": "H",
-     "date": "11.10. 10:30",
-     "pf": 77,
-     "pa": 90
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "76:84",
+     "opponent": "Bilbao",
+     "venue": "A",
+     "date": "15.11. 17:00",
+     "pf": 84,
+     "pa": 76
+    },
     {
      "wl": "L",
      "score": "90:71",
@@ -1743,7 +1761,7 @@
    "name": "Varese",
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 6,
    "record": "5-3",
    "last5": [
@@ -2154,7 +2172,7 @@
    "name": "Juventus",
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "league_logo": "logos/c5eddc9adb50.png",
    "rank": 8,
    "record": "3-7",
    "last5": [
@@ -2306,7 +2324,7 @@
    "name": "Reggiana",
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 14,
    "record": "2-6",
    "last5": [
@@ -3004,7 +3022,7 @@
    "logo": "logos/fc078fb0f685.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 14,
+   "rank": 15,
    "record": "3-6",
    "last5": [
     {
@@ -3148,8 +3166,17 @@
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
    "rank": 9,
-   "record": "4-3",
+   "record": "4-4",
    "last5": [
+    {
+     "wl": "L",
+     "score": "76:84",
+     "opponent": "Murcia",
+     "venue": "H",
+     "date": "15.11. 17:00",
+     "pf": 76,
+     "pa": 84
+    },
     {
      "wl": "L",
      "score": "92:87",
@@ -3185,18 +3212,18 @@
      "date": "18.10. 10:30",
      "pf": 84,
      "pa": 119
-    },
-    {
-     "wl": "W",
-     "score": "96:87",
-     "opponent": "San Pablo Burgos",
-     "venue": "H",
-     "date": "11.10. 16:00",
-     "pf": 96,
-     "pa": 87
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "76:84",
+     "opponent": "Murcia",
+     "venue": "H",
+     "date": "15.11. 17:00",
+     "pf": 76,
+     "pa": 84
+    },
     {
      "wl": "L",
      "score": "92:87",
@@ -3719,7 +3746,7 @@
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 11,
+   "rank": 12,
    "record": "3-5",
    "last5": [
     {
@@ -4121,7 +4148,7 @@
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 11,
+   "rank": 10,
    "record": "2-4",
    "last5": [
     {
