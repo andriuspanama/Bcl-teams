@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-16 10:46",
+ "updated": "2026-11-16 21:46",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -699,7 +699,7 @@
    "logo": "logos/e29523e50e3b.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 6,
+   "rank": 7,
    "record": "3-4",
    "last5": [
     {
@@ -1761,7 +1761,7 @@
    "name": "Varese",
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
+   "league_logo": "logos/a535f34abeaf.png",
    "rank": 6,
    "record": "5-3",
    "last5": [
@@ -2324,7 +2324,7 @@
    "name": "Reggiana",
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
+   "league_logo": "logos/a535f34abeaf.png",
    "rank": 14,
    "record": "2-6",
    "last5": [
@@ -2915,9 +2915,18 @@
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 13,
-   "record": "1-4",
+   "rank": 10,
+   "record": "2-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "87:69",
+     "opponent": "Hapoel HaEmek",
+     "venue": "H",
+     "date": "16.11. 18:05",
+     "pf": 87,
+     "pa": 69
+    },
     {
      "wl": "L",
      "score": "101:110",
@@ -2953,18 +2962,18 @@
      "date": "19.10. 17:05",
      "pf": 69,
      "pa": 78
-    },
-    {
-     "wl": "L",
-     "score": "69:92",
-     "opponent": "Hapoel Jerusalem",
-     "venue": "H",
-     "date": "11.10. 17:55",
-     "pf": 69,
-     "pa": 92
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "87:69",
+     "opponent": "Hapoel HaEmek",
+     "venue": "H",
+     "date": "16.11. 18:05",
+     "pf": 87,
+     "pa": 69
+    },
     {
      "wl": "L",
      "score": "101:110",
@@ -3012,8 +3021,8 @@
     }
    ],
    "next": {
-    "date": "16.11. 18:05",
-    "opponent": "Hapoel HaEmek"
+    "date": "21.11. 18:55",
+    "opponent": "Maccabi Tel Aviv"
    },
    "note": ""
   },
@@ -3442,7 +3451,7 @@
    "logo": "logos/0abf3f361f89.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 5,
+   "rank": 6,
    "record": "3-4",
    "last5": [
     {
@@ -4148,7 +4157,7 @@
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 10,
+   "rank": 11,
    "record": "2-4",
    "last5": [
     {
