@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-17 18:17",
+ "updated": "2026-11-18 02:46",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -162,7 +162,7 @@
    "name": "Trabzonspor",
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 11,
    "record": "4-4",
    "last5": [
@@ -296,7 +296,7 @@
    "name": "Nanterre",
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 3,
    "record": "6-2",
    "last5": [
@@ -430,7 +430,7 @@
    "name": "Strasbourg",
    "logo": "logos/139b466a9a85.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 8,
    "record": "5-4",
    "last5": [
@@ -823,7 +823,7 @@
    "name": "Galatasaray",
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 9,
    "record": "4-4",
    "last5": [
@@ -950,6 +950,158 @@
    "next": {
     "date": "22.11. 15:00",
     "opponent": "Petkim Spor"
+   },
+   "note": ""
+  },
+  {
+   "name": "Salon Vilpas",
+   "logo": "logos/047cf29bd231.png",
+   "league": "Korisliiga",
+   "league_logo": "logos/b10f1d73b114.png",
+   "rank": 6,
+   "record": "5-5",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "98:90",
+     "opponent": "Kouvot Kouvola",
+     "venue": "A",
+     "date": "14.11. 14:00",
+     "pf": 90,
+     "pa": 98
+    },
+    {
+     "wl": "L",
+     "score": "87:86",
+     "opponent": "Kipina",
+     "venue": "A",
+     "date": "07.11. 14:00",
+     "pf": 86,
+     "pa": 87
+    },
+    {
+     "wl": "W",
+     "score": "52:80",
+     "opponent": "Lahti Basketball",
+     "venue": "A",
+     "date": "30.10. 16:30",
+     "pf": 80,
+     "pa": 52
+    },
+    {
+     "wl": "L",
+     "score": "86:79",
+     "opponent": "Helsinki Seagulls",
+     "venue": "A",
+     "date": "27.10. 16:30",
+     "pf": 79,
+     "pa": 86
+    },
+    {
+     "wl": "W",
+     "score": "79:64",
+     "opponent": "Helsinki Seagulls",
+     "venue": "H",
+     "date": "24.10. 15:00",
+     "pf": 79,
+     "pa": 64
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "98:90",
+     "opponent": "Kouvot Kouvola",
+     "venue": "A",
+     "date": "14.11. 14:00",
+     "pf": 90,
+     "pa": 98
+    },
+    {
+     "wl": "L",
+     "score": "87:86",
+     "opponent": "Kipina",
+     "venue": "A",
+     "date": "07.11. 14:00",
+     "pf": 86,
+     "pa": 87
+    },
+    {
+     "wl": "W",
+     "score": "52:80",
+     "opponent": "Lahti Basketball",
+     "venue": "A",
+     "date": "30.10. 16:30",
+     "pf": 80,
+     "pa": 52
+    },
+    {
+     "wl": "L",
+     "score": "86:79",
+     "opponent": "Helsinki Seagulls",
+     "venue": "A",
+     "date": "27.10. 16:30",
+     "pf": 79,
+     "pa": 86
+    },
+    {
+     "wl": "W",
+     "score": "79:64",
+     "opponent": "Helsinki Seagulls",
+     "venue": "H",
+     "date": "24.10. 15:00",
+     "pf": 79,
+     "pa": 64
+    },
+    {
+     "wl": "W",
+     "score": "70:81",
+     "opponent": "Bisons Loimaa",
+     "venue": "A",
+     "date": "17.10. 13:00",
+     "pf": 81,
+     "pa": 70
+    },
+    {
+     "wl": "L",
+     "score": "81:102",
+     "opponent": "KTP Kotka Basket",
+     "venue": "H",
+     "date": "14.10. 15:30",
+     "pf": 81,
+     "pa": 102
+    },
+    {
+     "wl": "W",
+     "score": "95:73",
+     "opponent": "UU-Korihait Uusikaupunki",
+     "venue": "H",
+     "date": "10.10. 15:00",
+     "pf": 95,
+     "pa": 73
+    },
+    {
+     "wl": "W",
+     "score": "79:97",
+     "opponent": "Pyrinto Tampere",
+     "venue": "A",
+     "date": "03.10. 15:00",
+     "pf": 97,
+     "pa": 79
+    },
+    {
+     "wl": "L",
+     "score": "104:107",
+     "opponent": "Honka",
+     "venue": "H",
+     "date": "29.09. 15:30",
+     "pf": 104,
+     "pa": 107
+    }
+   ],
+   "next": {
+    "date": "20.11. 16:30",
+    "opponent": "Karhu Basket"
    },
    "note": ""
   },
@@ -1343,158 +1495,6 @@
    "next": {
     "date": "05.12. 17:00",
     "opponent": "Atomeromu Paks"
-   },
-   "note": ""
-  },
-  {
-   "name": "Salon Vilpas",
-   "logo": "logos/047cf29bd231.png",
-   "league": "Korisliiga",
-   "league_logo": "logos/b10f1d73b114.png",
-   "rank": 6,
-   "record": "5-5",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "98:90",
-     "opponent": "Kouvot Kouvola",
-     "venue": "A",
-     "date": "14.11. 14:00",
-     "pf": 90,
-     "pa": 98
-    },
-    {
-     "wl": "L",
-     "score": "87:86",
-     "opponent": "Kipina",
-     "venue": "A",
-     "date": "07.11. 14:00",
-     "pf": 86,
-     "pa": 87
-    },
-    {
-     "wl": "W",
-     "score": "52:80",
-     "opponent": "Lahti Basketball",
-     "venue": "A",
-     "date": "30.10. 16:30",
-     "pf": 80,
-     "pa": 52
-    },
-    {
-     "wl": "L",
-     "score": "86:79",
-     "opponent": "Helsinki Seagulls",
-     "venue": "A",
-     "date": "27.10. 16:30",
-     "pf": 79,
-     "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "79:64",
-     "opponent": "Helsinki Seagulls",
-     "venue": "H",
-     "date": "24.10. 15:00",
-     "pf": 79,
-     "pa": 64
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "98:90",
-     "opponent": "Kouvot Kouvola",
-     "venue": "A",
-     "date": "14.11. 14:00",
-     "pf": 90,
-     "pa": 98
-    },
-    {
-     "wl": "L",
-     "score": "87:86",
-     "opponent": "Kipina",
-     "venue": "A",
-     "date": "07.11. 14:00",
-     "pf": 86,
-     "pa": 87
-    },
-    {
-     "wl": "W",
-     "score": "52:80",
-     "opponent": "Lahti Basketball",
-     "venue": "A",
-     "date": "30.10. 16:30",
-     "pf": 80,
-     "pa": 52
-    },
-    {
-     "wl": "L",
-     "score": "86:79",
-     "opponent": "Helsinki Seagulls",
-     "venue": "A",
-     "date": "27.10. 16:30",
-     "pf": 79,
-     "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "79:64",
-     "opponent": "Helsinki Seagulls",
-     "venue": "H",
-     "date": "24.10. 15:00",
-     "pf": 79,
-     "pa": 64
-    },
-    {
-     "wl": "W",
-     "score": "70:81",
-     "opponent": "Bisons Loimaa",
-     "venue": "A",
-     "date": "17.10. 13:00",
-     "pf": 81,
-     "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "81:102",
-     "opponent": "KTP Kotka Basket",
-     "venue": "H",
-     "date": "14.10. 15:30",
-     "pf": 81,
-     "pa": 102
-    },
-    {
-     "wl": "W",
-     "score": "95:73",
-     "opponent": "UU-Korihait Uusikaupunki",
-     "venue": "H",
-     "date": "10.10. 15:00",
-     "pf": 95,
-     "pa": 73
-    },
-    {
-     "wl": "W",
-     "score": "79:97",
-     "opponent": "Pyrinto Tampere",
-     "venue": "A",
-     "date": "03.10. 15:00",
-     "pf": 97,
-     "pa": 79
-    },
-    {
-     "wl": "L",
-     "score": "104:107",
-     "opponent": "Honka",
-     "venue": "H",
-     "date": "29.09. 15:30",
-     "pf": 104,
-     "pa": 107
-    }
-   ],
-   "next": {
-    "date": "20.11. 16:30",
-    "opponent": "Karhu Basket"
    },
    "note": ""
   },
@@ -2169,6 +2169,140 @@
    "note": ""
   },
   {
+   "name": "Reggiana",
+   "logo": "logos/3c44fdec0508.png",
+   "league": "Lega A",
+   "league_logo": "logos/a535f34abeaf.png",
+   "rank": 14,
+   "record": "2-6",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "84:99",
+     "opponent": "Varese",
+     "venue": "H",
+     "date": "14.11. 19:00",
+     "pf": 84,
+     "pa": 99
+    },
+    {
+     "wl": "L",
+     "score": "78:83",
+     "opponent": "Venezia",
+     "venue": "H",
+     "date": "07.11. 19:00",
+     "pf": 78,
+     "pa": 83
+    },
+    {
+     "wl": "L",
+     "score": "81:68",
+     "opponent": "Treviso",
+     "venue": "A",
+     "date": "31.10. 19:30",
+     "pf": 68,
+     "pa": 81
+    },
+    {
+     "wl": "W",
+     "score": "81:60",
+     "opponent": "Cantu",
+     "venue": "H",
+     "date": "25.10. 17:30",
+     "pf": 81,
+     "pa": 60
+    },
+    {
+     "wl": "L",
+     "score": "94:81",
+     "opponent": "Verona",
+     "venue": "A",
+     "date": "18.10. 16:00",
+     "pf": 81,
+     "pa": 94
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "84:99",
+     "opponent": "Varese",
+     "venue": "H",
+     "date": "14.11. 19:00",
+     "pf": 84,
+     "pa": 99
+    },
+    {
+     "wl": "L",
+     "score": "78:83",
+     "opponent": "Venezia",
+     "venue": "H",
+     "date": "07.11. 19:00",
+     "pf": 78,
+     "pa": 83
+    },
+    {
+     "wl": "L",
+     "score": "81:68",
+     "opponent": "Treviso",
+     "venue": "A",
+     "date": "31.10. 19:30",
+     "pf": 68,
+     "pa": 81
+    },
+    {
+     "wl": "W",
+     "score": "81:60",
+     "opponent": "Cantu",
+     "venue": "H",
+     "date": "25.10. 17:30",
+     "pf": 81,
+     "pa": 60
+    },
+    {
+     "wl": "L",
+     "score": "94:81",
+     "opponent": "Verona",
+     "venue": "A",
+     "date": "18.10. 16:00",
+     "pf": 81,
+     "pa": 94
+    },
+    {
+     "wl": "W",
+     "score": "93:86",
+     "opponent": "Tortona",
+     "venue": "H",
+     "date": "11.10. 15:00",
+     "pf": 93,
+     "pa": 86
+    },
+    {
+     "wl": "L",
+     "score": "99:93",
+     "opponent": "Basket Napoli",
+     "venue": "A",
+     "date": "03.10. 18:30",
+     "pf": 93,
+     "pa": 99
+    },
+    {
+     "wl": "L",
+     "score": "78:83",
+     "opponent": "Trento",
+     "venue": "H",
+     "date": "26.09. 18:30",
+     "pf": 78,
+     "pa": 83
+    }
+   ],
+   "next": {
+    "date": "21.11. 19:00",
+    "opponent": "Trieste"
+   },
+   "note": ""
+  },
+  {
    "name": "Juventus",
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
@@ -2317,140 +2451,6 @@
    "next": {
     "date": "22.11. 17:10",
     "opponent": "Rytas"
-   },
-   "note": ""
-  },
-  {
-   "name": "Reggiana",
-   "logo": "logos/3c44fdec0508.png",
-   "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
-   "rank": 14,
-   "record": "2-6",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "84:99",
-     "opponent": "Varese",
-     "venue": "H",
-     "date": "14.11. 19:00",
-     "pf": 84,
-     "pa": 99
-    },
-    {
-     "wl": "L",
-     "score": "78:83",
-     "opponent": "Venezia",
-     "venue": "H",
-     "date": "07.11. 19:00",
-     "pf": 78,
-     "pa": 83
-    },
-    {
-     "wl": "L",
-     "score": "81:68",
-     "opponent": "Treviso",
-     "venue": "A",
-     "date": "31.10. 19:30",
-     "pf": 68,
-     "pa": 81
-    },
-    {
-     "wl": "W",
-     "score": "81:60",
-     "opponent": "Cantu",
-     "venue": "H",
-     "date": "25.10. 17:30",
-     "pf": 81,
-     "pa": 60
-    },
-    {
-     "wl": "L",
-     "score": "94:81",
-     "opponent": "Verona",
-     "venue": "A",
-     "date": "18.10. 16:00",
-     "pf": 81,
-     "pa": 94
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "84:99",
-     "opponent": "Varese",
-     "venue": "H",
-     "date": "14.11. 19:00",
-     "pf": 84,
-     "pa": 99
-    },
-    {
-     "wl": "L",
-     "score": "78:83",
-     "opponent": "Venezia",
-     "venue": "H",
-     "date": "07.11. 19:00",
-     "pf": 78,
-     "pa": 83
-    },
-    {
-     "wl": "L",
-     "score": "81:68",
-     "opponent": "Treviso",
-     "venue": "A",
-     "date": "31.10. 19:30",
-     "pf": 68,
-     "pa": 81
-    },
-    {
-     "wl": "W",
-     "score": "81:60",
-     "opponent": "Cantu",
-     "venue": "H",
-     "date": "25.10. 17:30",
-     "pf": 81,
-     "pa": 60
-    },
-    {
-     "wl": "L",
-     "score": "94:81",
-     "opponent": "Verona",
-     "venue": "A",
-     "date": "18.10. 16:00",
-     "pf": 81,
-     "pa": 94
-    },
-    {
-     "wl": "W",
-     "score": "93:86",
-     "opponent": "Tortona",
-     "venue": "H",
-     "date": "11.10. 15:00",
-     "pf": 93,
-     "pa": 86
-    },
-    {
-     "wl": "L",
-     "score": "99:93",
-     "opponent": "Basket Napoli",
-     "venue": "A",
-     "date": "03.10. 18:30",
-     "pf": 93,
-     "pa": 99
-    },
-    {
-     "wl": "L",
-     "score": "78:83",
-     "opponent": "Trento",
-     "venue": "H",
-     "date": "26.09. 18:30",
-     "pf": 78,
-     "pa": 83
-    }
-   ],
-   "next": {
-    "date": "21.11. 19:00",
-    "opponent": "Trieste"
    },
    "note": ""
   },
@@ -2771,7 +2771,7 @@
    "name": "Cholet",
    "logo": "logos/6b3e0a389e1e.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 9,
    "record": "4-5",
    "last5": [
