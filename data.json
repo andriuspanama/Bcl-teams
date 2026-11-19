@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-18 20:09",
+ "updated": "2026-11-19 02:22",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -436,6 +436,274 @@
    "note": ""
   },
   {
+   "name": "Strasbourg",
+   "logo": "logos/139b466a9a85.png",
+   "league": "LNB",
+   "league_logo": "logos/c611aab280e5.png",
+   "rank": 8,
+   "record": "5-4",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "84:89",
+     "opponent": "Pau-Orthez",
+     "venue": "A",
+     "date": "13.11. 19:00",
+     "pf": 89,
+     "pa": 84
+    },
+    {
+     "wl": "L",
+     "score": "69:94",
+     "opponent": "Le Mans",
+     "venue": "H",
+     "date": "08.11. 18:00",
+     "pf": 69,
+     "pa": 94
+    },
+    {
+     "wl": "W",
+     "score": "88:82",
+     "opponent": "Cholet",
+     "venue": "H",
+     "date": "31.10. 17:30",
+     "pf": 88,
+     "pa": 82
+    },
+    {
+     "wl": "W",
+     "score": "94:98",
+     "opponent": "Saint Quentin",
+     "venue": "A",
+     "date": "27.10. 19:00",
+     "pf": 98,
+     "pa": 94
+    },
+    {
+     "wl": "L",
+     "score": "106:79",
+     "opponent": "Chalon/Saone",
+     "venue": "A",
+     "date": "24.10. 16:30",
+     "pf": 79,
+     "pa": 106
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "84:89",
+     "opponent": "Pau-Orthez",
+     "venue": "A",
+     "date": "13.11. 19:00",
+     "pf": 89,
+     "pa": 84
+    },
+    {
+     "wl": "L",
+     "score": "69:94",
+     "opponent": "Le Mans",
+     "venue": "H",
+     "date": "08.11. 18:00",
+     "pf": 69,
+     "pa": 94
+    },
+    {
+     "wl": "W",
+     "score": "88:82",
+     "opponent": "Cholet",
+     "venue": "H",
+     "date": "31.10. 17:30",
+     "pf": 88,
+     "pa": 82
+    },
+    {
+     "wl": "W",
+     "score": "94:98",
+     "opponent": "Saint Quentin",
+     "venue": "A",
+     "date": "27.10. 19:00",
+     "pf": 98,
+     "pa": 94
+    },
+    {
+     "wl": "L",
+     "score": "106:79",
+     "opponent": "Chalon/Saone",
+     "venue": "A",
+     "date": "24.10. 16:30",
+     "pf": 79,
+     "pa": 106
+    },
+    {
+     "wl": "W",
+     "score": "72:70",
+     "opponent": "Roanne",
+     "venue": "H",
+     "date": "16.10. 18:00",
+     "pf": 72,
+     "pa": 70
+    },
+    {
+     "wl": "L",
+     "score": "98:84",
+     "opponent": "Paris",
+     "venue": "A",
+     "date": "11.10. 14:30",
+     "pf": 84,
+     "pa": 98
+    },
+    {
+     "wl": "W",
+     "score": "87:75",
+     "opponent": "Boulazac",
+     "venue": "H",
+     "date": "03.10. 16:00",
+     "pf": 87,
+     "pa": 75
+    },
+    {
+     "wl": "L",
+     "score": "81:72",
+     "opponent": "Dijon",
+     "venue": "A",
+     "date": "25.09. 18:00",
+     "pf": 72,
+     "pa": 81
+    }
+   ],
+   "next": {
+    "date": "21.11. 19:30",
+    "opponent": "Nanterre"
+   },
+   "note": ""
+  },
+  {
+   "name": "Cibona",
+   "logo": "logos/e29523e50e3b.png",
+   "league": "Adrijos lyga",
+   "league_logo": "logos/4ecaeb496585.png",
+   "rank": 7,
+   "record": "3-4",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "80:77",
+     "opponent": "FMP Beograd",
+     "venue": "H",
+     "date": "13.11. 17:30",
+     "pf": 80,
+     "pa": 77
+    },
+    {
+     "wl": "W",
+     "score": "93:102",
+     "opponent": "Siroki Brijeg",
+     "venue": "A",
+     "date": "09.11. 18:00",
+     "pf": 102,
+     "pa": 93
+    },
+    {
+     "wl": "L",
+     "score": "69:89",
+     "opponent": "Igokea",
+     "venue": "H",
+     "date": "30.10. 17:30",
+     "pf": 69,
+     "pa": 89
+    },
+    {
+     "wl": "W",
+     "score": "99:84",
+     "opponent": "KK Krka Novo mesto",
+     "venue": "H",
+     "date": "23.10. 18:30",
+     "pf": 99,
+     "pa": 84
+    },
+    {
+     "wl": "L",
+     "score": "94:95",
+     "opponent": "Borac Mozzart",
+     "venue": "H",
+     "date": "16.10. 16:30",
+     "pf": 94,
+     "pa": 95
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "80:77",
+     "opponent": "FMP Beograd",
+     "venue": "H",
+     "date": "13.11. 17:30",
+     "pf": 80,
+     "pa": 77
+    },
+    {
+     "wl": "W",
+     "score": "93:102",
+     "opponent": "Siroki Brijeg",
+     "venue": "A",
+     "date": "09.11. 18:00",
+     "pf": 102,
+     "pa": 93
+    },
+    {
+     "wl": "L",
+     "score": "69:89",
+     "opponent": "Igokea",
+     "venue": "H",
+     "date": "30.10. 17:30",
+     "pf": 69,
+     "pa": 89
+    },
+    {
+     "wl": "W",
+     "score": "99:84",
+     "opponent": "KK Krka Novo mesto",
+     "venue": "H",
+     "date": "23.10. 18:30",
+     "pf": 99,
+     "pa": 84
+    },
+    {
+     "wl": "L",
+     "score": "94:95",
+     "opponent": "Borac Mozzart",
+     "venue": "H",
+     "date": "16.10. 16:30",
+     "pf": 94,
+     "pa": 95
+    },
+    {
+     "wl": "L",
+     "score": "82:90",
+     "opponent": "Slovan Bratislava",
+     "venue": "H",
+     "date": "12.10. 17:00",
+     "pf": 82,
+     "pa": 90
+    },
+    {
+     "wl": "L",
+     "score": "89:76",
+     "opponent": "Cedevita Olimpija",
+     "venue": "A",
+     "date": "03.10. 15:00",
+     "pf": 76,
+     "pa": 89
+    }
+   ],
+   "next": {
+    "date": "22.11. 12:00",
+    "opponent": "Crvena Zvezda Meridianbet"
+   },
+   "note": ""
+  },
+  {
    "name": "Galatasaray",
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
@@ -695,274 +963,6 @@
    "note": ""
   },
   {
-   "name": "Strasbourg",
-   "logo": "logos/139b466a9a85.png",
-   "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
-   "rank": 8,
-   "record": "5-4",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "84:89",
-     "opponent": "Pau-Orthez",
-     "venue": "A",
-     "date": "13.11. 19:00",
-     "pf": 89,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "69:94",
-     "opponent": "Le Mans",
-     "venue": "H",
-     "date": "08.11. 18:00",
-     "pf": 69,
-     "pa": 94
-    },
-    {
-     "wl": "W",
-     "score": "88:82",
-     "opponent": "Cholet",
-     "venue": "H",
-     "date": "31.10. 17:30",
-     "pf": 88,
-     "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "94:98",
-     "opponent": "Saint Quentin",
-     "venue": "A",
-     "date": "27.10. 19:00",
-     "pf": 98,
-     "pa": 94
-    },
-    {
-     "wl": "L",
-     "score": "106:79",
-     "opponent": "Chalon/Saone",
-     "venue": "A",
-     "date": "24.10. 16:30",
-     "pf": 79,
-     "pa": 106
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "84:89",
-     "opponent": "Pau-Orthez",
-     "venue": "A",
-     "date": "13.11. 19:00",
-     "pf": 89,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "69:94",
-     "opponent": "Le Mans",
-     "venue": "H",
-     "date": "08.11. 18:00",
-     "pf": 69,
-     "pa": 94
-    },
-    {
-     "wl": "W",
-     "score": "88:82",
-     "opponent": "Cholet",
-     "venue": "H",
-     "date": "31.10. 17:30",
-     "pf": 88,
-     "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "94:98",
-     "opponent": "Saint Quentin",
-     "venue": "A",
-     "date": "27.10. 19:00",
-     "pf": 98,
-     "pa": 94
-    },
-    {
-     "wl": "L",
-     "score": "106:79",
-     "opponent": "Chalon/Saone",
-     "venue": "A",
-     "date": "24.10. 16:30",
-     "pf": 79,
-     "pa": 106
-    },
-    {
-     "wl": "W",
-     "score": "72:70",
-     "opponent": "Roanne",
-     "venue": "H",
-     "date": "16.10. 18:00",
-     "pf": 72,
-     "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "98:84",
-     "opponent": "Paris",
-     "venue": "A",
-     "date": "11.10. 14:30",
-     "pf": 84,
-     "pa": 98
-    },
-    {
-     "wl": "W",
-     "score": "87:75",
-     "opponent": "Boulazac",
-     "venue": "H",
-     "date": "03.10. 16:00",
-     "pf": 87,
-     "pa": 75
-    },
-    {
-     "wl": "L",
-     "score": "81:72",
-     "opponent": "Dijon",
-     "venue": "A",
-     "date": "25.09. 18:00",
-     "pf": 72,
-     "pa": 81
-    }
-   ],
-   "next": {
-    "date": "21.11. 19:30",
-    "opponent": "Nanterre"
-   },
-   "note": ""
-  },
-  {
-   "name": "Cibona",
-   "logo": "logos/e29523e50e3b.png",
-   "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
-   "rank": 7,
-   "record": "3-4",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "80:77",
-     "opponent": "FMP Beograd",
-     "venue": "H",
-     "date": "13.11. 17:30",
-     "pf": 80,
-     "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "93:102",
-     "opponent": "Siroki Brijeg",
-     "venue": "A",
-     "date": "09.11. 18:00",
-     "pf": 102,
-     "pa": 93
-    },
-    {
-     "wl": "L",
-     "score": "69:89",
-     "opponent": "Igokea",
-     "venue": "H",
-     "date": "30.10. 17:30",
-     "pf": 69,
-     "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "99:84",
-     "opponent": "KK Krka Novo mesto",
-     "venue": "H",
-     "date": "23.10. 18:30",
-     "pf": 99,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "94:95",
-     "opponent": "Borac Mozzart",
-     "venue": "H",
-     "date": "16.10. 16:30",
-     "pf": 94,
-     "pa": 95
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "80:77",
-     "opponent": "FMP Beograd",
-     "venue": "H",
-     "date": "13.11. 17:30",
-     "pf": 80,
-     "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "93:102",
-     "opponent": "Siroki Brijeg",
-     "venue": "A",
-     "date": "09.11. 18:00",
-     "pf": 102,
-     "pa": 93
-    },
-    {
-     "wl": "L",
-     "score": "69:89",
-     "opponent": "Igokea",
-     "venue": "H",
-     "date": "30.10. 17:30",
-     "pf": 69,
-     "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "99:84",
-     "opponent": "KK Krka Novo mesto",
-     "venue": "H",
-     "date": "23.10. 18:30",
-     "pf": 99,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "94:95",
-     "opponent": "Borac Mozzart",
-     "venue": "H",
-     "date": "16.10. 16:30",
-     "pf": 94,
-     "pa": 95
-    },
-    {
-     "wl": "L",
-     "score": "82:90",
-     "opponent": "Slovan Bratislava",
-     "venue": "H",
-     "date": "12.10. 17:00",
-     "pf": 82,
-     "pa": 90
-    },
-    {
-     "wl": "L",
-     "score": "89:76",
-     "opponent": "Cedevita Olimpija",
-     "venue": "A",
-     "date": "03.10. 15:00",
-     "pf": 76,
-     "pa": 89
-    }
-   ],
-   "next": {
-    "date": "22.11. 12:00",
-    "opponent": "Crvena Zvezda Meridianbet"
-   },
-   "note": ""
-  },
-  {
    "name": "AEK Athens",
    "logo": "logos/e8fa983046df.png",
    "league": "Basket League",
@@ -1091,7 +1091,7 @@
    "name": "Salon Vilpas",
    "logo": "logos/047cf29bd231.png",
    "league": "Korisliiga",
-   "league_logo": "logos/2a39fb1c52b4.png",
+   "league_logo": "logos/b10f1d73b114.png",
    "rank": 6,
    "record": "5-5",
    "last5": [
@@ -2655,7 +2655,7 @@
    "name": "Spartak Subotica",
    "logo": "logos/3e1e7c9cc3b4.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 4,
    "record": "4-3",
    "last5": [
@@ -3459,7 +3459,7 @@
    "name": "Igokea",
    "logo": "logos/0abf3f361f89.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 6,
    "record": "3-4",
    "last5": [
@@ -4040,7 +4040,7 @@
    "name": "FC Porto",
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
+   "league_logo": "logos/e985fcdd375b.png",
    "rank": 1,
    "record": "6-1",
    "last5": [
