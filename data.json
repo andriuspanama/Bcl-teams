@@ -1,13 +1,13 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-20 11:13",
- "comp_logo": "logos/736a7e173080.png",
+ "updated": "2026-11-20 19:45",
+ "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Rytas",
    "logo": "logos/da8b9d9ee9c8.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "league_logo": "logos/c5eddc9adb50.png",
    "rank": 4,
    "record": "6-4",
    "last5": [
@@ -583,7 +583,7 @@
    "logo": "logos/e29523e50e3b.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 7,
+   "rank": 8,
    "record": "3-4",
    "last5": [
     {
@@ -842,7 +842,7 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 10,
+   "rank": 12,
    "record": "3-4",
    "last5": [
     {
@@ -1092,9 +1092,18 @@
    "logo": "logos/047cf29bd231.png",
    "league": "Korisliiga",
    "league_logo": "logos/b10f1d73b114.png",
-   "rank": 6,
-   "record": "5-5",
+   "rank": 4,
+   "record": "6-5",
    "last5": [
+    {
+     "wl": "W",
+     "score": "90:76",
+     "opponent": "Karhu Basket",
+     "venue": "H",
+     "date": "20.11. 16:30",
+     "pf": 90,
+     "pa": 76
+    },
     {
      "wl": "L",
      "score": "98:90",
@@ -1130,18 +1139,18 @@
      "date": "27.10. 16:30",
      "pf": 79,
      "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "79:64",
-     "opponent": "Helsinki Seagulls",
-     "venue": "H",
-     "date": "24.10. 15:00",
-     "pf": 79,
-     "pa": 64
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "90:76",
+     "opponent": "Karhu Basket",
+     "venue": "H",
+     "date": "20.11. 16:30",
+     "pf": 90,
+     "pa": 76
+    },
     {
      "wl": "L",
      "score": "98:90",
@@ -1234,8 +1243,8 @@
     }
    ],
    "next": {
-    "date": "20.11. 16:30",
-    "opponent": "Karhu Basket"
+    "date": "02.12. 16:30",
+    "opponent": "Kataja"
    },
    "note": ""
   },
@@ -1770,7 +1779,7 @@
    "name": "Varese",
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 6,
    "record": "5-3",
    "last5": [
@@ -2181,7 +2190,7 @@
    "name": "Reggiana",
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 14,
    "record": "2-6",
    "last5": [
@@ -2315,7 +2324,7 @@
    "name": "Juventus",
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "league_logo": "logos/c5eddc9adb50.png",
    "rank": 8,
    "record": "3-7",
    "last5": [
@@ -3173,8 +3182,8 @@
     }
    ],
    "next": {
-    "date": "20.11. 19:00",
-    "opponent": "Wurzburg"
+    "date": "05.12. 19:00",
+    "opponent": "Hamburg"
    },
    "note": ""
   },
@@ -3460,9 +3469,18 @@
    "logo": "logos/0abf3f361f89.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 6,
-   "record": "3-4",
+   "rank": 3,
+   "record": "4-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "69:71",
+     "opponent": "FMP Beograd",
+     "venue": "A",
+     "date": "20.11. 17:00",
+     "pf": 71,
+     "pa": 69
+    },
     {
      "wl": "W",
      "score": "104:100",
@@ -3498,18 +3516,18 @@
      "date": "24.10. 16:00",
      "pf": 80,
      "pa": 81
-    },
-    {
-     "wl": "L",
-     "score": "81:93",
-     "opponent": "Cedevita Olimpija",
-     "venue": "H",
-     "date": "17.10. 17:00",
-     "pf": 81,
-     "pa": 93
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "69:71",
+     "opponent": "FMP Beograd",
+     "venue": "A",
+     "date": "20.11. 17:00",
+     "pf": 71,
+     "pa": 69
+    },
     {
      "wl": "W",
      "score": "104:100",
@@ -3575,8 +3593,8 @@
     }
    ],
    "next": {
-    "date": "20.11. 17:00",
-    "opponent": "FMP Beograd"
+    "date": "04.12. 17:30",
+    "opponent": "Cibona"
    },
    "note": ""
   },
