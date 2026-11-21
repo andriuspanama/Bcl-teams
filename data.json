@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-20 19:45",
+ "updated": "2026-11-21 02:00",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -306,7 +306,7 @@
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
-   "rank": 3,
+   "rank": 4,
    "record": "6-2",
    "last5": [
     {
@@ -841,7 +841,7 @@
    "name": "Legia",
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 12,
    "record": "3-4",
    "last5": [
@@ -1377,7 +1377,7 @@
    "name": "Szombathely",
    "logo": "logos/9fb8bfa07c32.png",
    "league": "NB I. A",
-   "league_logo": "logos/e25024497cfd.png",
+   "league_logo": "logos/61a093b35850.png",
    "rank": 2,
    "record": "8-1",
    "last5": [
@@ -1645,7 +1645,7 @@
    "name": "Murcia",
    "logo": "logos/7e9a6e57e78b.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 10,
    "record": "4-4",
    "last5": [
@@ -1779,7 +1779,7 @@
    "name": "Varese",
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
+   "league_logo": "logos/a535f34abeaf.png",
    "rank": 6,
    "record": "5-3",
    "last5": [
@@ -1914,7 +1914,7 @@
    "logo": "logos/75017b7879a2.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 11,
+   "rank": 10,
    "record": "4-5",
    "last5": [
     {
@@ -2056,7 +2056,7 @@
    "name": "Unicaja",
    "logo": "logos/13f74fd364a6.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 8,
    "record": "4-4",
    "last5": [
@@ -2190,7 +2190,7 @@
    "name": "Reggiana",
    "logo": "logos/3c44fdec0508.png",
    "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
+   "league_logo": "logos/a535f34abeaf.png",
    "rank": 14,
    "record": "2-6",
    "last5": [
@@ -3049,9 +3049,18 @@
    "logo": "logos/fc078fb0f685.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 15,
-   "record": "3-6",
+   "rank": 13,
+   "record": "4-6",
    "last5": [
+    {
+     "wl": "W",
+     "score": "91:96",
+     "opponent": "Wurzburg",
+     "venue": "A",
+     "date": "20.11. 19:00",
+     "pf": 96,
+     "pa": 91
+    },
     {
      "wl": "L",
      "score": "86:75",
@@ -3087,18 +3096,18 @@
      "date": "24.10. 18:00",
      "pf": 88,
      "pa": 97
-    },
-    {
-     "wl": "W",
-     "score": "97:92",
-     "opponent": "Ulm",
-     "venue": "H",
-     "date": "10.10. 18:00",
-     "pf": 97,
-     "pa": 92
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "91:96",
+     "opponent": "Wurzburg",
+     "venue": "A",
+     "date": "20.11. 19:00",
+     "pf": 96,
+     "pa": 91
+    },
     {
      "wl": "L",
      "score": "86:75",
@@ -3191,7 +3200,7 @@
    "name": "Bilbao",
    "logo": "logos/f42c1a3a3146.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 9,
    "record": "4-4",
    "last5": [
@@ -3781,7 +3790,7 @@
    "name": "Joventut Badalona",
    "logo": "logos/c9120d2409c8.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 12,
    "record": "3-5",
    "last5": [
