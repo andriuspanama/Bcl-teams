@@ -1,6 +1,6 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-23 01:27",
+ "updated": "2026-11-23 11:58",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
@@ -1045,7 +1045,7 @@
     {
      "wl": "L",
      "score": "73:77",
-     "opponent": "Lefkadas",
+     "opponent": "Doxa Lefkadas",
      "venue": "H",
      "date": "14.11. 15:00",
      "pf": 73,
@@ -1092,7 +1092,7 @@
     {
      "wl": "L",
      "score": "73:77",
-     "opponent": "Lefkadas",
+     "opponent": "Doxa Lefkadas",
      "venue": "H",
      "date": "14.11. 15:00",
      "pf": 73,
@@ -1608,7 +1608,7 @@
     {
      "wl": "W",
      "score": "83:87",
-     "opponent": "Lefkadas",
+     "opponent": "Doxa Lefkadas",
      "venue": "A",
      "date": "21.11. 15:00",
      "pf": 87,
@@ -1655,7 +1655,7 @@
     {
      "wl": "W",
      "score": "83:87",
-     "opponent": "Lefkadas",
+     "opponent": "Doxa Lefkadas",
      "venue": "A",
      "date": "21.11. 15:00",
      "pf": 87,
@@ -2620,7 +2620,7 @@
    "name": "Pardubice",
    "logo": "logos/1f2fb3cc995c.png",
    "league": "NBL",
-   "league_logo": "logos/d187bee6c341.png",
+   "league_logo": "logos/50067aa1be3f.png",
    "rank": 2,
    "record": "13-2",
    "last5": [
@@ -3103,7 +3103,7 @@
    "name": "Hapoel Holon",
    "logo": "logos/2844daeea498.png",
    "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
+   "league_logo": "logos/07d3791c1460.png",
    "rank": 12,
    "record": "2-5",
    "last5": [
@@ -3809,7 +3809,7 @@
    "name": "Slavia Prague ERA NBK",
    "logo": "logos/dd8dec9dd0ca.png",
    "league": "NBL",
-   "league_logo": "logos/d187bee6c341.png",
+   "league_logo": "logos/50067aa1be3f.png",
    "rank": 1,
    "record": "13-1",
    "last5": [
@@ -4298,12 +4298,12 @@
    "last5": [
     {
      "wl": "W",
-     "score": "83:75",
+     "score": "83:74",
      "opponent": "CD Povoa",
      "venue": "H",
      "date": "22.11. 18:30",
      "pf": 83,
-     "pa": 75
+     "pa": 74
     },
     {
      "wl": "W",
@@ -4345,12 +4345,12 @@
    "games": [
     {
      "wl": "W",
-     "score": "83:75",
+     "score": "83:74",
      "opponent": "CD Povoa",
      "venue": "H",
      "date": "22.11. 18:30",
      "pf": 83,
-     "pa": 75
+     "pa": 74
     },
     {
      "wl": "W",
@@ -4426,7 +4426,7 @@
    "name": "Bnei Herzliya",
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
+   "league_logo": "logos/07d3791c1460.png",
    "rank": 9,
    "record": "3-4",
    "last5": [
