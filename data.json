@@ -1,16 +1,25 @@
 {
  "title": "FIBA Champions League 2026-2027",
- "updated": "2026-11-22 19:13",
+ "updated": "2026-11-23 01:27",
  "comp_logo": "logos/a6f9e1a9f508.png",
  "teams": [
   {
    "name": "Rytas",
    "logo": "logos/da8b9d9ee9c8.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "league_logo": "logos/c5eddc9adb50.png",
    "rank": 3,
-   "record": "6-4",
+   "record": "7-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "87:84",
+     "opponent": "Juventus",
+     "venue": "H",
+     "date": "22.11. 17:10",
+     "pf": 87,
+     "pa": 84
+    },
     {
      "wl": "L",
      "score": "103:97",
@@ -46,18 +55,18 @@
      "date": "05.11. 16:50",
      "pf": 91,
      "pa": 87
-    },
-    {
-     "wl": "L",
-     "score": "89:94",
-     "opponent": "Zalgiris Kaunas",
-     "venue": "H",
-     "date": "02.11. 14:50",
-     "pf": 89,
-     "pa": 94
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "87:84",
+     "opponent": "Juventus",
+     "venue": "H",
+     "date": "22.11. 17:10",
+     "pf": 87,
+     "pa": 84
+    },
     {
      "wl": "L",
      "score": "103:97",
@@ -172,7 +181,7 @@
    "logo": "logos/d3bb36600b97.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 10,
+   "rank": 11,
    "record": "4-5",
    "last5": [
     {
@@ -315,7 +324,7 @@
    "logo": "logos/73df077a34e1.png",
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
-   "rank": 6,
+   "rank": 5,
    "record": "6-3",
    "last5": [
     {
@@ -744,7 +753,7 @@
    "logo": "logos/777e971c1e5c.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 5,
+   "rank": 6,
    "record": "5-4",
    "last5": [
     {
@@ -887,9 +896,18 @@
    "logo": "logos/b3e78bcc47c2.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 13,
-   "record": "3-4",
+   "rank": 12,
+   "record": "3-5",
    "last5": [
+    {
+     "wl": "L",
+     "score": "93:81",
+     "opponent": "Dabrowa Gornicza",
+     "venue": "A",
+     "date": "22.11. 18:30",
+     "pf": 81,
+     "pa": 93
+    },
     {
      "wl": "L",
      "score": "78:85",
@@ -925,18 +943,18 @@
      "date": "25.10. 14:00",
      "pf": 84,
      "pa": 74
-    },
-    {
-     "wl": "W",
-     "score": "73:72",
-     "opponent": "Anwil Wloclawek",
-     "venue": "H",
-     "date": "16.10. 18:15",
-     "pf": 73,
-     "pa": 72
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "93:81",
+     "opponent": "Dabrowa Gornicza",
+     "venue": "A",
+     "date": "22.11. 18:30",
+     "pf": 81,
+     "pa": 93
+    },
     {
      "wl": "L",
      "score": "78:85",
@@ -1861,9 +1879,18 @@
    "logo": "logos/b645af5d2f8d.png",
    "league": "Lega A",
    "league_logo": "logos/a535f34abeaf.png",
-   "rank": 6,
-   "record": "5-3",
+   "rank": 5,
+   "record": "6-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "96:71",
+     "opponent": "Venezia",
+     "venue": "H",
+     "date": "22.11. 18:00",
+     "pf": 96,
+     "pa": 71
+    },
     {
      "wl": "W",
      "score": "84:99",
@@ -1899,18 +1926,18 @@
      "date": "24.10. 18:00",
      "pf": 110,
      "pa": 103
-    },
-    {
-     "wl": "L",
-     "score": "87:85",
-     "opponent": "Trento",
-     "venue": "A",
-     "date": "18.10. 14:00",
-     "pf": 85,
-     "pa": 87
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "96:71",
+     "opponent": "Venezia",
+     "venue": "H",
+     "date": "22.11. 18:00",
+     "pf": 96,
+     "pa": 71
+    },
     {
      "wl": "W",
      "score": "84:99",
@@ -2432,10 +2459,19 @@
    "name": "Juventus",
    "logo": "logos/a5e67dc17035.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
-   "rank": 8,
-   "record": "3-7",
+   "league_logo": "logos/c5eddc9adb50.png",
+   "rank": 9,
+   "record": "3-8",
    "last5": [
+    {
+     "wl": "L",
+     "score": "87:84",
+     "opponent": "Rytas",
+     "venue": "A",
+     "date": "22.11. 17:10",
+     "pf": 84,
+     "pa": 87
+    },
     {
      "wl": "L",
      "score": "91:88",
@@ -2471,18 +2507,18 @@
      "date": "25.10. 14:50",
      "pf": 76,
      "pa": 94
-    },
-    {
-     "wl": "W",
-     "score": "100:90",
-     "opponent": "Gargzdai",
-     "venue": "H",
-     "date": "18.10. 13:50",
-     "pf": 100,
-     "pa": 90
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "87:84",
+     "opponent": "Rytas",
+     "venue": "A",
+     "date": "22.11. 17:10",
+     "pf": 84,
+     "pa": 87
+    },
     {
      "wl": "L",
      "score": "91:88",
@@ -3193,7 +3229,7 @@
    "logo": "logos/fc078fb0f685.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 10,
+   "rank": 11,
    "record": "4-6",
    "last5": [
     {
@@ -3963,8 +3999,17 @@
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
    "rank": 14,
-   "record": "3-5",
+   "record": "3-6",
    "last5": [
+    {
+     "wl": "L",
+     "score": "91:88",
+     "opponent": "Real Madrid",
+     "venue": "A",
+     "date": "22.11. 18:00",
+     "pf": 88,
+     "pa": 91
+    },
     {
      "wl": "W",
      "score": "99:94",
@@ -4000,18 +4045,18 @@
      "date": "25.10. 11:00",
      "pf": 87,
      "pa": 101
-    },
-    {
-     "wl": "W",
-     "score": "113:89",
-     "opponent": "Barcelona",
-     "venue": "H",
-     "date": "18.10. 17:00",
-     "pf": 113,
-     "pa": 89
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "91:88",
+     "opponent": "Real Madrid",
+     "venue": "A",
+     "date": "22.11. 18:00",
+     "pf": 88,
+     "pa": 91
+    },
     {
      "wl": "W",
      "score": "99:94",
@@ -4097,8 +4142,17 @@
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
    "rank": 4,
-   "record": "6-3",
+   "record": "7-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "89:72",
+     "opponent": "Ulm",
+     "venue": "H",
+     "date": "22.11. 17:30",
+     "pf": 89,
+     "pa": 72
+    },
     {
      "wl": "W",
      "score": "71:85",
@@ -4134,18 +4188,18 @@
      "date": "24.10. 18:00",
      "pf": 68,
      "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "115:68",
-     "opponent": "Jena",
-     "venue": "H",
-     "date": "09.10. 18:00",
-     "pf": 115,
-     "pa": 68
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "89:72",
+     "opponent": "Ulm",
+     "venue": "H",
+     "date": "22.11. 17:30",
+     "pf": 89,
+     "pa": 72
+    },
     {
      "wl": "W",
      "score": "71:85",
@@ -4239,9 +4293,18 @@
    "logo": "logos/332fca396adb.png",
    "league": "LPB",
    "league_logo": "logos/b924ca13583e.png",
-   "rank": 4,
-   "record": "6-1",
+   "rank": 1,
+   "record": "7-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "83:75",
+     "opponent": "CD Povoa",
+     "venue": "H",
+     "date": "22.11. 18:30",
+     "pf": 83,
+     "pa": 75
+    },
     {
      "wl": "W",
      "score": "65:93",
@@ -4277,18 +4340,18 @@
      "date": "25.10. 15:00",
      "pf": 93,
      "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "91:95",
-     "opponent": "Esgueira",
-     "venue": "A",
-     "date": "16.10. 20:00",
-     "pf": 95,
-     "pa": 91
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "83:75",
+     "opponent": "CD Povoa",
+     "venue": "H",
+     "date": "22.11. 18:30",
+     "pf": 83,
+     "pa": 75
+    },
     {
      "wl": "W",
      "score": "65:93",
@@ -4364,9 +4427,18 @@
    "logo": "logos/09e78b0bda6d.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 10,
-   "record": "2-4",
+   "rank": 9,
+   "record": "3-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "79:86",
+     "opponent": "Hapoel HaEmek",
+     "venue": "A",
+     "date": "22.11. 18:05",
+     "pf": 86,
+     "pa": 79
+    },
     {
      "wl": "L",
      "score": "78:71",
@@ -4402,18 +4474,18 @@
      "date": "26.10. 17:30",
      "pf": 96,
      "pa": 93
-    },
-    {
-     "wl": "W",
-     "score": "96:103",
-     "opponent": "Nes Ziona",
-     "venue": "A",
-     "date": "18.10. 17:15",
-     "pf": 103,
-     "pa": 96
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "79:86",
+     "opponent": "Hapoel HaEmek",
+     "venue": "A",
+     "date": "22.11. 18:05",
+     "pf": 86,
+     "pa": 79
+    },
     {
      "wl": "L",
      "score": "78:71",
